@@ -1,0 +1,501 @@
+employee_id,name,department,job_profile,job_level,grade,annual_salary,gender,minority_status,veteran,disability,age,age_group,hire_date,term_date,term_reason,term_category,manager_id,location,is_manager,highest_degree,tenure_years,exempt,grade_profile,time_in_job_years,leave_type,leave_start,leave_end,employee_type
+E00001,Avery Jones,Finance,VP,Entry,9,104183.69,Female,Non-Minority,Yes,No,28,Under 30,07/01/2012,,,,,Remote,1,None,11.5,1,Technical,5.4,Medical,05/03/2018,10/06/2018,Regular
+E00002,Emery Miller,Customer Service,VP,Professional,14,134752.73,Male,Minority,No,No,63,60+,02/07/2012,01/17/2015,Voluntary - Retirement,Voluntary,,Remote,1,Masters,11.9,1,Standard,5.8,None,,,Regular
+E00003,Kendall Allen,Communications,Senior Analyst,Entry,5,66629.25,Female,Non-Minority,No,No,49,40-49,03/28/2016,,,,,Midwest,1,Bachelors,7.8,1,Standard,2.2,None,,,Regular
+E00004,Hayden Brown,Human Resources,Specialist,Professional,6,83338.38,Male,Minority,No,No,44,40-49,07/20/2017,,,,,Remote,1,Bachelors,6.5,1,Standard,5.2,None,,,Regular
+E00005,Taylor Thompson,Human Resources,Senior Associate,Entry,11,122428.96,Female,Non-Minority,No,No,62,60+,01/10/2022,,,,,Remote,1,Bachelors,2.0,1,Technical,0.9,None,,,Regular
+E00006,Addison Davis,Communications,Administrator,Manager,14,137835.37,Male,Non-Minority,No,Yes,28,Under 30,07/24/2011,07/25/2012,Voluntary - Retirement,Voluntary,,West,1,Bachelors,12.4,1,Market Premium,8.4,None,,,Regular
+E00007,Jamie Robinson,Operations,Consultant,Entry,8,89300.94,Female,Minority,No,No,65,60+,03/08/2018,07/01/2020,Involuntary - Restructuring,Involuntary,,Northeast,1,Doctorate,5.8,1,Technical,1.5,Military,09/29/2020,03/04/2021,Regular
+E00008,Jamie Scott,Product,Senior Director,Senior Professional,11,121379.51,Male,Minority,Yes,No,57,50-59,08/31/2013,,,,,Southeast,1,Bachelors,10.3,0,Standard,2.9,None,,,Regular
+E00009,Hayden Rodriguez,Communications,Analyst II,Professional,10,106890.3,Male,Non-Minority,No,No,35,30-39,09/20/2010,,,,,Remote,1,Bachelors,13.3,1,Standard,9.2,None,,,Regular
+E00010,Casey Rodriguez,Research,Senior Analyst,Senior Professional,12,132417.03,Female,Minority,No,No,37,30-39,11/16/2018,,,,,Remote,1,Doctorate,5.1,0,Market Premium,4.3,None,,,Regular
+E00011,Avery Jones,IT,Senior Manager,Senior Professional,11,106138.32,Female,Minority,No,No,53,50-59,08/11/2019,,,,E00006,Northeast,1,None,4.4,0,Standard,1.2,None,,,Regular
+E00012,Hayden Thomas,Communications,Director,Manager,16,153494.77,Female,Minority,No,No,51,50-59,08/03/2013,,,,E00002,Remote,1,Bachelors,10.4,1,Technical,9.5,Personal,02/17/2018,06/17/2018,Regular
+E00013,Kendall Clark,Research,Specialist,Professional,13,122417.26,Male,Minority,Yes,No,29,Under 30,07/27/2012,,,,E00005,Midwest,1,Masters,11.4,1,Standard,5.7,None,,,Regular
+E00014,Elliot Brown,Customer Service,Administrator,Professional,7,89629.72,Female,Minority,No,No,62,60+,11/28/2015,,,,E00009,Midwest,1,Doctorate,8.1,1,Technical,2.1,None,,,Regular
+E00015,Elliot Smith,Communications,Director,Senior Professional,7,102713.64,Female,Non-Minority,No,No,42,40-49,05/22/2018,,,,E00009,West,1,None,5.6,0,Standard,5.7,Personal,06/13/2021,07/24/2021,Regular
+E00016,Sydney Martin,IT,Administrator,Manager,11,109538.69,Female,Non-Minority,No,No,26,Under 30,05/16/2015,07/06/2016,Voluntary - Retirement,Voluntary,E00002,Remote,1,Associates,8.6,1,Standard,6.2,None,,,Regular
+E00017,Parker Miller,Marketing,Consultant,Entry,9,99093.79,Male,Non-Minority,No,No,56,50-59,05/01/2022,,,,E00010,Southeast,1,Bachelors,1.7,0,Market Premium,2.2,Personal,03/10/2022,09/03/2022,Regular
+E00018,Avery Davis,Customer Service,Analyst II,Senior Professional,12,115089.76,Female,Minority,No,No,43,40-49,10/29/2019,,,,E00002,Northeast,1,Doctorate,4.2,0,Technical,1.5,None,,,Regular
+E00019,Avery Williams,Finance,Consultant,Manager,11,119177.08,Male,Non-Minority,No,No,24,Under 30,12/10/2014,,,,E00001,Midwest,1,None,9.1,0,Technical,2.7,None,,,Regular
+E00020,Sydney Scott,Sales,Consultant,Entry,13,122357.37,Male,Non-Minority,No,No,58,50-59,11/20/2020,,,,E00003,Remote,1,Masters,3.1,1,Standard,2.9,None,,,Regular
+E00021,Blake Moore,Sales,Senior Specialist,Senior Professional,6,82252.13,Male,Minority,No,Yes,51,50-59,02/17/2019,,,,E00007,Northeast,1,None,4.9,0,Standard,2.5,None,,,Regular
+E00022,Quinn Miller,Communications,Senior Manager,Manager,11,110661.64,Male,Non-Minority,No,No,50,40-49,08/11/2017,,,,E00004,Southeast,1,Masters,6.4,1,Standard,2.3,None,,,Regular
+E00023,Peyton King,Risk Management,Administrator,Professional,6,77316.02,Male,Non-Minority,No,No,57,50-59,08/09/2015,,,,E00008,Northeast,1,None,8.4,1,Technical,8.9,None,,,Regular
+E00024,Finley Miller,Marketing,Administrator,VP,16,151189.15,Male,Non-Minority,No,No,47,40-49,05/01/2010,11/14/2011,Voluntary - Retirement,Voluntary,E00008,Northeast,1,Associates,13.7,0,Market Premium,0.5,None,,,Regular
+E00025,Logan Walker,Engineering,Coordinator,Professional,12,127155.5,Female,Non-Minority,No,No,57,50-59,10/04/2018,,,,E00007,West,1,Associates,5.2,1,Standard,2.0,Parental,08/28/2018,02/05/2019,Regular
+E00026,Jordan Johnson,Supply Chain,Director,Manager,10,107282.69,Male,Non-Minority,No,No,52,50-59,12/28/2022,,,,E00006,Remote,1,Doctorate,1.0,1,Standard,0.6,None,,,Regular
+E00027,River Williams,Human Resources,Senior Director,Senior Professional,7,81977.92,Male,Non-Minority,No,No,37,30-39,05/23/2021,,,,E00002,West,1,None,2.6,1,Technical,1.1,None,,,Regular
+E00028,Rowan Anderson,Legal,Consultant,Senior Professional,14,140255.43,Female,Minority,No,No,38,30-39,05/03/2023,04/09/2024,Voluntary - Relocation,Voluntary,E00010,Southeast,1,Bachelors,0.7,1,Standard,0.7,None,,,Regular
+E00029,River White,Operations,Analyst II,Entry,6,73020.58,Male,Non-Minority,No,Yes,26,Under 30,12/08/2012,10/16/2016,Voluntary - Personal,Voluntary,E00008,Remote,1,Associates,11.1,1,Technical,3.4,None,,,Regular
+E00030,Sage Garcia,Human Resources,Manager,Professional,8,97530.54,Male,Minority,No,No,56,50-59,10/30/2017,,,,E00006,Midwest,1,Doctorate,6.2,1,Technical,3.8,None,,,Regular
+E00031,Jamie Brown,Engineering,Consultant,Director,11,119894.03,Female,Minority,No,No,28,Under 30,06/10/2022,,,,E00003,Remote,1,Associates,1.6,1,Market Premium,1.0,None,,,Regular
+E00032,Skyler Clark,Supply Chain,Administrator,Senior Professional,10,114228.09,Female,Non-Minority,No,No,38,30-39,09/22/2014,,,,E00004,Remote,1,Masters,9.3,0,Market Premium,8.9,None,,,Regular
+E00033,Jordan Smith,Human Resources,Specialist,Senior Professional,11,125645.27,Male,Non-Minority,No,No,30,Under 30,02/21/2011,,,,E00005,Midwest,1,Associates,12.9,1,Technical,6.2,None,,,Regular
+E00034,Charlie Robinson,Customer Service,Consultant,Senior Professional,5,77872.9,Male,Minority,No,No,31,30-39,08/05/2019,,,,E00002,Remote,1,None,4.4,0,Market Premium,3.1,None,,,Regular
+E00035,Sage Taylor,Legal,Consultant,Professional,7,89301.76,Female,Non-Minority,No,No,24,Under 30,04/28/2013,,,,E00001,Midwest,1,Associates,10.7,1,Technical,3.2,None,,,Regular
+E00036,River Walker,Operations,Senior Analyst,Professional,13,129128.01,Male,Minority,No,No,37,30-39,04/22/2012,,,,E00007,Southeast,1,Associates,11.7,1,Market Premium,0.8,None,,,Regular
+E00037,Hayden King,Engineering,Analyst I,Senior Professional,7,87926.14,Female,Non-Minority,No,No,52,50-59,06/14/2017,07/24/2022,Voluntary - Retirement,Voluntary,E00002,Southeast,1,Associates,6.5,0,Market Premium,2.8,None,,,Regular
+E00038,Hayden Anderson,Sales,Senior Associate,Professional,5,72572.64,Female,Minority,No,No,26,Under 30,02/08/2015,,,,E00004,Midwest,1,Bachelors,8.9,0,Technical,5.0,Military,09/18/2021,01/01/2022,Regular
+E00039,Morgan Harris,Marketing,Senior Specialist,Manager,14,140470.37,Male,Non-Minority,No,No,44,40-49,08/15/2010,05/28/2012,Involuntary - Performance,Involuntary,E00001,Midwest,1,Masters,13.4,1,Technical,13.7,None,,,Regular
+E00040,Jamie Johnson,Legal,VP,Entry,14,143531.14,Male,Non-Minority,No,No,49,40-49,08/05/2012,,,,E00004,Northeast,1,Doctorate,11.4,1,Technical,8.3,None,,,Regular
+E00041,Drew Lewis,Human Resources,Administrator,Manager,15,139900.44,Male,Minority,No,Yes,29,Under 30,06/03/2014,12/30/2018,Voluntary - Return to School,Voluntary,E00010,Midwest,1,Doctorate,9.6,1,Market Premium,6.9,None,,,Regular
+E00042,Parker Lewis,Customer Service,Senior Specialist,Senior Professional,7,91441.35,Female,Minority,No,No,65,60+,04/26/2017,04/28/2022,Involuntary - Performance,Involuntary,E00004,Southeast,1,Doctorate,6.7,1,Technical,2.5,None,,,Regular
+E00043,River Clark,Engineering,Specialist,Professional,8,90290.79,Male,Non-Minority,No,No,51,50-59,04/16/2022,10/14/2022,Involuntary - Performance,Involuntary,E00010,West,1,Masters,1.7,1,Technical,0.9,Family Care,04/23/2023,09/01/2023,Regular
+E00044,Skyler Clark,Research,Director,Senior Professional,6,85618.16,Female,Minority,No,No,43,40-49,10/22/2013,,,,E00009,Northeast,1,Associates,10.2,1,Technical,3.7,Parental,03/26/2020,07/27/2020,Regular
+E00045,Finley Harris,Finance,Administrator,Manager,10,108241.88,Male,Minority,No,No,26,Under 30,04/22/2013,,,,E00004,West,1,Masters,10.7,0,Technical,6.7,None,,,Regular
+E00046,Casey Clark,Product,VP,Professional,11,116123.76,Male,Non-Minority,Yes,No,22,Under 30,08/12/2018,,,,E00004,Northeast,1,Masters,5.4,0,Standard,1.4,None,,,Regular
+E00047,Avery Scott,Product,Administrator,Professional,5,77059.84,Male,Non-Minority,No,No,29,Under 30,08/14/2021,,,,E00009,West,1,Associates,2.4,1,Market Premium,2.1,None,,,Regular
+E00048,River Young,IT,VP,Senior Professional,10,114905.15,Female,Non-Minority,Yes,No,54,50-59,07/15/2022,,,,E00008,West,1,Doctorate,1.5,1,Market Premium,1.8,None,,,Regular
+E00049,Marley Clark,Product,Senior Associate,Director,14,132437.75,Male,Non-Minority,No,Yes,55,50-59,08/24/2020,,,,E00004,West,1,Associates,3.4,0,Market Premium,2.0,None,,,Regular
+E00050,Charlie Thompson,Sales,Analyst II,Entry,9,106858.04,Male,Non-Minority,No,No,30,Under 30,05/29/2016,,,,E00006,Southeast,1,Associates,7.6,1,Market Premium,5.8,Parental,05/26/2020,07/05/2020,Regular
+E00051,Emery Jackson,Legal,Senior Specialist,Entry,11,118234.24,Female,Non-Minority,No,No,25,Under 30,06/11/2011,,,,E00022,Southeast,1,Masters,12.6,1,Market Premium,11.9,None,,,Regular
+E00052,Reese Thomas,Supply Chain,Manager,Manager,10,94338.5,Male,Non-Minority,Yes,Yes,22,Under 30,02/06/2023,,,,E00049,Midwest,0,Bachelors,0.9,1,Market Premium,1.3,None,,,Regular
+E00053,Charlie Davis,Customer Service,Manager,Senior Professional,13,112567.93,Male,Non-Minority,No,No,36,30-39,05/26/2019,,,,E00039,Midwest,0,Masters,4.6,1,Market Premium,0.6,None,,,Regular
+E00054,River Thompson,Risk Management,Analyst I,Senior Manager,17,161917.47,Female,Minority,No,No,47,40-49,07/16/2017,07/26/2022,Voluntary - Career Change,Voluntary,E00009,Remote,1,Doctorate,6.5,0,Technical,0.7,None,,,Regular
+E00055,Jamie Thomas,Marketing,Specialist,Entry,12,113388.38,Male,Non-Minority,No,No,35,30-39,08/13/2019,,,,E00004,West,0,Bachelors,4.4,1,Market Premium,3.8,Medical,04/02/2022,05/28/2022,Regular
+E00056,Finley Smith,Communications,VP,Professional,11,105857.85,Male,Non-Minority,Yes,No,56,50-59,03/29/2016,,,,E00006,Northeast,0,Bachelors,7.8,1,Standard,5.6,Parental,06/14/2018,08/13/2018,Regular
+E00057,River Jones,Sales,Associate,Manager,13,101857.19,Male,Minority,No,No,30,Under 30,09/12/2010,,,,E00002,West,0,None,13.3,1,Technical,13.1,None,,,Regular
+E00058,Sydney Robinson,Marketing,Analyst II,Professional,14,122982.03,Male,Non-Minority,No,No,32,30-39,06/06/2020,10/18/2023,Involuntary - Restructuring,Involuntary,E00039,Midwest,0,None,3.6,1,Technical,0.6,None,,,Regular
+E00059,Logan Miller,IT,Analyst II,Entry,11,103438.37,Female,Non-Minority,No,No,59,50-59,12/30/2016,,,,E00026,Southeast,0,None,7.0,1,Technical,5.9,None,,,Regular
+E00060,Blake Thompson,Communications,Senior Specialist,Entry,6,65218.13,Female,Minority,No,No,64,60+,06/20/2023,,,,E00003,Midwest,0,None,0.5,1,Technical,0.8,Personal,02/21/2018,07/25/2018,Regular
+E00061,Cameron Wright,Human Resources,Administrator,Entry,11,102069.9,Female,Non-Minority,No,No,51,50-59,06/04/2019,,,,E00024,Southeast,0,Masters,4.6,0,Standard,3.9,None,,,Regular
+E00062,Finley Jackson,IT,Senior Specialist,Professional,13,101490.39,Male,Non-Minority,No,No,59,50-59,01/22/2016,,,,E00050,Midwest,0,Bachelors,7.9,1,Standard,7.1,None,,,Regular
+E00063,River Lewis,Sales,Senior Specialist,VP,17,136537.76,Female,Minority,No,No,43,40-49,12/11/2011,07/25/2015,Voluntary - Personal,Voluntary,E00037,Northeast,0,Masters,12.1,0,Market Premium,2.7,None,,,Regular
+E00064,Jamie Wright,Operations,Director,Entry,9,88322.4,Female,Minority,No,No,39,30-39,10/04/2014,,,,E00022,Remote,0,None,9.2,1,Technical,9.2,None,,,Regular
+E00065,Emery Hall,Sales,Associate,Entry,11,100048.31,Female,Non-Minority,No,No,52,50-59,12/03/2011,,,,E00032,West,0,Masters,12.1,1,Standard,1.6,None,,,Regular
+E00066,Reese Taylor,Legal,Manager,Professional,8,80564.37,Female,Non-Minority,No,No,57,50-59,12/21/2014,,,,E00043,Remote,0,Bachelors,9.0,1,Market Premium,9.5,Parental,09/16/2021,01/10/2022,Regular
+E00067,Morgan Walker,Engineering,Associate,Professional,9,84462.18,Female,Non-Minority,No,No,42,40-49,11/22/2017,06/22/2023,Involuntary - Performance,Involuntary,E00015,Northeast,0,Doctorate,6.1,0,Technical,1.6,None,,,Regular
+E00068,Sydney White,Supply Chain,Coordinator,Entry,12,126174.32,Female,Non-Minority,No,No,55,50-59,11/08/2014,,,,E00018,Remote,1,Bachelors,9.1,1,Standard,8.1,None,,,Regular
+E00069,Sage Smith,Sales,VP,Senior Professional,10,83294.52,Female,Minority,No,No,56,50-59,08/23/2016,,,,E00012,Southeast,0,Bachelors,7.4,1,Standard,7.7,None,,,Regular
+E00070,Addison Hall,Engineering,Manager,Professional,7,92708.21,Female,Minority,No,No,28,Under 30,05/31/2022,,,,E00041,Northeast,1,Doctorate,1.6,1,Market Premium,1.3,None,,,Regular
+E00071,Morgan Young,Finance,Analyst II,Senior Professional,9,85980.07,Female,Non-Minority,No,No,47,40-49,11/18/2019,03/11/2024,Voluntary - Career Change,Voluntary,E00031,West,0,None,4.1,1,Technical,3.1,None,,,Regular
+E00072,Avery Brown,Communications,Senior Manager,Professional,14,116837.21,Male,Non-Minority,No,No,48,40-49,03/16/2011,05/25/2013,Voluntary - Career Change,Voluntary,E00006,Remote,0,Doctorate,12.8,1,Technical,3.4,Parental,11/11/2023,04/02/2024,Regular
+E00073,Sage White,Engineering,Director,Entry,14,113959.57,Female,Non-Minority,No,No,25,Under 30,07/14/2018,01/29/2024,Voluntary - Personal,Voluntary,E00028,Remote,0,None,5.5,1,Standard,3.9,None,,,Regular
+E00074,Riley Thompson,Research,Analyst II,Senior Professional,6,74854.33,Female,Non-Minority,No,No,32,30-39,12/08/2015,,,,E00016,Northeast,0,Masters,8.1,1,Market Premium,6.1,Medical,04/09/2023,07/18/2023,Regular
+E00075,Sage Robinson,Finance,Administrator,Senior Professional,8,84241.1,Female,Non-Minority,No,No,51,50-59,07/13/2016,,,,E00046,Northeast,0,Associates,7.5,1,Market Premium,6.4,Parental,03/21/2020,05/14/2020,Regular
+E00076,Taylor Johnson,Research,Senior Analyst,Manager,12,104449.92,Female,Non-Minority,No,No,41,40-49,07/15/2019,04/25/2021,Voluntary - Retirement,Voluntary,E00010,Remote,0,Doctorate,4.5,1,Market Premium,2.5,Parental,04/04/2023,09/01/2023,Regular
+E00077,Rowan Thompson,Supply Chain,Manager,Manager,16,137582.05,Male,Minority,No,No,50,40-49,10/27/2016,,,,E00018,Northeast,0,Doctorate,7.2,0,Standard,6.9,None,,,Regular
+E00078,Taylor Davis,IT,Senior Director,Senior Professional,9,102217.86,Male,Non-Minority,Yes,No,58,50-59,03/25/2017,,,,E00002,Remote,0,None,6.8,1,Technical,6.1,None,,,Regular
+E00079,Rowan Clark,Finance,Manager,Senior Professional,7,81996.41,Male,Non-Minority,No,No,39,30-39,12/04/2022,,,,E00031,Southeast,1,Doctorate,1.1,1,Market Premium,1.2,None,,,Regular
+E00080,Drew Lewis,Operations,Analyst II,Director,16,133619.76,Male,Non-Minority,Yes,No,32,30-39,01/11/2021,07/18/2022,Voluntary - Personal,Voluntary,E00022,Midwest,0,Masters,3.0,1,Technical,2.0,None,,,Regular
+E00081,Dakota Williams,Risk Management,Specialist,Professional,13,113154.34,Female,Minority,No,No,38,30-39,12/25/2018,,,,E00003,Midwest,0,None,5.0,1,Market Premium,4.8,None,,,Regular
+E00082,Parker Johnson,Research,Associate,Professional,13,115390.91,Female,Minority,Yes,No,55,50-59,01/10/2010,,,,E00030,Midwest,0,Doctorate,14.0,0,Market Premium,9.3,None,,,Regular
+E00083,Elliot Martinez,Sales,Manager,Senior Professional,9,89043.94,Male,Minority,No,No,53,50-59,02/27/2011,,,,E00009,Northeast,0,None,12.8,1,Technical,8.3,Personal,09/07/2020,02/21/2021,Regular
+E00084,Emery Moore,Engineering,Analyst II,Entry,13,114018.86,Female,Minority,No,No,36,30-39,07/21/2013,,,,E00001,Northeast,0,Masters,10.4,1,Standard,7.2,None,,,Regular
+E00085,Marley Martin,Customer Service,Manager,Professional,9,88793.63,Male,Minority,No,Yes,37,30-39,06/15/2013,07/15/2019,Involuntary - Performance,Involuntary,E00027,West,0,Doctorate,10.5,0,Standard,4.5,None,,,Regular
+E00086,Kendall Allen,Customer Service,Administrator,Manager,12,101354.74,Male,Non-Minority,No,No,48,40-49,06/12/2023,,,,E00018,Midwest,0,Doctorate,0.6,0,Market Premium,1.0,None,,,Regular
+E00087,Reese Lewis,Supply Chain,Manager,Manager,14,122205.07,Male,Minority,No,No,31,30-39,05/06/2016,,,,E00038,West,0,Doctorate,7.7,0,Market Premium,3.2,None,,,Regular
+E00088,Dakota Scott,Communications,Specialist,Entry,13,123344.65,Male,Minority,No,No,34,30-39,05/19/2022,,,,E00025,Southeast,0,Doctorate,1.6,1,Market Premium,0.9,None,,,Regular
+E00089,Finley Robinson,Finance,Consultant,Entry,10,100441.21,Male,Minority,No,No,46,40-49,03/20/2019,,,,E00048,West,0,Associates,4.8,1,Market Premium,5.1,None,,,Regular
+E00090,Addison King,Customer Service,Manager,Director,15,128361.29,Female,Non-Minority,No,No,28,Under 30,10/31/2012,,,,E00007,Remote,0,Masters,11.2,1,Standard,8.6,None,,,Regular
+E00091,Finley Allen,Risk Management,Senior Associate,Entry,7,78865.41,Male,Minority,No,No,43,40-49,03/13/2019,,,,E00005,Remote,0,Masters,4.8,0,Technical,0.9,None,,,Regular
+E00092,Logan Wright,Risk Management,Coordinator,Senior Manager,16,156482.63,Female,Non-Minority,No,No,53,50-59,05/15/2017,,,,E00041,Remote,1,None,6.6,1,Technical,1.0,Parental,03/23/2021,07/28/2021,Regular
+E00093,Morgan Hall,Supply Chain,Senior Director,Senior Professional,6,65016.45,Female,Minority,No,No,28,Under 30,02/07/2015,,,,E00028,West,0,Associates,8.9,1,Technical,3.2,None,,,Regular
+E00094,Sage Taylor,Finance,Specialist,Senior Professional,10,95895.18,Female,Non-Minority,Yes,No,49,40-49,08/26/2010,,,,E00004,Southeast,0,Associates,13.3,1,Technical,6.0,None,,,Regular
+E00095,Addison Thomas,Marketing,Director,Professional,7,78212.6,Female,Non-Minority,No,No,65,60+,01/15/2014,,,,E00040,Southeast,0,Masters,10.0,1,Technical,1.9,None,,,Regular
+E00096,Charlie Martinez,Engineering,Senior Director,Entry,5,69042.6,Female,Minority,No,No,56,50-59,05/05/2020,09/07/2023,Voluntary - Personal,Voluntary,E00030,Southeast,0,None,3.7,0,Market Premium,4.0,None,,,Regular
+E00097,Jamie Jackson,Engineering,Administrator,Senior Professional,11,104052.93,Male,Non-Minority,No,No,41,40-49,03/07/2023,,,,E00045,Southeast,0,Masters,0.8,1,Market Premium,0.6,None,,,Regular
+E00098,Hayden Rodriguez,Supply Chain,Analyst I,Senior Professional,9,90038.44,Female,Non-Minority,No,No,58,50-59,07/22/2018,01/27/2023,Involuntary - Performance,Involuntary,E00043,Northeast,0,Doctorate,5.4,0,Technical,3.2,None,,,Regular
+E00099,Jamie Lewis,Sales,Coordinator,Professional,8,100396.4,Male,Minority,No,No,64,60+,06/02/2016,06/29/2019,Involuntary - Restructuring,Involuntary,E00040,Southeast,1,None,7.6,0,Technical,5.4,None,,,Regular
+E00100,Blake Walker,Communications,Senior Analyst,Entry,12,113472.83,Male,Minority,No,No,27,Under 30,12/05/2016,,,,E00038,Midwest,0,Bachelors,7.1,1,Technical,3.5,None,,,Regular
+E00101,Rowan Lee,Marketing,Consultant,Senior Professional,13,136076.51,Female,Non-Minority,No,No,39,30-39,07/03/2014,,,,E00024,Southeast,1,Bachelors,9.5,1,Market Premium,9.7,None,,,Regular
+E00102,Dakota Williams,Supply Chain,Senior Analyst,Professional,10,102266.92,Male,Non-Minority,No,No,36,30-39,08/14/2016,,,,E00008,West,0,Doctorate,7.4,0,Market Premium,1.2,None,,,Regular
+E00103,Morgan Jackson,Finance,Specialist,Professional,9,88088.38,Female,Minority,No,No,65,60+,11/07/2018,,,,E00035,Midwest,0,Doctorate,5.1,1,Market Premium,4.7,None,,,Regular
+E00104,Drew Scott,Product,Director,Director,10,105432.59,Female,Non-Minority,No,No,36,30-39,05/02/2018,01/15/2020,Voluntary - Retirement,Voluntary,E00036,Northeast,1,Masters,5.7,1,Technical,2.2,Personal,07/31/2022,11/12/2022,Regular
+E00105,Finley Brown,Marketing,Analyst II,Professional,5,62005.38,Male,Non-Minority,No,No,37,30-39,08/13/2012,,,,E00020,Remote,0,Associates,11.4,0,Market Premium,5.7,None,,,Regular
+E00106,Cameron Brown,IT,Administrator,Professional,7,81801.97,Male,Non-Minority,No,No,53,50-59,02/12/2022,,,,E00027,Remote,1,Masters,1.9,1,Market Premium,0.6,None,,,Regular
+E00107,Avery King,Sales,Specialist,Entry,12,109055.08,Female,Minority,No,No,28,Under 30,04/24/2018,,,,E00029,Midwest,0,Doctorate,5.7,1,Technical,2.5,None,,,Regular
+E00108,Addison Young,Engineering,Manager,Professional,8,79008.51,Male,Non-Minority,No,No,27,Under 30,12/06/2018,,,,E00008,Southeast,0,Doctorate,5.1,1,Standard,0.8,None,,,Regular
+E00109,Quinn Williams,Sales,Administrator,Professional,7,81585.12,Female,Minority,No,No,57,50-59,06/25/2017,,,,E00037,Southeast,0,Doctorate,6.5,1,Standard,5.8,None,,,Regular
+E00110,Addison Jones,Communications,Senior Analyst,Manager,10,112870.79,Male,Minority,No,No,56,50-59,03/24/2015,05/27/2019,Voluntary - Career Change,Voluntary,E00018,Midwest,1,Associates,8.8,1,Standard,6.3,None,,,Regular
+E00111,Drew Smith,Operations,Senior Analyst,Professional,8,83733.57,Male,Non-Minority,No,No,38,30-39,07/31/2010,07/19/2012,Voluntary - New Opportunity,Voluntary,E00038,Northeast,0,Associates,13.4,1,Technical,6.1,None,,,Regular
+E00112,Dakota Hall,Supply Chain,Specialist,Senior Professional,6,71232.18,Male,Non-Minority,No,No,54,50-59,07/20/2012,,,,E00031,Remote,0,None,11.4,1,Market Premium,6.2,None,,,Regular
+E00113,Dakota Clark,Finance,Analyst I,Professional,13,113741.17,Male,Minority,No,No,25,Under 30,10/18/2023,,,,E00020,West,0,Masters,0.2,1,Market Premium,0.6,None,,,Regular
+E00114,Drew Harris,Supply Chain,Senior Analyst,Entry,12,111094.2,Female,Minority,No,No,26,Under 30,12/30/2020,,,,E00006,Southeast,0,Bachelors,3.0,1,Technical,2.4,None,,,Regular
+E00115,River Lee,Supply Chain,Senior Associate,Senior Manager,15,124400.8,Male,Minority,No,No,51,50-59,04/20/2022,,,,E00025,Remote,0,Doctorate,1.7,1,Market Premium,0.7,None,,,Regular
+E00116,Dakota Wright,Risk Management,Associate,Manager,13,115861.91,Female,Minority,No,No,48,40-49,07/26/2012,,,,E00028,Midwest,0,Masters,11.4,1,Market Premium,5.2,None,,,Regular
+E00117,Skyler Rodriguez,Operations,Specialist,Professional,11,102216.7,Female,Non-Minority,No,No,31,30-39,02/18/2012,,,,E00021,West,0,None,11.9,0,Standard,10.4,None,,,Regular
+E00118,Sydney Taylor,Legal,Coordinator,Senior Professional,6,84276.33,Male,Non-Minority,No,No,30,Under 30,02/03/2012,,,,E00048,Remote,1,None,11.9,1,Technical,11.9,None,,,Regular
+E00119,Addison Lewis,Operations,Coordinator,Professional,6,86172.61,Female,Minority,No,No,49,40-49,08/07/2022,,,,E00023,Northeast,1,Bachelors,1.4,0,Technical,0.9,Family Care,03/01/2019,06/03/2019,Regular
+E00120,Finley Davis,Customer Service,Administrator,Professional,8,86383.3,Female,Minority,Yes,No,28,Under 30,12/18/2022,,,,E00043,Midwest,0,Doctorate,1.0,1,Market Premium,0.6,Medical,02/15/2021,07/19/2021,Regular
+E00121,Kendall Young,Communications,Director,Entry,11,97430.59,Male,Minority,No,No,61,60+,11/17/2022,,,,E00036,Remote,0,None,1.1,1,Technical,1.5,None,,,Regular
+E00122,Logan Hall,Finance,Senior Associate,Entry,7,77188.3,Male,Non-Minority,Yes,No,43,40-49,12/31/2015,,,,E00018,Midwest,0,None,8.0,1,Standard,7.5,None,,,Regular
+E00123,Alex Williams,Human Resources,VP,Professional,7,74775.08,Female,Non-Minority,No,No,55,50-59,09/14/2022,,,,E00041,Southeast,0,Masters,1.3,0,Market Premium,1.1,Military,10/07/2019,01/12/2020,Regular
+E00124,Reese Harris,Engineering,Analyst II,Senior Professional,10,99009.57,Male,Minority,No,No,25,Under 30,04/20/2018,,,,E00050,Southeast,0,Associates,5.7,1,Technical,0.8,None,,,Regular
+E00125,Finley Harris,Engineering,Manager,Senior Manager,17,137989.55,Male,Non-Minority,Yes,No,48,40-49,10/31/2011,,,,E00028,Midwest,0,Associates,12.2,0,Technical,1.9,Military,10/27/2022,02/13/2023,Regular
+E00126,Rowan Lewis,Engineering,Senior Associate,Senior Professional,14,133031.65,Male,Minority,No,No,24,Under 30,06/27/2012,,,,E00032,Southeast,1,Masters,11.5,0,Technical,1.1,None,,,Regular
+E00127,Jamie Martinez,Engineering,Specialist,Professional,8,84057.97,Male,Non-Minority,No,No,29,Under 30,08/02/2014,,,,E00049,Northeast,0,Masters,9.4,1,Technical,4.5,Medical,06/14/2019,10/11/2019,Regular
+E00128,Emery Young,Customer Service,Senior Director,Entry,8,93008.69,Male,Non-Minority,No,No,44,40-49,07/12/2018,,,,E00033,Northeast,0,Masters,5.5,1,Technical,0.7,None,,,Regular
+E00129,Parker White,Risk Management,Senior Specialist,Senior Professional,10,88217.14,Female,Minority,No,No,62,60+,06/03/2010,01/26/2016,Voluntary - Relocation,Voluntary,E00037,West,0,Bachelors,13.6,1,Standard,6.0,None,,,Regular
+E00130,Marley Robinson,Marketing,Consultant,Professional,14,138898.58,Female,Minority,No,No,45,40-49,04/14/2017,,,,E00030,Northeast,1,Masters,6.7,1,Standard,2.1,None,,,Regular
+E00131,Addison Martinez,Customer Service,VP,Manager,11,92189.92,Male,Minority,No,No,43,40-49,03/18/2023,,,,E00026,Southeast,0,Bachelors,0.8,1,Standard,0.6,None,,,Regular
+E00132,Blake Taylor,Customer Service,VP,Manager,13,108338.51,Female,Minority,No,No,63,60+,07/23/2012,,,,E00050,Southeast,0,Associates,11.4,0,Standard,2.2,None,,,Regular
+E00133,Kendall Clark,Marketing,Analyst II,Manager,12,107233.99,Female,Minority,No,No,33,30-39,06/05/2014,,,,E00049,West,0,Masters,9.6,0,Technical,7.8,None,,,Regular
+E00134,Drew Jones,Research,Manager,Manager,15,121124.03,Female,Minority,Yes,No,26,Under 30,01/26/2020,,,,E00041,West,0,Masters,3.9,1,Technical,1.7,None,,,Regular
+E00135,Rowan Williams,IT,Senior Associate,Professional,5,79867.25,Male,Minority,No,No,51,50-59,02/29/2016,,,,E00023,West,1,None,7.8,0,Standard,3.4,None,,,Regular
+E00136,River Lee,Human Resources,Senior Specialist,Professional,6,80570.16,Female,Non-Minority,No,No,51,50-59,06/09/2016,,,,E00040,Remote,0,Doctorate,7.6,1,Technical,7.3,None,,,Regular
+E00137,Drew Harris,Communications,Manager,Senior Professional,14,124253.27,Male,Non-Minority,No,No,54,50-59,02/02/2020,,,,E00013,Southeast,0,None,3.9,1,Market Premium,0.9,Military,11/07/2021,05/02/2022,Regular
+E00138,Avery Robinson,Customer Service,Manager,Senior Professional,7,73228.62,Female,Non-Minority,Yes,No,50,40-49,11/22/2011,,,,E00003,Remote,0,Doctorate,12.1,1,Technical,2.4,None,,,Regular
+E00139,Kendall Anderson,Engineering,Senior Director,Professional,11,105820.44,Male,Non-Minority,No,No,60,50-59,05/13/2018,,,,E00027,Northeast,0,Bachelors,5.6,1,Standard,2.3,None,,,Regular
+E00140,Jamie Walker,Research,Administrator,Professional,11,101077.9,Male,Non-Minority,No,No,64,60+,07/07/2022,,,,E00019,Remote,0,Associates,1.5,1,Market Premium,0.6,None,,,Regular
+E00141,Logan Lewis,Operations,Senior Specialist,Senior Manager,14,124049.09,Female,Non-Minority,No,No,30,Under 30,03/04/2013,,,,E00042,Remote,0,None,10.8,1,Market Premium,6.5,None,,,Regular
+E00142,Logan Young,Risk Management,VP,Entry,7,68773.01,Female,Non-Minority,No,No,65,60+,05/14/2017,,,,E00043,Remote,0,None,6.6,1,Technical,4.9,None,,,Regular
+E00143,Sage Garcia,Operations,Associate,Manager,10,110866.85,Male,Non-Minority,No,No,43,40-49,05/28/2021,,,,E00024,West,1,Associates,2.6,1,Standard,3.1,None,,,Regular
+E00144,Rowan Hall,Human Resources,Senior Manager,Entry,9,84000.63,Female,Minority,No,No,55,50-59,06/23/2013,,,,E00007,Northeast,0,Bachelors,10.5,1,Technical,1.9,None,,,Regular
+E00145,Marley Robinson,Marketing,Coordinator,Entry,7,79755.19,Female,Non-Minority,No,No,61,60+,06/14/2018,,,,E00012,Southeast,0,Masters,5.5,1,Standard,2.8,None,,,Regular
+E00146,Emery Davis,Communications,Senior Associate,Professional,12,107318.44,Female,Non-Minority,No,No,52,50-59,04/30/2015,10/19/2020,Involuntary - Performance,Involuntary,E00015,Southeast,0,Bachelors,8.7,1,Technical,8.7,None,,,Regular
+E00147,Hayden Lee,Product,Senior Manager,Manager,14,119023.11,Male,Minority,No,No,48,40-49,11/19/2019,,,,E00050,Southeast,0,Associates,4.1,0,Technical,1.1,None,,,Regular
+E00148,Emery Scott,Finance,Analyst II,Entry,12,117725.75,Male,Non-Minority,No,No,55,50-59,08/11/2015,,,,E00024,Northeast,0,Bachelors,8.4,1,Standard,6.9,None,,,Regular
+E00149,Taylor Scott,Product,Associate,Manager,12,114066.72,Female,Minority,No,No,50,40-49,02/13/2016,,,,E00028,Midwest,0,None,7.9,1,Market Premium,0.9,None,,,Regular
+E00150,Taylor Taylor,Operations,Associate,Manager,13,118520.25,Female,Non-Minority,No,No,23,Under 30,04/05/2021,,,,E00025,Midwest,0,None,2.7,1,Technical,2.3,None,,,Regular
+E00151,Logan Young,Marketing,Senior Analyst,Entry,5,59898.19,Male,Minority,No,No,52,50-59,04/11/2013,,,,E00031,West,0,Doctorate,10.7,1,Standard,10.2,Parental,03/19/2018,07/21/2018,Regular
+E00152,Sydney Harris,Sales,Senior Manager,Entry,7,90700.83,Female,Non-Minority,No,No,49,40-49,09/28/2015,,,,E00036,Northeast,1,Bachelors,8.3,1,Standard,3.0,None,,,Regular
+E00153,Dakota Williams,Sales,Analyst II,Senior Professional,11,101380.03,Male,Non-Minority,No,No,53,50-59,01/27/2011,,,,E00040,Remote,0,Doctorate,12.9,1,Standard,8.7,Military,09/17/2020,12/22/2020,Regular
+E00154,River Taylor,Engineering,Associate,Manager,16,134045.69,Female,Non-Minority,No,No,58,50-59,03/22/2013,,,,E00001,West,0,Associates,10.8,0,Technical,7.7,None,,,Regular
+E00155,Jordan Clark,Human Resources,Senior Specialist,Director,10,96966.59,Male,Non-Minority,No,No,45,40-49,09/28/2021,,,,E00031,Midwest,0,None,2.3,1,Market Premium,2.3,Family Care,11/13/2021,05/01/2022,Regular
+E00156,Kendall Anderson,Supply Chain,Senior Analyst,Entry,6,64343.84,Male,Non-Minority,No,No,24,Under 30,05/30/2015,,,,E00048,Midwest,0,Doctorate,8.6,1,Market Premium,7.5,Personal,12/19/2019,03/03/2020,Regular
+E00157,Riley Allen,Supply Chain,Senior Analyst,Professional,12,111192.45,Female,Non-Minority,No,No,26,Under 30,06/03/2020,,,,E00041,West,0,None,3.6,1,Market Premium,1.2,None,,,Regular
+E00158,Marley Thompson,Engineering,Manager,Senior Professional,13,114608.49,Female,Non-Minority,No,No,38,30-39,06/23/2014,06/09/2015,Involuntary - Restructuring,Involuntary,E00026,Northeast,0,Associates,9.5,1,Market Premium,3.9,None,,,Regular
+E00159,Sydney Jackson,Human Resources,Consultant,Manager,15,127373.49,Female,Non-Minority,No,No,46,40-49,01/27/2011,04/15/2015,Involuntary - Performance,Involuntary,E00026,Midwest,0,Associates,12.9,1,Market Premium,9.4,Family Care,02/13/2022,07/21/2022,Regular
+E00160,Parker Williams,Engineering,Senior Specialist,Entry,6,69473.88,Male,Non-Minority,Yes,Yes,60,50-59,08/24/2021,,,,E00047,Southeast,0,Doctorate,2.4,0,Market Premium,1.3,None,,,Regular
+E00161,Dakota Harris,Operations,VP,Senior Professional,9,90991.07,Male,Non-Minority,No,No,49,40-49,10/18/2011,,,,E00020,Southeast,1,Masters,12.2,0,Market Premium,6.0,None,,,Regular
+E00162,Peyton Johnson,IT,Analyst II,Professional,11,108453.63,Male,Non-Minority,No,No,64,60+,11/28/2017,,,,E00041,West,0,Bachelors,6.1,1,Technical,5.4,Parental,10/18/2019,03/19/2020,Regular
+E00163,Jordan Jones,Marketing,Analyst II,Professional,14,117305.7,Male,Minority,No,No,37,30-39,09/13/2010,,,,E00029,Midwest,0,Bachelors,13.3,1,Market Premium,13.1,Military,05/13/2018,07/20/2018,Regular
+E00164,Blake Jackson,Marketing,Coordinator,Entry,12,107233.26,Male,Minority,No,No,26,Under 30,07/28/2023,,,,E00024,Remote,0,Associates,0.4,1,Technical,0.6,None,,,Regular
+E00165,Alex Walker,Research,Senior Analyst,Professional,9,76044.79,Male,Non-Minority,No,No,53,50-59,01/19/2017,,,,E00008,Remote,0,Masters,6.9,0,Technical,1.3,Medical,12/02/2020,03/22/2021,Regular
+E00166,Logan Scott,Sales,Manager,Professional,14,116737.99,Male,Minority,No,No,34,30-39,01/04/2020,,,,E00019,Northeast,0,Associates,4.0,0,Standard,2.3,None,,,Regular
+E00167,Blake Robinson,Human Resources,Analyst II,Entry,10,90698.34,Female,Minority,No,No,57,50-59,12/26/2019,,,,E00043,Remote,0,Bachelors,4.0,1,Market Premium,3.9,None,,,Regular
+E00168,Avery Brown,Communications,Associate,Manager,15,116762.09,Male,Minority,No,No,30,Under 30,11/27/2013,,,,E00033,Southeast,0,Masters,10.1,1,Standard,4.1,None,,,Regular
+E00169,Casey Harris,Operations,Consultant,Entry,12,107313.43,Male,Non-Minority,No,No,27,Under 30,11/02/2022,,,,E00036,Northeast,0,Bachelors,1.2,0,Market Premium,1.7,None,,,Regular
+E00170,Parker Young,Customer Service,Director,Entry,11,107494.06,Female,Non-Minority,No,No,26,Under 30,09/26/2020,,,,E00050,Southeast,0,Bachelors,3.3,1,Technical,0.7,None,,,Regular
+E00171,Charlie Young,Research,Coordinator,Entry,13,111700.19,Female,Minority,No,No,57,50-59,06/13/2020,,,,E00009,Remote,0,Associates,3.6,1,Standard,2.1,Parental,08/15/2018,01/16/2019,Regular
+E00172,Riley Garcia,Customer Service,Specialist,Manager,12,109781.15,Male,Non-Minority,No,Yes,36,30-39,10/14/2012,,,,E00020,Midwest,0,Doctorate,11.2,1,Market Premium,10.0,None,,,Regular
+E00173,Cameron Martinez,Sales,Director,Senior Manager,14,140723.83,Male,Minority,No,No,56,50-59,08/15/2015,,,,E00009,Northeast,1,Doctorate,8.4,1,Technical,1.9,None,,,Regular
+E00174,River Walker,Marketing,Consultant,Senior Professional,7,77738.5,Female,Non-Minority,No,No,60,50-59,01/09/2023,,,,E00043,Midwest,0,Doctorate,1.0,1,Standard,1.3,None,,,Regular
+E00175,Quinn Hall,Research,Director,Manager,14,112890.33,Male,Minority,No,No,48,40-49,08/21/2010,01/15/2012,Voluntary - New Opportunity,Voluntary,E00042,Remote,0,None,13.4,1,Market Premium,12.4,None,,,Regular
+E00176,Avery Allen,Research,Coordinator,Senior Professional,9,98604.7,Female,Non-Minority,No,No,65,60+,03/28/2022,,,,E00031,West,1,Bachelors,1.8,1,Market Premium,0.6,None,,,Regular
+E00177,Finley Jackson,Marketing,Associate,Senior Professional,12,98196.19,Male,Non-Minority,No,No,43,40-49,05/06/2011,,,,E00027,Remote,0,Associates,12.7,1,Market Premium,11.4,None,,,Regular
+E00178,Casey Hall,Supply Chain,Specialist,Professional,10,90747.4,Female,Non-Minority,No,No,54,50-59,02/28/2017,,,,E00026,Remote,0,None,6.8,1,Market Premium,2.1,None,,,Regular
+E00179,Sage Thomas,Sales,Administrator,Professional,7,77325.42,Male,Minority,No,No,61,60+,09/30/2012,03/28/2016,Voluntary - Personal,Voluntary,E00004,West,0,Associates,11.3,1,Standard,9.7,None,,,Regular
+E00180,Kendall Garcia,Supply Chain,Manager,Entry,10,84575.46,Female,Minority,No,No,54,50-59,12/16/2022,,,,E00013,West,0,Masters,1.0,1,Market Premium,1.0,None,,,Regular
+E00181,Quinn White,Legal,Specialist,Professional,13,125157.36,Male,Minority,No,No,25,Under 30,01/08/2012,,,,E00016,Northeast,0,Bachelors,12.0,1,Market Premium,7.7,Family Care,04/12/2023,06/30/2023,Regular
+E00182,Casey Wright,Customer Service,Senior Associate,Professional,5,71562.04,Male,Non-Minority,Yes,No,45,40-49,05/29/2016,,,,E00028,West,0,Bachelors,7.6,1,Standard,3.5,None,,,Regular
+E00183,Emery Martinez,Customer Service,Analyst II,Professional,8,78569.79,Male,Non-Minority,No,No,46,40-49,10/16/2022,,,,E00024,Remote,0,Masters,1.2,1,Technical,0.8,None,,,Regular
+E00184,Morgan Thomas,Research,Specialist,Senior Manager,11,109959.03,Male,Non-Minority,No,No,43,40-49,12/24/2023,,,,E00009,Remote,1,Bachelors,0.0,1,Standard,0.5,None,,,Regular
+E00185,Jordan Jones,Legal,VP,Entry,13,107127.65,Female,Non-Minority,Yes,No,43,40-49,06/02/2021,,,,E00003,West,0,Doctorate,2.6,0,Market Premium,0.9,None,,,Regular
+E00186,Riley Thomas,Marketing,Director,Manager,15,143903.51,Female,Minority,No,No,41,40-49,07/25/2021,,,,E00021,Remote,1,Bachelors,2.4,1,Technical,2.5,Personal,12/21/2023,04/05/2024,Regular
+E00187,Blake Anderson,Supply Chain,Senior Director,Senior Manager,14,117133.05,Female,Minority,No,No,29,Under 30,12/26/2020,,,,E00002,West,0,Doctorate,3.0,1,Market Premium,2.9,Family Care,04/20/2018,08/27/2018,Regular
+E00188,Peyton Hall,Product,Director,Entry,9,84537.72,Male,Non-Minority,No,No,58,50-59,05/22/2023,,,,E00042,Southeast,0,None,0.6,0,Technical,0.8,None,,,Regular
+E00189,Marley Lewis,Research,Associate,Professional,14,118929.9,Male,Non-Minority,No,No,24,Under 30,10/04/2021,,,,E00010,Remote,0,None,2.2,1,Standard,0.5,Family Care,07/08/2021,11/13/2021,Regular
+E00190,Quinn Moore,Marketing,Senior Manager,Senior Professional,11,115393.68,Female,Minority,Yes,No,61,60+,05/24/2019,,,,E00045,West,1,None,4.6,0,Technical,1.1,None,,,Regular
+E00191,Finley Lee,Customer Service,Senior Specialist,Senior Professional,10,88217.09,Male,Non-Minority,No,No,42,40-49,08/26/2014,,,,E00043,Southeast,0,Masters,9.3,1,Technical,3.7,None,,,Regular
+E00192,Quinn Davis,Research,Senior Associate,Senior Professional,9,93477.17,Female,Minority,No,No,57,50-59,12/12/2017,,,,E00031,Midwest,0,Associates,6.1,0,Market Premium,5.2,Personal,04/29/2020,08/22/2020,Regular
+E00193,Emery Scott,Operations,Consultant,Entry,12,106710.08,Male,Non-Minority,No,No,39,30-39,12/19/2020,,,,E00023,Midwest,0,None,3.0,1,Technical,2.5,None,,,Regular
+E00194,Peyton Jones,Legal,Senior Associate,Senior Manager,15,125285.07,Female,Non-Minority,Yes,No,24,Under 30,07/08/2018,,,,E00050,Midwest,0,None,5.5,0,Market Premium,5.6,None,,,Regular
+E00195,Elliot Thompson,Sales,VP,Entry,13,114774.04,Female,Minority,No,No,39,30-39,10/02/2015,08/13/2021,Voluntary - Retirement,Voluntary,E00018,Southeast,0,None,8.2,1,Technical,6.6,None,,,Regular
+E00196,Charlie Lee,Sales,Associate,Manager,10,94610.81,Male,Non-Minority,No,No,62,60+,05/15/2015,,,,E00043,Southeast,0,None,8.6,1,Standard,4.1,None,,,Regular
+E00197,Parker Clark,Finance,Consultant,Senior Professional,13,105808.61,Male,Non-Minority,No,No,52,50-59,08/05/2020,03/19/2022,Voluntary - Career Change,Voluntary,E00011,West,0,Associates,3.4,1,Market Premium,1.6,None,,,Regular
+E00198,Reese Davis,Communications,Senior Manager,Senior Professional,6,76783.45,Male,Non-Minority,No,No,24,Under 30,04/30/2011,,,,E00042,Southeast,1,Masters,12.7,1,Standard,12.4,None,,,Regular
+E00199,Riley Scott,Risk Management,VP,Entry,11,103118.0,Female,Non-Minority,No,No,40,30-39,10/25/2010,,,,E00032,Northeast,0,None,13.2,1,Market Premium,8.0,None,,,Regular
+E00200,Cameron Thompson,Operations,Senior Manager,Entry,9,104812.77,Male,Non-Minority,No,No,53,50-59,05/29/2012,,,,E00030,Southeast,1,Doctorate,11.6,0,Market Premium,3.7,None,,,Regular
+E00201,Logan Garcia,Supply Chain,Analyst I,Senior Professional,12,105234.17,Male,Non-Minority,No,No,43,40-49,07/11/2012,09/22/2016,Voluntary - Career Change,Voluntary,E00017,Midwest,0,Doctorate,11.5,1,Technical,9.2,Military,12/20/2019,01/03/2020,Regular
+E00202,Drew Williams,Risk Management,Senior Specialist,Entry,11,96451.79,Male,Minority,No,No,64,60+,09/14/2023,,,,E00033,Northeast,0,Associates,0.3,1,Standard,0.6,None,,,Regular
+E00203,Avery Jackson,Finance,Coordinator,Professional,9,79042.28,Male,Minority,No,No,39,30-39,07/26/2015,,,,E00025,Midwest,0,Bachelors,8.4,1,Technical,6.6,None,,,Regular
+E00204,Avery Johnson,Engineering,Senior Director,Entry,10,100938.4,Female,Non-Minority,Yes,No,29,Under 30,04/04/2010,,,,E00045,West,0,Bachelors,13.7,1,Standard,6.1,None,,,Regular
+E00205,Morgan Clark,Supply Chain,Consultant,Senior Professional,9,98694.64,Female,Non-Minority,No,Yes,40,30-39,04/09/2021,,,,E00045,Midwest,0,Doctorate,2.7,1,Standard,1.1,None,,,Regular
+E00206,Parker Robinson,Product,Senior Manager,Senior Professional,14,143230.77,Male,Non-Minority,No,No,52,50-59,12/30/2012,11/07/2018,Voluntary - Career Change,Voluntary,E00024,Remote,1,Associates,11.0,1,Standard,8.0,None,,,Regular
+E00207,Elliot White,Customer Service,Analyst II,Entry,10,99237.11,Female,Non-Minority,No,No,25,Under 30,05/13/2023,10/09/2024,Voluntary - Personal,Voluntary,E00005,Remote,0,Doctorate,0.6,0,Standard,0.8,None,,,Regular
+E00208,Morgan Lewis,Risk Management,Associate,Senior Professional,13,111702.27,Male,Non-Minority,No,Yes,59,50-59,05/12/2013,09/12/2015,Involuntary - Restructuring,Involuntary,E00029,West,0,None,10.6,1,Technical,5.2,None,,,Regular
+E00209,Parker Jackson,Product,Director,Senior Professional,7,82463.8,Male,Minority,Yes,No,25,Under 30,04/01/2011,,,,E00033,Remote,0,Masters,12.8,1,Technical,10.8,None,,,Regular
+E00210,Sydney Miller,Legal,Director,Senior Professional,9,92703.35,Male,Minority,No,No,26,Under 30,06/28/2010,,,,E00001,Northeast,0,Masters,13.5,0,Market Premium,10.0,None,,,Regular
+E00211,Parker Garcia,Product,Coordinator,Senior Professional,5,67584.37,Male,Minority,No,No,30,Under 30,02/20/2022,04/22/2023,Voluntary - Relocation,Voluntary,E00019,West,0,Bachelors,1.9,0,Market Premium,1.4,None,,,Regular
+E00212,Cameron King,Research,Specialist,Senior Professional,13,126437.67,Male,Non-Minority,No,No,29,Under 30,06/20/2018,03/04/2023,Voluntary - Relocation,Voluntary,E00009,Southeast,0,Doctorate,5.5,1,Market Premium,3.4,None,,,Regular
+E00213,Alex Martinez,Risk Management,Manager,Manager,10,103747.91,Male,Non-Minority,No,No,65,60+,12/30/2014,,,,E00049,Remote,0,Masters,9.0,0,Technical,3.9,None,,,Regular
+E00214,Quinn Scott,Operations,Consultant,Senior Manager,12,110055.72,Female,Non-Minority,No,No,29,Under 30,02/25/2015,06/02/2018,Voluntary - Personal,Voluntary,E00018,Northeast,0,Masters,8.8,0,Technical,7.2,None,,,Regular
+E00215,River Johnson,Sales,Manager,Professional,8,72660.73,Female,Non-Minority,No,No,60,50-59,05/09/2010,,,,E00007,Northeast,0,Associates,13.6,0,Technical,1.1,None,,,Regular
+E00216,Addison Hall,Sales,Analyst I,Manager,13,109016.01,Female,Minority,No,No,30,Under 30,11/05/2019,,,,E00049,Remote,0,Bachelors,4.2,1,Standard,3.9,None,,,Regular
+E00217,Sage Wright,Operations,Senior Analyst,Manager,15,125106.56,Female,Non-Minority,No,No,64,60+,12/03/2022,,,,E00016,Remote,0,Associates,1.1,0,Market Premium,0.8,None,,,Regular
+E00218,Elliot Garcia,Customer Service,Senior Director,Senior Professional,14,121543.63,Female,Non-Minority,No,No,65,60+,05/15/2011,,,,E00048,West,0,Doctorate,12.6,1,Market Premium,1.1,None,,,Regular
+E00219,Drew Robinson,Research,Senior Specialist,Senior Manager,16,129795.78,Male,Minority,No,No,48,40-49,09/22/2017,,,,E00034,Southeast,0,Bachelors,6.3,0,Market Premium,1.7,None,,,Regular
+E00220,Sage King,Product,VP,Senior Professional,8,82158.46,Female,Non-Minority,No,No,31,30-39,01/24/2022,,,,E00015,West,0,None,1.9,1,Technical,1.3,None,,,Regular
+E00221,Avery Rodriguez,Customer Service,Associate,Senior Professional,13,133610.43,Female,Non-Minority,No,No,43,40-49,05/06/2019,,,,E00025,Northeast,1,Masters,4.7,1,Market Premium,0.9,Medical,02/20/2020,03/13/2020,Regular
+E00222,River Johnson,Engineering,Administrator,VP,16,122536.81,Female,Minority,No,No,26,Under 30,02/27/2011,,,,E00039,Southeast,0,Doctorate,12.8,1,Technical,9.1,Military,06/07/2020,09/01/2020,Regular
+E00223,Elliot Smith,Sales,Associate,Entry,10,99595.77,Male,Non-Minority,No,No,34,30-39,10/02/2020,,,,E00020,Northeast,0,Masters,3.2,1,Standard,2.7,None,,,Regular
+E00224,Drew Hall,Legal,Senior Associate,Manager,13,119895.94,Male,Non-Minority,No,No,46,40-49,08/03/2014,,,,E00036,West,1,Doctorate,9.4,1,Technical,3.9,None,,,Regular
+E00225,Morgan Allen,Operations,VP,Professional,13,112317.31,Female,Minority,No,No,52,50-59,11/13/2015,,,,E00030,Midwest,0,Associates,8.1,1,Market Premium,3.0,Family Care,07/07/2018,12/20/2018,Regular
+E00226,Casey Smith,Risk Management,Senior Associate,Entry,8,89362.44,Female,Non-Minority,No,No,57,50-59,08/14/2022,,,,E00048,Remote,0,Doctorate,1.4,1,Technical,1.1,None,,,Regular
+E00227,Reese Young,Sales,Associate,Professional,10,97046.29,Female,Non-Minority,Yes,No,53,50-59,06/02/2013,,,,E00025,Remote,0,Bachelors,10.6,0,Market Premium,8.6,Medical,06/25/2023,07/13/2023,Regular
+E00228,Peyton Taylor,Product,Senior Analyst,Professional,7,78144.91,Female,Non-Minority,No,No,30,Under 30,01/01/2021,,,,E00047,Remote,0,Masters,3.0,1,Standard,3.3,None,,,Regular
+E00229,Marley King,Research,Analyst II,Senior Professional,5,54805.19,Female,Non-Minority,No,No,64,60+,02/28/2022,,,,E00003,Northeast,0,None,1.8,1,Market Premium,0.7,Personal,08/05/2020,12/29/2020,Regular
+E00230,Quinn Lee,Supply Chain,Manager,Entry,7,72674.8,Male,Non-Minority,No,No,45,40-49,07/11/2011,,,,E00001,Northeast,0,Doctorate,12.5,1,Technical,8.8,None,,,Regular
+E00231,Alex Thompson,Product,Senior Manager,Senior Professional,12,111497.32,Female,Non-Minority,No,No,48,40-49,10/30/2023,,,,E00002,Northeast,0,None,0.2,1,Technical,0.6,None,,,Regular
+E00232,Marley Robinson,Engineering,Senior Director,Senior Professional,5,73845.58,Female,Non-Minority,No,No,49,40-49,01/06/2022,,,,E00033,Southeast,0,None,2.0,0,Standard,1.5,None,,,Regular
+E00233,Peyton Thomas,Risk Management,Analyst II,Professional,10,104421.32,Male,Minority,No,No,45,40-49,05/29/2015,01/19/2018,Involuntary - Performance,Involuntary,E00018,West,1,Masters,8.6,1,Technical,2.6,None,,,Regular
+E00234,Addison Clark,Engineering,Coordinator,Entry,6,85857.36,Female,Minority,No,No,24,Under 30,01/25/2015,,,,E00042,Northeast,0,Masters,8.9,1,Market Premium,3.9,None,,,Regular
+E00235,Riley Williams,Finance,Manager,Manager,10,108074.38,Male,Non-Minority,Yes,No,49,40-49,09/04/2020,,,,E00045,Midwest,1,Doctorate,3.3,1,Standard,3.5,None,,,Regular
+E00236,Charlie White,Sales,Manager,Senior Manager,13,128561.87,Female,Non-Minority,No,No,39,30-39,12/15/2010,,,,E00045,Northeast,1,None,13.0,0,Technical,12.5,None,,,Regular
+E00237,Alex Miller,IT,Director,Professional,5,69283.09,Female,Non-Minority,No,No,31,30-39,03/07/2022,,,,E00021,West,0,None,1.8,1,Market Premium,0.8,Medical,09/11/2020,10/29/2020,Regular
+E00238,Charlie Thompson,Risk Management,Specialist,Senior Professional,11,103248.28,Female,Non-Minority,No,No,46,40-49,09/17/2022,,,,E00044,Southeast,0,None,1.3,0,Technical,1.5,None,,,Regular
+E00239,Avery Young,Finance,Analyst II,Senior Professional,6,70326.16,Female,Non-Minority,Yes,No,43,40-49,10/04/2017,,,,E00028,Remote,0,Doctorate,6.2,1,Technical,3.0,None,,,Regular
+E00240,Avery Taylor,Communications,Senior Manager,Professional,12,102590.08,Female,Minority,No,No,46,40-49,04/27/2017,02/22/2018,Involuntary - Performance,Involuntary,E00032,West,0,Associates,6.7,0,Technical,4.4,None,,,Regular
+E00241,Taylor Williams,Communications,Senior Associate,Professional,8,72980.69,Male,Non-Minority,No,No,31,30-39,07/11/2018,12/24/2019,Involuntary - Performance,Involuntary,E00046,West,0,Associates,5.5,1,Technical,2.6,None,,,Regular
+E00242,Blake Hall,Finance,Senior Associate,Entry,9,89919.25,Female,Non-Minority,No,No,28,Under 30,02/02/2018,10/11/2019,Voluntary - Relocation,Voluntary,E00029,Southeast,0,None,5.9,1,Standard,3.0,None,,,Regular
+E00243,Taylor Taylor,Customer Service,Senior Manager,Manager,16,144798.3,Female,Non-Minority,No,No,27,Under 30,06/29/2022,,,,E00002,Remote,0,Doctorate,1.5,1,Market Premium,1.8,None,,,Regular
+E00244,Kendall Williams,Engineering,VP,Entry,11,101275.9,Female,Minority,Yes,No,57,50-59,04/12/2010,,,,E00025,Southeast,0,Doctorate,13.7,1,Technical,2.8,None,,,Regular
+E00245,Jamie Martin,Marketing,Senior Analyst,Entry,7,82627.94,Female,Non-Minority,No,No,26,Under 30,07/16/2018,,,,E00020,Southeast,0,Masters,5.5,1,Market Premium,2.8,Parental,06/07/2023,09/06/2023,Regular
+E00246,Sydney Clark,Operations,Manager,Professional,9,106697.31,Female,Non-Minority,No,No,60,50-59,09/23/2011,,,,E00016,Remote,1,Associates,12.3,1,Market Premium,1.8,None,,,Regular
+E00247,Marley Harris,Finance,Senior Specialist,Senior Professional,11,96917.98,Female,Non-Minority,No,No,43,40-49,10/31/2016,,,,E00022,West,0,Bachelors,7.2,1,Market Premium,6.4,None,,,Regular
+E00248,Logan Miller,Engineering,Manager,Professional,10,93325.89,Male,Minority,No,No,42,40-49,05/02/2023,,,,E00039,Southeast,0,Masters,0.7,1,Market Premium,0.7,None,,,Regular
+E00249,Hayden Rodriguez,IT,Administrator,Professional,8,90262.34,Female,Non-Minority,No,No,47,40-49,01/05/2021,,,,E00021,Midwest,0,None,3.0,1,Technical,1.1,None,,,Regular
+E00250,Dakota Robinson,Marketing,Associate,Entry,13,117089.45,Female,Non-Minority,No,No,50,40-49,03/28/2022,,,,E00047,Midwest,0,None,1.8,1,Market Premium,1.7,None,,,Regular
+E00251,Jamie Lewis,Research,Senior Analyst,Professional,9,92015.94,Male,Non-Minority,Yes,No,49,40-49,02/14/2013,,,,E00016,West,0,None,10.9,1,Market Premium,11.3,None,,,Regular
+E00252,Rowan Scott,IT,Consultant,Professional,11,96028.25,Female,Non-Minority,No,No,48,40-49,09/30/2020,,,,E00035,Remote,0,None,3.3,1,Market Premium,2.8,None,,,Regular
+E00253,Kendall Davis,IT,Senior Director,Entry,6,88057.35,Female,Non-Minority,No,No,64,60+,01/16/2022,,,,E00007,Midwest,1,Associates,2.0,1,Technical,1.7,None,,,Regular
+E00254,Morgan Smith,Communications,Analyst II,Professional,10,87638.59,Female,Minority,No,No,38,30-39,08/19/2022,,,,E00028,Southeast,0,Doctorate,1.4,1,Technical,1.2,None,,,Regular
+E00255,Blake Thomas,Supply Chain,Manager,Manager,13,114296.85,Female,Minority,No,No,65,60+,01/08/2023,,,,E00029,Remote,0,Doctorate,1.0,0,Standard,0.8,None,,,Regular
+E00256,Parker Scott,Product,Analyst II,Senior Professional,6,72153.5,Female,Non-Minority,Yes,No,29,Under 30,07/21/2010,,,,E00019,Southeast,0,Bachelors,13.4,0,Market Premium,5.1,None,,,Regular
+E00257,Dakota Walker,Operations,VP,Entry,12,108966.2,Female,Minority,No,No,50,40-49,08/22/2014,12/22/2020,Voluntary - Personal,Voluntary,E00007,Midwest,0,None,9.4,0,Market Premium,0.9,None,,,Regular
+E00258,Skyler Allen,Finance,Senior Analyst,Senior Professional,10,98099.63,Female,Non-Minority,No,Yes,37,30-39,07/31/2012,,,,E00007,Remote,0,Associates,11.4,1,Technical,2.3,Military,10/13/2022,10/28/2022,Regular
+E00259,Riley Clark,Sales,Senior Director,Senior Professional,11,106539.51,Female,Minority,No,No,49,40-49,05/13/2020,,,,E00012,West,1,None,3.6,1,Technical,2.7,Military,03/19/2020,06/17/2020,Regular
+E00260,Logan Miller,IT,Associate,Entry,11,99666.74,Male,Non-Minority,No,No,39,30-39,01/31/2020,,,,E00001,Northeast,0,Doctorate,3.9,1,Standard,3.6,Family Care,02/05/2020,04/15/2020,Regular
+E00261,Morgan Rodriguez,Operations,Senior Director,Entry,8,96203.2,Male,Minority,Yes,No,53,50-59,03/16/2018,,,,E00030,Remote,1,Bachelors,5.8,1,Technical,2.8,None,,,Regular
+E00262,Riley Young,Operations,Senior Director,Senior Professional,12,126339.53,Female,Non-Minority,No,No,41,40-49,10/21/2018,07/29/2020,Involuntary - Restructuring,Involuntary,E00040,Remote,1,Doctorate,5.2,1,Standard,4.0,None,,,Regular
+E00263,Morgan Garcia,Human Resources,Specialist,Senior Professional,8,77293.34,Male,Minority,Yes,Yes,31,30-39,01/09/2017,,,,E00020,Remote,0,Masters,7.0,1,Market Premium,4.7,None,,,Regular
+E00264,Cameron Thompson,Legal,VP,Manager,16,128870.9,Male,Minority,No,Yes,63,60+,11/22/2022,,,,E00032,Southeast,0,Doctorate,1.1,1,Standard,1.0,Medical,07/29/2019,10/05/2019,Regular
+E00265,Jordan King,Operations,Specialist,Entry,12,99260.71,Male,Minority,No,No,22,Under 30,03/13/2014,,,,E00040,West,0,Associates,9.8,1,Standard,8.5,None,,,Regular
+E00266,Skyler Martin,Customer Service,Senior Specialist,Entry,12,106605.16,Male,Minority,No,No,50,40-49,08/06/2022,,,,E00027,West,0,Associates,1.4,0,Standard,1.3,None,,,Regular
+E00267,Sage Garcia,Engineering,Coordinator,Entry,8,92044.09,Female,Minority,No,No,51,50-59,12/12/2014,09/18/2018,Voluntary - New Opportunity,Voluntary,E00035,Remote,0,Masters,9.1,1,Technical,5.1,None,,,Regular
+E00268,Emery Young,Human Resources,Specialist,Professional,9,111039.14,Male,Non-Minority,No,No,56,50-59,11/05/2022,,,,E00050,Northeast,1,Masters,1.2,0,Technical,0.8,None,,,Regular
+E00269,Addison Johnson,Human Resources,Manager,Entry,8,83994.74,Female,Non-Minority,No,No,38,30-39,07/15/2019,,,,E00020,Midwest,0,None,4.5,1,Market Premium,4.4,None,,,Regular
+E00270,Blake King,Communications,VP,Entry,14,120598.26,Male,Non-Minority,Yes,No,61,60+,08/19/2012,10/13/2015,Voluntary - Retirement,Voluntary,E00045,West,0,Associates,11.4,1,Technical,2.1,None,,,Regular
+E00271,Reese Taylor,Risk Management,Senior Manager,Entry,8,77570.87,Female,Non-Minority,Yes,No,39,30-39,08/20/2014,,,,E00004,Remote,0,Doctorate,9.4,1,Standard,3.5,None,,,Regular
+E00272,Marley Brown,Risk Management,Senior Analyst,Entry,13,109612.18,Female,Non-Minority,No,No,48,40-49,07/25/2016,04/20/2020,Involuntary - Performance,Involuntary,E00044,Northeast,0,Bachelors,7.4,0,Technical,1.4,None,,,Regular
+E00273,Kendall Young,Supply Chain,Senior Director,Professional,10,102111.85,Female,Non-Minority,No,No,47,40-49,12/23/2012,04/08/2016,Voluntary - Career Change,Voluntary,E00016,West,0,Associates,11.0,1,Technical,7.5,None,,,Regular
+E00274,Cameron Allen,Legal,Consultant,Senior Professional,12,96575.59,Male,Minority,No,No,27,Under 30,04/17/2019,,,,E00005,West,0,Doctorate,4.7,1,Technical,1.8,None,,,Regular
+E00275,Addison Walker,Operations,Analyst II,Manager,10,114974.31,Female,Non-Minority,No,No,51,50-59,04/12/2018,11/14/2023,Voluntary - Personal,Voluntary,E00050,Midwest,1,None,5.7,1,Technical,2.8,None,,,Regular
+E00276,Jamie Anderson,Risk Management,Administrator,Entry,8,78311.14,Male,Minority,No,No,40,30-39,08/21/2019,,,,E00032,Midwest,0,Doctorate,4.4,1,Technical,1.1,None,,,Regular
+E00277,Kendall Johnson,Communications,Analyst I,Manager,15,129245.51,Male,Non-Minority,Yes,No,28,Under 30,11/19/2020,,,,E00044,West,0,None,3.1,0,Standard,3.4,None,,,Regular
+E00278,Parker Miller,Product,VP,Manager,17,139876.03,Male,Non-Minority,No,No,30,Under 30,07/18/2013,,,,E00001,Midwest,0,Associates,10.5,1,Market Premium,1.5,None,,,Regular
+E00279,Cameron Martinez,Operations,VP,Entry,7,82485.76,Male,Non-Minority,No,No,36,30-39,01/31/2018,05/20/2021,Voluntary - Relocation,Voluntary,E00026,West,0,None,5.9,1,Technical,1.1,None,,,Regular
+E00280,Skyler Jackson,Marketing,Analyst I,Manager,13,106170.22,Female,Non-Minority,No,No,22,Under 30,10/15/2014,08/17/2020,Voluntary - Relocation,Voluntary,E00034,Midwest,0,None,9.2,0,Market Premium,6.9,None,,,Regular
+E00281,Taylor Walker,Human Resources,Coordinator,Entry,8,75740.38,Male,Minority,No,No,28,Under 30,09/18/2020,,,,E00025,Northeast,0,Bachelors,3.3,0,Market Premium,3.4,None,,,Regular
+E00282,Skyler Jones,Legal,Analyst II,Professional,7,74368.29,Male,Minority,No,No,55,50-59,01/28/2013,,,,E00042,Remote,0,None,10.9,1,Technical,7.6,None,,,Regular
+E00283,Sydney Jones,Operations,Consultant,Entry,8,78214.25,Female,Non-Minority,No,No,48,40-49,11/15/2019,,,,E00041,Remote,0,Masters,4.1,1,Standard,0.9,None,,,Regular
+E00284,Sydney Thomas,Marketing,Specialist,Manager,11,106176.25,Female,Non-Minority,No,No,49,40-49,04/03/2012,,,,E00038,Midwest,0,Associates,11.7,0,Standard,3.7,None,,,Regular
+E00285,River Walker,Sales,Director,Senior Professional,13,113346.72,Female,Non-Minority,Yes,No,40,30-39,11/22/2011,,,,E00039,Northeast,0,Bachelors,12.1,1,Standard,6.8,None,,,Regular
+E00286,Cameron Johnson,Sales,Coordinator,Entry,11,100002.45,Female,Minority,No,No,37,30-39,06/06/2021,,,,E00019,West,0,Masters,2.6,1,Standard,1.1,None,,,Regular
+E00287,Blake Scott,Human Resources,Specialist,Professional,13,113369.5,Male,Minority,No,No,30,Under 30,04/28/2023,,,,E00001,West,0,Doctorate,0.7,0,Market Premium,0.8,None,,,Regular
+E00288,Jamie Miller,Finance,Analyst I,Manager,11,95674.07,Male,Minority,No,No,25,Under 30,11/16/2013,08/26/2019,Voluntary - Relocation,Voluntary,E00001,West,0,Doctorate,10.1,0,Market Premium,6.8,None,,,Regular
+E00289,Cameron Thompson,Legal,Senior Manager,Entry,11,96869.21,Female,Minority,Yes,No,61,60+,03/28/2021,,,,E00006,Southeast,0,Bachelors,2.8,1,Standard,1.4,None,,,Regular
+E00290,Hayden White,Sales,Senior Director,Senior Professional,7,75957.67,Male,Minority,No,No,63,60+,06/20/2021,,,,E00021,Northeast,0,Bachelors,2.5,0,Technical,1.6,Personal,09/04/2020,12/07/2020,Regular
+E00291,Morgan Jackson,Sales,Director,Senior Manager,11,101288.24,Female,Minority,No,No,60,50-59,04/20/2011,,,,E00028,Northeast,0,Bachelors,12.7,1,Technical,9.9,None,,,Regular
+E00292,Casey Robinson,Human Resources,Analyst I,Manager,10,99436.45,Male,Non-Minority,Yes,No,32,30-39,12/09/2013,,,,E00046,West,0,Bachelors,10.1,1,Technical,5.7,None,,,Regular
+E00293,Sydney Hall,Marketing,Administrator,Senior Professional,10,98607.81,Male,Non-Minority,No,No,39,30-39,10/25/2015,,,,E00009,Northeast,0,None,8.2,0,Market Premium,7.1,None,,,Regular
+E00294,Logan White,Customer Service,Senior Director,Professional,6,75297.94,Male,Non-Minority,Yes,No,26,Under 30,02/07/2016,,,,E00017,West,0,Masters,7.9,1,Technical,3.3,None,,,Regular
+E00295,Blake Garcia,Risk Management,Senior Associate,Professional,14,145150.88,Female,Non-Minority,No,No,28,Under 30,03/16/2021,,,,E00011,Remote,1,None,2.8,0,Standard,2.6,None,,,Regular
+E00296,Blake Thomas,Sales,Consultant,Senior Professional,5,66888.76,Female,Minority,No,No,31,30-39,01/22/2010,01/17/2011,Voluntary - New Opportunity,Voluntary,E00031,Southeast,0,None,13.9,1,Technical,11.7,None,,,Regular
+E00297,Drew Rodriguez,Sales,Administrator,Entry,11,106027.68,Male,Non-Minority,No,No,26,Under 30,05/29/2019,06/01/2022,Involuntary - Restructuring,Involuntary,E00047,Remote,0,Bachelors,4.6,1,Standard,2.8,None,,,Regular
+E00298,Jordan Thomas,Marketing,Analyst II,Manager,13,117643.47,Female,Non-Minority,No,No,51,50-59,03/08/2011,,,,E00034,Midwest,1,Bachelors,12.8,1,Market Premium,1.6,None,,,Regular
+E00299,Sage White,Finance,Coordinator,Entry,10,96795.1,Male,Non-Minority,No,No,41,40-49,03/30/2020,,,,E00013,Remote,0,Associates,3.8,0,Market Premium,1.9,None,,,Regular
+E00300,Kendall Allen,Communications,Associate,Senior Professional,8,88173.09,Female,Minority,Yes,No,31,30-39,01/24/2021,,,,E00035,Northeast,0,Masters,2.9,1,Standard,1.2,Military,11/19/2021,12/08/2021,Regular
+E00301,Skyler Thomas,Operations,Administrator,Director,10,97164.8,Female,Non-Minority,Yes,No,41,40-49,03/20/2010,,,,E00049,Northeast,0,Associates,13.8,0,Technical,14.1,None,,,Regular
+E00302,Logan Rodriguez,Product,Analyst II,Entry,5,55600.38,Female,Non-Minority,No,No,24,Under 30,06/02/2019,,,,E00010,Southeast,0,Doctorate,4.6,0,Market Premium,3.7,None,,,Regular
+E00303,Morgan Lee,Product,Senior Analyst,Entry,6,82142.7,Female,Non-Minority,No,No,62,60+,05/10/2018,,,,E00038,West,1,None,5.6,0,Technical,3.7,None,,,Regular
+E00304,Logan Young,Engineering,VP,Senior Professional,9,80068.68,Male,Minority,No,No,42,40-49,10/04/2019,09/18/2021,Voluntary - Retirement,Voluntary,E00026,Midwest,0,Masters,4.2,1,Market Premium,1.5,Parental,04/10/2020,07/03/2020,Regular
+E00305,Morgan Garcia,Communications,Manager,Manager,11,101660.1,Male,Non-Minority,No,No,51,50-59,01/20/2013,,,,E00010,Midwest,0,Masters,10.9,1,Standard,6.3,None,,,Regular
+E00306,Riley Allen,Product,Senior Director,Professional,9,94116.93,Male,Non-Minority,No,No,41,40-49,08/28/2014,03/20/2020,Involuntary - Performance,Involuntary,E00006,Remote,0,None,9.3,1,Standard,8.3,None,,,Regular
+E00307,Avery Taylor,Marketing,Senior Specialist,Senior Professional,6,78190.95,Female,Minority,Yes,No,54,50-59,05/09/2017,,,,E00046,Northeast,1,Bachelors,6.6,1,Market Premium,5.9,None,,,Regular
+E00308,Emery Walker,Finance,Senior Manager,Professional,11,95051.67,Female,Non-Minority,Yes,No,37,30-39,11/25/2013,,,,E00029,Northeast,0,Masters,10.1,1,Standard,8.6,None,,,Regular
+E00309,Marley Hall,Human Resources,Associate,Senior Professional,5,59311.57,Male,Non-Minority,Yes,No,30,Under 30,02/19/2013,,,,E00004,Southeast,0,Masters,10.9,1,Market Premium,8.0,None,,,Regular
+E00310,Alex Williams,IT,Associate,Manager,14,123708.79,Male,Minority,No,No,63,60+,11/20/2011,,,,E00005,West,0,Associates,12.1,1,Standard,11.5,None,,,Regular
+E00311,Elliot White,Product,Senior Specialist,Senior Professional,5,66295.53,Male,Minority,No,No,47,40-49,06/09/2017,04/21/2019,Voluntary - New Opportunity,Voluntary,E00011,West,0,None,6.6,1,Market Premium,5.0,None,,,Regular
+E00312,Jamie Rodriguez,Operations,Manager,Entry,8,77504.29,Male,Minority,No,No,31,30-39,11/16/2013,,,,E00012,Northeast,0,Doctorate,10.1,1,Technical,6.7,None,,,Regular
+E00313,Finley Johnson,Product,Analyst II,Manager,16,128401.09,Female,Minority,No,No,39,30-39,08/14/2016,,,,E00036,West,0,Associates,7.4,0,Market Premium,2.0,None,,,Regular
+E00314,Hayden Allen,Sales,VP,Senior Professional,13,108258.26,Male,Non-Minority,No,No,44,40-49,10/17/2021,,,,E00002,West,0,Doctorate,2.2,1,Market Premium,1.3,None,,,Regular
+E00315,Jamie Garcia,Customer Service,Analyst I,Senior Professional,10,92305.79,Male,Non-Minority,No,Yes,42,40-49,09/08/2022,,,,E00025,Remote,0,Associates,1.3,0,Standard,1.7,None,,,Regular
+E00316,Blake Hall,Finance,Director,Senior Professional,12,105682.76,Female,Non-Minority,No,No,36,30-39,04/20/2016,,,,E00034,Southeast,0,None,7.7,1,Standard,5.6,None,,,Regular
+E00317,Blake Scott,Communications,Administrator,Senior Professional,8,75322.14,Male,Non-Minority,No,No,33,30-39,12/24/2015,06/15/2022,Voluntary - New Opportunity,Voluntary,E00025,Southeast,0,Associates,8.0,1,Technical,3.0,Personal,01/09/2022,06/13/2022,Regular
+E00318,Quinn Young,IT,Coordinator,Entry,14,135446.54,Male,Non-Minority,No,No,53,50-59,04/09/2023,01/29/2024,Involuntary - Restructuring,Involuntary,E00037,Remote,1,Bachelors,0.7,1,Standard,0.8,Medical,01/05/2019,05/29/2019,Regular
+E00319,Alex Lee,Sales,Manager,Senior Professional,14,125644.67,Female,Non-Minority,Yes,No,22,Under 30,04/06/2011,,,,E00015,Midwest,0,Doctorate,12.7,1,Standard,10.7,None,,,Regular
+E00320,Jordan Smith,Supply Chain,Senior Analyst,Senior Professional,7,88687.44,Male,Non-Minority,No,No,59,50-59,08/23/2017,,,,E00021,Southeast,1,None,6.4,1,Technical,6.0,None,,,Regular
+E00321,Sage Anderson,IT,Senior Analyst,Senior Professional,6,69574.85,Female,Non-Minority,No,No,32,30-39,08/18/2011,04/23/2016,Voluntary - Return to School,Voluntary,E00022,West,1,Masters,12.4,1,Technical,4.4,None,,,Regular
+E00322,Skyler White,Supply Chain,Administrator,Senior Manager,15,122471.27,Male,Non-Minority,No,No,33,30-39,08/09/2022,,,,E00015,West,0,Bachelors,1.4,0,Technical,1.5,None,,,Regular
+E00323,Reese Thomas,Marketing,Administrator,Entry,5,62573.47,Female,Non-Minority,No,No,58,50-59,11/09/2012,,,,E00045,Northeast,0,Associates,11.1,1,Technical,4.0,None,,,Regular
+E00324,Casey Anderson,Sales,VP,Senior Manager,11,105269.88,Female,Non-Minority,No,No,26,Under 30,09/18/2023,,,,E00032,Southeast,0,Bachelors,0.3,1,Market Premium,0.6,None,,,Regular
+E00325,Alex Rodriguez,Risk Management,Associate,Senior Professional,10,93977.64,Female,Non-Minority,No,No,37,30-39,12/28/2011,,,,E00029,Northeast,0,Bachelors,12.0,0,Market Premium,9.9,None,,,Regular
+E00326,Sydney Moore,Finance,Senior Analyst,Entry,11,104113.56,Female,Non-Minority,No,No,48,40-49,01/11/2010,,,,E00029,West,0,Masters,14.0,1,Market Premium,8.1,None,,,Regular
+E00327,Cameron Hall,Risk Management,Senior Director,Senior Professional,12,127766.98,Female,Non-Minority,No,No,36,30-39,04/10/2012,,,,E00037,Southeast,1,Masters,11.7,0,Standard,9.9,None,,,Regular
+E00328,Taylor Anderson,Operations,Senior Analyst,Professional,9,93641.9,Female,Minority,No,No,46,40-49,10/01/2010,07/19/2014,Voluntary - New Opportunity,Voluntary,E00007,Southeast,1,None,13.3,0,Technical,13.0,None,,,Regular
+E00329,Cameron Garcia,Supply Chain,Director,Entry,5,63054.55,Female,Minority,No,No,49,40-49,02/02/2012,05/15/2016,Voluntary - Personal,Voluntary,E00028,Southeast,0,None,11.9,0,Standard,4.4,None,,,Regular
+E00330,Emery Rodriguez,Legal,Senior Director,Senior Professional,13,110212.88,Female,Non-Minority,No,No,40,30-39,04/06/2014,,,,E00047,Midwest,0,Associates,9.7,0,Standard,1.0,Military,07/04/2023,12/07/2023,Regular
+E00331,Parker Williams,Finance,Senior Associate,Professional,10,96505.54,Female,Non-Minority,No,No,64,60+,06/12/2013,,,,E00001,Remote,0,Masters,10.6,1,Standard,1.5,None,,,Regular
+E00332,Addison Brown,Marketing,Senior Associate,Manager,14,116252.3,Female,Non-Minority,No,No,47,40-49,08/23/2014,,,,E00031,West,0,Masters,9.4,1,Technical,3.0,None,,,Regular
+E00333,Blake Garcia,Marketing,Manager,Senior Professional,10,85361.64,Male,Non-Minority,No,No,24,Under 30,03/16/2022,,,,E00025,Midwest,0,Masters,1.8,1,Market Premium,1.0,None,,,Regular
+E00334,Kendall Robinson,IT,Senior Director,Manager,10,94689.98,Female,Non-Minority,No,No,28,Under 30,01/10/2016,,,,E00010,Northeast,0,Bachelors,8.0,1,Technical,3.8,None,,,Regular
+E00335,Marley Lee,Sales,Senior Specialist,Senior Manager,10,103129.79,Female,Non-Minority,No,No,56,50-59,03/25/2023,,,,E00025,West,0,Doctorate,0.8,1,Standard,0.9,None,,,Regular
+E00336,Reese Wright,Legal,Senior Manager,Professional,5,60813.69,Female,Non-Minority,No,No,58,50-59,10/09/2011,,,,E00033,Remote,0,Associates,12.2,0,Standard,12.1,None,,,Regular
+E00337,Peyton Miller,Marketing,Senior Analyst,Manager,12,104434.02,Male,Non-Minority,No,No,24,Under 30,01/27/2020,,,,E00014,West,0,None,3.9,1,Technical,2.2,None,,,Regular
+E00338,Drew Scott,Risk Management,VP,Senior Professional,14,113640.75,Male,Minority,Yes,No,26,Under 30,04/26/2013,,,,E00017,Northeast,0,Masters,10.7,1,Technical,4.8,None,,,Regular
+E00339,Dakota Scott,Risk Management,Administrator,Entry,9,87691.47,Male,Non-Minority,No,Yes,22,Under 30,04/25/2017,,,,E00034,Remote,0,Doctorate,6.7,0,Technical,5.7,None,,,Regular
+E00340,Reese White,Legal,Director,Senior Manager,12,117091.41,Female,Minority,No,No,28,Under 30,07/10/2012,,,,E00010,Northeast,1,Doctorate,11.5,1,Standard,9.5,None,,,Regular
+E00341,Hayden Clark,Operations,Manager,Senior Professional,11,90347.17,Male,Non-Minority,No,No,58,50-59,01/05/2022,,,,E00017,Remote,0,Masters,2.0,1,Standard,0.8,None,,,Regular
+E00342,Skyler Robinson,Marketing,Senior Specialist,Professional,14,114625.34,Female,Minority,No,Yes,24,Under 30,01/15/2019,,,,E00039,West,0,Bachelors,5.0,1,Technical,1.7,None,,,Regular
+E00343,Drew Young,Engineering,Coordinator,Manager,15,122564.21,Female,Non-Minority,No,No,41,40-49,08/28/2020,,,,E00002,Midwest,0,Bachelors,3.3,1,Market Premium,3.3,None,,,Regular
+E00344,Sydney Moore,Engineering,Director,Professional,12,106168.89,Female,Non-Minority,No,No,63,60+,03/15/2012,04/02/2015,Voluntary - Career Change,Voluntary,E00018,Northeast,0,Associates,11.8,1,Market Premium,3.0,Parental,07/26/2022,01/02/2023,Regular
+E00345,Rowan Allen,Risk Management,Senior Analyst,Senior Professional,10,92964.01,Female,Minority,No,No,26,Under 30,11/12/2020,,,,E00004,Midwest,0,Doctorate,3.1,1,Market Premium,0.9,None,,,Regular
+E00346,Quinn Wright,IT,Administrator,Manager,10,102363.35,Male,Non-Minority,No,No,34,30-39,10/04/2021,,,,E00012,Northeast,0,Associates,2.2,0,Standard,1.5,None,,,Regular
+E00347,Cameron Scott,Operations,Analyst II,Senior Professional,12,101203.93,Female,Minority,No,No,65,60+,01/31/2018,10/22/2020,Involuntary - Performance,Involuntary,E00026,Northeast,0,Associates,5.9,0,Market Premium,3.4,Personal,01/02/2023,06/11/2023,Regular
+E00348,Emery Taylor,Risk Management,Specialist,Director,17,135138.64,Male,Non-Minority,No,No,32,30-39,12/25/2013,,,,E00038,Midwest,0,None,10.0,1,Market Premium,0.8,None,,,Regular
+E00349,Quinn King,Marketing,Associate,Senior Professional,14,113412.91,Male,Non-Minority,No,No,63,60+,02/11/2011,,,,E00050,Southeast,0,Associates,12.9,1,Market Premium,8.9,None,,,Regular
+E00350,Elliot Jones,Finance,Senior Director,Professional,5,60907.0,Male,Minority,No,No,33,30-39,07/06/2021,,,,E00031,Remote,0,None,2.5,1,Standard,1.1,None,,,Regular
+E00351,Addison Taylor,Supply Chain,Manager,Entry,9,95128.16,Male,Minority,No,No,38,30-39,11/07/2016,,,,E00025,Southeast,0,Masters,7.1,1,Market Premium,5.3,Family Care,06/15/2022,08/07/2022,Regular
+E00352,Cameron Harris,Customer Service,Director,Senior Manager,15,148406.86,Male,Non-Minority,No,No,40,30-39,02/10/2023,10/01/2024,Voluntary - New Opportunity,Voluntary,E00036,Midwest,1,None,0.9,0,Market Premium,0.6,None,,,Regular
+E00353,Jamie Clark,Research,VP,Entry,10,94514.41,Male,Non-Minority,No,No,63,60+,03/14/2016,,,,E00018,Midwest,0,Associates,7.8,1,Standard,4.5,None,,,Regular
+E00354,Skyler Anderson,Finance,Senior Director,Entry,14,123823.05,Male,Minority,No,No,30,Under 30,05/23/2015,,,,E00026,Northeast,0,Masters,8.6,1,Market Premium,2.7,None,,,Regular
+E00355,Jordan White,Legal,VP,Professional,11,106667.68,Female,Minority,No,No,58,50-59,05/22/2019,,,,E00048,Southeast,0,Bachelors,4.6,1,Technical,3.8,None,,,Regular
+E00356,Blake Lee,Research,Senior Associate,Manager,17,134406.96,Male,Non-Minority,No,No,32,30-39,12/28/2021,,,,E00043,Remote,0,Associates,2.0,1,Market Premium,0.7,None,,,Regular
+E00357,Peyton Thompson,Supply Chain,Coordinator,Senior Professional,9,91308.33,Female,Non-Minority,No,No,33,30-39,11/14/2012,,,,E00047,Midwest,0,None,11.1,1,Standard,4.4,None,,,Regular
+E00358,Jamie White,Legal,Senior Associate,Professional,10,92430.81,Female,Non-Minority,No,No,51,50-59,11/20/2016,,,,E00024,Northeast,0,Masters,7.1,1,Standard,6.7,None,,,Regular
+E00359,Finley Wright,IT,Associate,Senior Professional,14,114464.96,Male,Non-Minority,No,No,54,50-59,02/02/2023,,,,E00005,Northeast,0,Masters,0.9,1,Technical,0.8,None,,,Regular
+E00360,Reese Wright,Sales,Consultant,Entry,10,101899.19,Male,Non-Minority,No,No,51,50-59,03/19/2011,05/24/2013,Voluntary - Career Change,Voluntary,E00027,Southeast,0,Bachelors,12.8,1,Technical,2.8,None,,,Regular
+E00361,Riley Anderson,Product,Senior Director,Professional,10,93251.93,Male,Non-Minority,Yes,No,25,Under 30,10/25/2011,,,,E00041,Northeast,0,Masters,12.2,0,Market Premium,3.1,None,,,Regular
+E00362,Peyton Hall,IT,Coordinator,Senior Professional,7,75720.35,Male,Non-Minority,No,No,27,Under 30,10/13/2013,,,,E00032,Southeast,0,Doctorate,10.2,1,Market Premium,7.0,None,,,Regular
+E00363,Alex Johnson,Legal,Senior Manager,Senior Manager,17,134486.9,Female,Non-Minority,No,No,34,30-39,01/18/2019,,,,E00025,Midwest,0,None,5.0,1,Market Premium,4.3,None,,,Regular
+E00364,Sydney Davis,Research,Associate,Senior Professional,5,62633.67,Male,Non-Minority,No,No,44,40-49,11/29/2021,07/16/2024,Voluntary - New Opportunity,Voluntary,E00041,Midwest,0,Associates,2.1,1,Standard,1.3,None,,,Regular
+E00365,Marley Johnson,Engineering,Senior Associate,Senior Manager,12,100868.59,Female,Minority,No,No,40,30-39,03/16/2023,,,,E00005,West,0,Doctorate,0.8,1,Technical,0.9,None,,,Regular
+E00366,Blake Hall,Research,Associate,Senior Manager,12,128968.68,Male,Minority,No,No,32,30-39,09/23/2019,,,,E00032,West,1,None,4.3,1,Standard,1.5,Parental,06/22/2019,07/30/2019,Regular
+E00367,Rowan Garcia,Supply Chain,Analyst II,Professional,5,61995.17,Female,Minority,No,No,45,40-49,09/27/2014,,,,E00038,Northeast,0,Masters,9.3,1,Technical,2.9,None,,,Regular
+E00368,Jordan Lewis,IT,Analyst II,Professional,5,58945.0,Female,Minority,No,No,63,60+,12/29/2021,,,,E00039,Northeast,0,None,2.0,0,Technical,0.7,None,,,Regular
+E00369,Jamie Martin,Legal,VP,Senior Professional,6,68400.12,Male,Non-Minority,Yes,No,31,30-39,12/19/2019,,,,E00036,Southeast,0,None,4.0,0,Market Premium,2.2,None,,,Regular
+E00370,River Harris,Research,VP,Senior Professional,13,111287.2,Male,Minority,No,No,30,Under 30,04/07/2012,,,,E00018,West,0,None,11.7,1,Technical,8.9,None,,,Regular
+E00371,Finley Miller,Engineering,Director,Senior Professional,6,73350.22,Female,Non-Minority,No,No,34,30-39,08/22/2012,,,,E00007,Midwest,0,Doctorate,11.4,1,Standard,4.6,None,,,Regular
+E00372,Elliot Miller,Finance,VP,Entry,13,111125.89,Female,Non-Minority,No,No,52,50-59,03/11/2019,12/29/2022,Voluntary - Career Change,Voluntary,E00032,Midwest,0,Associates,4.8,0,Standard,0.6,None,,,Regular
+E00373,Finley Jones,Human Resources,Analyst II,Professional,14,115527.0,Male,Non-Minority,No,No,54,50-59,12/31/2011,,,,E00043,Northeast,0,None,12.0,0,Market Premium,8.2,None,,,Regular
+E00374,Jordan Brown,Engineering,Administrator,Entry,9,92880.14,Female,Non-Minority,No,No,33,30-39,03/30/2020,,,,E00030,Northeast,0,Bachelors,3.8,0,Market Premium,3.5,None,,,Regular
+E00375,Skyler Clark,Human Resources,Senior Analyst,Manager,10,95442.73,Female,Minority,No,No,43,40-49,01/05/2017,04/13/2022,Voluntary - Relocation,Voluntary,E00009,Midwest,0,Masters,7.0,1,Technical,2.4,None,,,Regular
+E00376,Morgan Thomas,Operations,Senior Specialist,Senior Professional,10,114558.75,Female,Minority,No,No,51,50-59,02/01/2012,,,,E00012,Midwest,1,Masters,11.9,1,Technical,10.6,None,,,Regular
+E00377,Casey Robinson,Research,VP,Professional,7,79186.57,Female,Non-Minority,No,No,25,Under 30,06/17/2019,,,,E00008,Southeast,0,None,4.5,1,Market Premium,4.6,None,,,Regular
+E00378,Dakota Garcia,Communications,Director,Entry,14,116028.4,Male,Minority,No,No,46,40-49,10/29/2020,,,,E00044,Midwest,0,Doctorate,3.2,0,Standard,3.3,None,,,Regular
+E00379,Charlie Moore,Product,Manager,Manager,17,145442.21,Male,Non-Minority,No,No,24,Under 30,12/06/2012,,,,E00008,Northeast,0,Bachelors,11.1,1,Technical,4.0,None,,,Regular
+E00380,Reese Davis,Communications,Senior Director,Senior Professional,14,112418.65,Female,Non-Minority,No,No,43,40-49,10/09/2021,,,,E00047,Remote,0,Doctorate,2.2,0,Technical,2.0,None,,,Regular
+E00381,Blake Lewis,Legal,Senior Director,Professional,8,72425.67,Male,Non-Minority,No,No,63,60+,02/20/2012,,,,E00031,West,0,Associates,11.9,0,Technical,11.1,None,,,Regular
+E00382,Elliot Garcia,Finance,Senior Manager,Senior Manager,10,80796.04,Female,Minority,No,No,52,50-59,09/30/2023,,,,E00042,West,0,Associates,0.3,0,Standard,0.7,None,,,Regular
+E00383,Jordan Lee,Sales,Associate,Entry,10,100293.64,Male,Non-Minority,No,No,57,50-59,03/11/2017,,,,E00018,West,0,Masters,6.8,1,Standard,1.0,None,,,Regular
+E00384,Drew Brown,Human Resources,Manager,Senior Professional,12,112290.59,Female,Non-Minority,No,No,63,60+,12/18/2019,,,,E00029,Northeast,0,None,4.0,0,Market Premium,2.1,None,,,Regular
+E00385,Peyton Harris,Customer Service,Director,Professional,5,65296.19,Female,Minority,No,No,62,60+,07/01/2022,,,,E00006,Midwest,0,Doctorate,1.5,1,Technical,0.8,None,,,Regular
+E00386,Addison Jackson,Risk Management,Specialist,Entry,5,64983.51,Female,Minority,No,No,57,50-59,03/26/2020,07/19/2024,Involuntary - Restructuring,Involuntary,E00015,Remote,0,Doctorate,3.8,0,Market Premium,3.2,None,,,Regular
+E00387,Morgan Hall,Supply Chain,Senior Director,Manager,17,137671.48,Male,Non-Minority,No,No,36,30-39,02/24/2018,,,,E00008,Northeast,0,Bachelors,5.9,0,Market Premium,5.4,None,,,Regular
+E00388,Logan Brown,Customer Service,Analyst I,Professional,13,111941.67,Male,Non-Minority,No,No,32,30-39,07/19/2016,,,,E00024,West,0,Associates,7.5,1,Technical,6.1,None,,,Regular
+E00389,Morgan Scott,IT,Administrator,Manager,13,131893.64,Female,Non-Minority,No,No,47,40-49,03/07/2019,11/14/2020,Involuntary - Performance,Involuntary,E00013,Southeast,1,Masters,4.8,1,Standard,3.9,None,,,Regular
+E00390,Elliot Clark,Communications,Administrator,Senior Professional,11,95731.22,Male,Minority,No,No,65,60+,06/01/2012,,,,E00003,Remote,0,None,11.6,1,Market Premium,5.8,None,,,Regular
+E00391,Alex Lee,Customer Service,VP,Professional,7,68309.44,Male,Non-Minority,No,No,25,Under 30,03/21/2023,,,,E00032,Remote,0,Masters,0.8,0,Technical,0.9,None,,,Regular
+E00392,Riley Walker,Communications,Administrator,Entry,7,73864.18,Male,Minority,No,No,30,Under 30,05/27/2021,,,,E00038,Northeast,0,Masters,2.6,0,Technical,2.1,Military,08/11/2021,09/03/2021,Regular
+E00393,Elliot Robinson,Legal,Coordinator,Entry,11,105173.76,Male,Non-Minority,No,No,37,30-39,04/22/2021,,,,E00039,Midwest,0,Masters,2.7,1,Market Premium,3.1,None,,,Regular
+E00394,Parker Harris,Communications,VP,Entry,7,76255.15,Male,Non-Minority,No,No,54,50-59,02/27/2020,,,,E00009,Midwest,0,Doctorate,3.8,1,Market Premium,3.2,None,,,Regular
+E00395,Logan Martinez,Sales,Senior Director,Entry,8,88908.98,Female,Minority,No,No,44,40-49,06/01/2022,,,,E00040,Southeast,0,Associates,1.6,1,Technical,1.4,None,,,Regular
+E00396,Blake Thompson,Supply Chain,Manager,Professional,6,69372.37,Male,Minority,No,No,59,50-59,03/25/2017,,,,E00049,Remote,0,Masters,6.8,1,Technical,5.6,None,,,Regular
+E00397,Rowan Brown,Engineering,Analyst I,Entry,11,94222.76,Male,Non-Minority,No,No,46,40-49,12/22/2021,,,,E00001,Southeast,0,None,2.0,0,Technical,0.6,None,,,Regular
+E00398,Marley Johnson,Research,VP,Professional,9,83023.53,Male,Non-Minority,No,No,40,30-39,12/28/2015,04/15/2018,Involuntary - Performance,Involuntary,E00010,Southeast,0,Doctorate,8.0,1,Standard,3.4,None,,,Regular
+E00399,Cameron Thompson,Human Resources,Senior Specialist,Director,13,118952.74,Female,Non-Minority,No,No,37,30-39,02/25/2020,,,,E00048,Remote,0,Bachelors,3.8,1,Technical,3.0,None,,,Regular
+E00400,Alex Walker,Communications,Senior Associate,Entry,10,87350.34,Male,Minority,No,No,34,30-39,07/23/2018,05/25/2023,Voluntary - Return to School,Voluntary,E00004,Remote,0,Masters,5.4,0,Standard,5.4,Personal,02/15/2022,06/26/2022,Regular
+E00401,Kendall Walker,Supply Chain,Associate,Professional,14,114843.65,Male,Non-Minority,No,No,40,30-39,03/14/2023,,,,E00013,West,0,Associates,0.8,0,Technical,0.6,None,,,Regular
+E00402,Jamie Thompson,Legal,Senior Associate,Senior Professional,5,66766.19,Male,Minority,No,No,30,Under 30,11/24/2013,02/25/2020,Voluntary - Relocation,Voluntary,E00028,Southeast,1,Doctorate,10.1,1,Market Premium,0.6,None,,,Regular
+E00403,Jordan Hall,Marketing,Consultant,Entry,10,92984.62,Male,Non-Minority,No,No,62,60+,06/17/2020,09/09/2022,Voluntary - New Opportunity,Voluntary,E00039,Remote,0,Bachelors,3.5,0,Market Premium,3.3,None,,,Regular
+E00404,Drew Lee,Operations,Associate,Professional,6,70613.89,Male,Non-Minority,No,No,33,30-39,05/04/2022,,,,E00046,Remote,0,None,1.7,1,Technical,0.8,None,,,Regular
+E00405,Blake Davis,Customer Service,Consultant,Senior Professional,11,107731.13,Male,Non-Minority,No,No,35,30-39,03/07/2022,,,,E00006,Midwest,0,Bachelors,1.8,1,Market Premium,1.0,None,,,Regular
+E00406,Marley Hall,Customer Service,Senior Director,Senior Professional,12,103929.39,Female,Non-Minority,No,No,22,Under 30,11/13/2023,,,,E00036,Northeast,0,Bachelors,0.1,1,Market Premium,0.5,None,,,Regular
+E00407,Charlie Anderson,IT,Senior Specialist,Professional,8,76724.32,Female,Non-Minority,No,No,29,Under 30,10/07/2023,,,,E00044,West,0,Bachelors,0.2,1,Technical,0.6,None,,,Regular
+E00408,Peyton Lee,Customer Service,Manager,Senior Manager,15,134486.44,Female,Non-Minority,No,No,53,50-59,07/22/2010,,,,E00033,Northeast,0,Bachelors,13.4,0,Technical,3.1,None,,,Regular
+E00409,Kendall Thompson,Human Resources,Senior Manager,Professional,6,72821.81,Female,Minority,No,No,22,Under 30,07/11/2021,,,,E00011,Northeast,0,Associates,2.5,0,Technical,2.1,None,,,Regular
+E00410,Quinn Thompson,Risk Management,Administrator,Senior Professional,11,97586.76,Female,Minority,No,No,49,40-49,10/13/2014,,,,E00007,Northeast,0,Associates,9.2,0,Standard,4.7,None,,,Regular
+E00411,Jordan Garcia,Finance,Coordinator,Professional,6,70679.08,Male,Non-Minority,No,No,38,30-39,06/10/2017,,,,E00005,Remote,0,None,6.6,1,Technical,5.9,None,,,Regular
+E00412,Hayden Moore,Legal,Specialist,Professional,11,99932.72,Male,Non-Minority,No,No,23,Under 30,10/20/2015,,,,E00041,West,0,None,8.2,1,Technical,0.5,Family Care,09/17/2018,12/31/2018,Regular
+E00413,Elliot Lee,Finance,Analyst II,Manager,11,97863.43,Female,Non-Minority,No,No,40,30-39,02/19/2023,,,,E00023,Midwest,0,Doctorate,0.9,1,Standard,0.8,None,,,Regular
+E00414,Riley Thompson,Risk Management,Associate,Senior Professional,5,62332.0,Female,Non-Minority,No,No,30,Under 30,10/26/2019,08/02/2024,Voluntary - Return to School,Voluntary,E00031,West,0,Doctorate,4.2,1,Market Premium,4.5,None,,,Regular
+E00415,Emery King,Engineering,Senior Manager,Entry,10,111690.27,Male,Non-Minority,No,No,31,30-39,03/26/2013,,,,E00001,Northeast,1,None,10.8,1,Standard,6.7,None,,,Regular
+E00416,Sage Miller,Customer Service,VP,Professional,13,106792.64,Male,Minority,No,No,44,40-49,11/03/2018,,,,E00006,Southeast,0,Masters,5.2,1,Technical,4.9,None,,,Regular
+E00417,Marley Rodriguez,Marketing,Associate,Entry,7,78847.65,Male,Minority,No,No,29,Under 30,03/12/2013,,,,E00040,Southeast,0,Doctorate,10.8,1,Standard,9.7,Medical,03/05/2023,04/27/2023,Regular
+E00418,Morgan Miller,Research,VP,Manager,11,108332.7,Female,Non-Minority,No,No,59,50-59,04/30/2022,08/22/2023,Involuntary - Performance,Involuntary,E00017,West,0,Bachelors,1.7,1,Market Premium,0.7,None,,,Regular
+E00419,Taylor Wright,Human Resources,Associate,Entry,9,88838.6,Male,Non-Minority,Yes,No,42,40-49,04/06/2015,,,,E00040,West,0,Masters,8.7,1,Market Premium,5.9,None,,,Regular
+E00420,Reese White,Supply Chain,Specialist,Entry,14,124972.96,Female,Non-Minority,No,No,42,40-49,11/09/2016,,,,E00010,West,0,Associates,7.1,0,Standard,2.7,None,,,Regular
+E00421,Marley Taylor,Supply Chain,Senior Analyst,Professional,11,123693.91,Male,Non-Minority,No,No,65,60+,12/20/2014,,,,E00018,Midwest,1,Masters,9.0,0,Market Premium,4.5,None,,,Regular
+E00422,Cameron Harris,Product,Analyst II,Director,11,105487.95,Female,Minority,No,No,39,30-39,11/07/2016,,,,E00012,Southeast,0,Doctorate,7.1,0,Standard,2.4,None,,,Regular
+E00423,Addison Lee,Supply Chain,Senior Director,Senior Manager,11,107544.25,Female,Minority,Yes,No,23,Under 30,09/19/2011,,,,E00002,Remote,0,Doctorate,12.3,1,Market Premium,10.0,None,,,Regular
+E00424,Emery Wright,Finance,Senior Manager,Entry,13,118035.67,Female,Non-Minority,Yes,No,52,50-59,10/09/2014,,,,E00017,Southeast,0,Bachelors,9.2,1,Market Premium,2.6,None,,,Regular
+E00425,Rowan Williams,Marketing,Senior Specialist,Director,17,132445.95,Female,Minority,No,No,45,40-49,03/24/2023,,,,E00033,Remote,0,None,0.8,1,Technical,0.7,None,,,Regular
+E00426,Riley Garcia,Communications,Director,Manager,12,103497.32,Female,Non-Minority,No,No,58,50-59,10/10/2023,,,,E00029,Southeast,0,Masters,0.2,1,Market Premium,0.5,None,,,Regular
+E00427,Blake Davis,Sales,Analyst I,Senior Professional,6,63695.38,Female,Non-Minority,No,No,64,60+,12/08/2020,,,,E00017,Southeast,0,Doctorate,3.1,1,Market Premium,1.7,None,,,Regular
+E00428,Drew Brown,Finance,VP,Senior Professional,5,65378.8,Female,Non-Minority,No,No,55,50-59,03/13/2020,,,,E00042,Midwest,0,Bachelors,3.8,1,Technical,2.6,None,,,Regular
+E00429,Cameron Wright,Legal,Administrator,Professional,11,97356.61,Female,Non-Minority,No,No,26,Under 30,11/25/2013,,,,E00038,Remote,0,Bachelors,10.1,1,Market Premium,10.3,Parental,07/01/2020,08/19/2020,Regular
+E00430,Peyton Martin,Operations,Consultant,Professional,10,111496.13,Male,Minority,No,No,60,50-59,08/01/2021,,,,E00032,Northeast,1,Doctorate,2.4,1,Standard,1.6,None,,,Regular
+E00431,Quinn Jones,Human Resources,Senior Analyst,Senior Professional,13,114561.89,Male,Non-Minority,No,No,32,30-39,02/28/2015,,,,E00018,Midwest,0,Doctorate,8.8,1,Technical,7.7,Military,08/01/2020,10/21/2020,Regular
+E00432,Morgan Martin,Communications,Senior Director,Manager,15,148765.81,Male,Non-Minority,No,No,52,50-59,04/20/2019,,,,E00047,West,1,Associates,4.7,0,Technical,1.3,None,,,Regular
+E00433,Reese Garcia,Finance,Senior Analyst,Entry,7,75032.35,Female,Non-Minority,No,No,62,60+,03/21/2019,12/17/2019,Voluntary - Retirement,Voluntary,E00037,Remote,0,None,4.8,1,Technical,1.2,None,,,Regular
+E00434,Cameron Smith,Customer Service,Consultant,Senior Professional,11,105197.34,Female,Non-Minority,No,No,64,60+,09/24/2013,02/12/2017,Voluntary - Career Change,Voluntary,E00037,Midwest,0,None,10.3,1,Standard,5.1,Personal,04/15/2023,07/31/2023,Regular
+E00435,Casey Allen,Marketing,Director,Manager,13,111886.4,Female,Non-Minority,No,No,33,30-39,10/20/2020,,,,E00039,Remote,0,Doctorate,3.2,1,Market Premium,1.0,Family Care,11/04/2021,04/16/2022,Regular
+E00436,Hayden Thomas,IT,Senior Analyst,Professional,14,138803.68,Female,Minority,No,No,28,Under 30,03/03/2020,,,,E00015,Northeast,1,Associates,3.8,1,Technical,3.8,None,,,Regular
+E00437,Morgan Garcia,Research,Manager,Senior Professional,11,104703.36,Female,Minority,No,No,61,60+,04/24/2021,,,,E00039,Remote,0,None,2.7,0,Technical,1.9,Medical,04/27/2019,07/13/2019,Regular
+E00438,Emery Young,Product,Analyst I,Professional,7,79913.69,Male,Non-Minority,No,No,65,60+,02/03/2012,,,,E00039,West,0,Doctorate,11.9,1,Market Premium,4.9,None,,,Regular
+E00439,Peyton Martin,Supply Chain,Coordinator,Manager,16,130389.71,Female,Non-Minority,Yes,No,46,40-49,12/22/2010,,,,E00015,Midwest,0,Doctorate,13.0,1,Technical,12.3,None,,,Regular
+E00440,Avery Scott,Marketing,Administrator,Entry,9,100967.59,Female,Minority,No,No,27,Under 30,12/03/2022,07/05/2024,Voluntary - Return to School,Voluntary,E00050,Midwest,1,Doctorate,1.1,1,Technical,0.9,Family Care,02/14/2020,04/27/2020,Regular
+E00441,Morgan Lee,Supply Chain,Analyst I,Senior Manager,10,99037.31,Female,Non-Minority,Yes,No,46,40-49,02/14/2010,,,,E00034,Southeast,0,Bachelors,13.9,0,Market Premium,5.5,Personal,09/26/2019,12/14/2019,Regular
+E00442,Jamie King,Research,Senior Manager,Professional,14,122112.88,Female,Minority,No,No,49,40-49,07/23/2019,,,,E00017,Remote,0,Bachelors,4.4,1,Technical,1.7,None,,,Regular
+E00443,Riley Taylor,Customer Service,Senior Manager,Senior Professional,13,112944.54,Female,Non-Minority,No,No,57,50-59,11/30/2018,09/09/2021,Voluntary - Return to School,Voluntary,E00031,West,0,Bachelors,5.1,1,Market Premium,3.4,None,,,Regular
+E00444,Morgan Walker,Supply Chain,Associate,Senior Professional,7,72276.56,Male,Minority,Yes,No,50,40-49,12/06/2018,,,,E00043,Southeast,0,None,5.1,0,Standard,3.1,None,,,Regular
+E00445,Logan Lewis,Communications,VP,Professional,13,102205.2,Female,Minority,No,No,25,Under 30,08/04/2017,,,,E00040,Southeast,0,Masters,6.4,1,Technical,0.5,None,,,Regular
+E00446,Parker Williams,Risk Management,Analyst II,Entry,7,71138.83,Female,Non-Minority,No,No,38,30-39,01/17/2012,,,,E00039,Southeast,0,Bachelors,12.0,1,Standard,7.8,Family Care,04/24/2022,07/23/2022,Regular
+E00447,Logan Harris,IT,Analyst I,Senior Professional,13,131320.72,Female,Minority,No,No,33,30-39,12/27/2018,,,,E00019,West,1,Masters,5.0,0,Standard,1.5,None,,,Regular
+E00448,Rowan Lee,Sales,VP,Professional,5,58742.98,Male,Minority,No,No,36,30-39,08/15/2021,,,,E00039,Remote,0,Associates,2.4,0,Technical,0.6,None,,,Regular
+E00449,Jamie Hall,Research,Senior Specialist,Senior Professional,5,68721.66,Male,Minority,No,No,44,40-49,05/14/2015,,,,E00006,West,0,Masters,8.6,1,Technical,2.2,Medical,03/04/2018,04/10/2018,Regular
+E00450,Blake Young,Supply Chain,Senior Associate,Professional,13,109654.66,Female,Minority,No,No,36,30-39,07/17/2011,01/16/2013,Involuntary - Performance,Involuntary,E00023,Remote,0,Associates,12.5,0,Market Premium,12.1,Personal,01/20/2018,06/29/2018,Regular
+E00451,Emery Williams,Marketing,Senior Manager,Entry,11,122142.29,Male,Minority,No,No,40,30-39,11/09/2015,,,,E00007,Midwest,1,None,8.1,1,Technical,8.2,Personal,10/21/2020,02/14/2021,Regular
+E00452,Kendall Davis,Legal,Coordinator,Entry,14,113460.08,Male,Non-Minority,No,No,43,40-49,12/07/2019,,,,E00031,West,0,Masters,4.1,1,Technical,4.0,None,,,Regular
+E00453,Hayden Clark,Human Resources,Coordinator,Entry,9,83875.04,Male,Non-Minority,No,No,36,30-39,10/23/2020,,,,E00005,Southeast,0,Bachelors,3.2,1,Market Premium,3.6,None,,,Regular
+E00454,Taylor Thomas,Finance,Senior Director,Professional,9,92807.39,Male,Minority,No,No,43,40-49,08/02/2021,,,,E00019,Northeast,0,Doctorate,2.4,0,Standard,1.6,Medical,12/19/2021,05/27/2022,Regular
+E00455,Sydney Lewis,IT,Consultant,Professional,9,81335.05,Male,Minority,Yes,No,34,30-39,11/26/2014,,,,E00012,West,0,Associates,9.1,0,Standard,7.2,None,,,Regular
+E00456,Blake Jones,Sales,Coordinator,Senior Professional,8,78964.3,Female,Non-Minority,No,No,28,Under 30,12/15/2015,10/06/2018,Voluntary - Retirement,Voluntary,E00040,Northeast,0,None,8.0,1,Technical,8.1,None,,,Regular
+E00457,Addison Thompson,IT,Analyst I,Manager,10,102723.66,Female,Minority,No,No,52,50-59,01/18/2021,,,,E00049,Midwest,1,Doctorate,3.0,1,Market Premium,2.0,None,,,Regular
+E00458,Riley Hall,Risk Management,Consultant,Senior Professional,9,88049.92,Female,Minority,No,No,54,50-59,11/20/2022,,,,E00032,Midwest,0,Masters,1.1,1,Standard,1.3,None,,,Regular
+E00459,Rowan Taylor,Product,Senior Specialist,Professional,13,118334.35,Female,Non-Minority,No,No,65,60+,11/16/2012,12/22/2013,Voluntary - Return to School,Voluntary,E00003,Southeast,0,Masters,11.1,1,Standard,8.3,None,,,Regular
+E00460,Morgan Anderson,Finance,Specialist,Professional,8,88468.49,Male,Non-Minority,No,No,61,60+,04/26/2020,05/07/2024,Voluntary - New Opportunity,Voluntary,E00038,Midwest,0,Associates,3.7,1,Technical,1.5,Family Care,01/08/2021,03/18/2021,Regular
+E00461,Riley Martin,IT,Senior Specialist,Senior Professional,10,103106.13,Male,Non-Minority,No,No,35,30-39,07/28/2020,,,,E00024,West,0,Bachelors,3.4,1,Market Premium,3.4,None,,,Regular
+E00462,Skyler Davis,IT,Administrator,Entry,7,64057.92,Female,Non-Minority,No,No,28,Under 30,04/09/2016,10/26/2021,Voluntary - Career Change,Voluntary,E00037,Midwest,0,Associates,7.7,0,Technical,3.8,None,,,Regular
+E00463,Casey Martin,Sales,Coordinator,Manager,12,101945.66,Female,Minority,No,No,22,Under 30,07/18/2018,,,,E00048,Southeast,0,Masters,5.5,1,Market Premium,1.2,None,,,Regular
+E00464,Jamie Thompson,Customer Service,Administrator,Manager,15,136086.53,Male,Non-Minority,No,No,58,50-59,08/06/2021,,,,E00020,Northeast,1,Masters,2.4,1,Standard,2.2,Family Care,09/03/2018,10/06/2018,Regular
+E00465,Marley Clark,Risk Management,Analyst II,Professional,9,93567.37,Male,Non-Minority,No,No,50,40-49,11/01/2014,,,,E00031,Midwest,0,Bachelors,9.2,1,Market Premium,3.8,None,,,Regular
+E00466,Parker Brown,Communications,Specialist,Director,14,121852.54,Female,Non-Minority,No,Yes,65,60+,07/03/2022,,,,E00002,Remote,0,Associates,1.5,1,Technical,1.4,Parental,12/16/2019,03/22/2020,Regular
+E00467,Rowan Martin,Operations,Coordinator,Senior Professional,10,98844.2,Male,Non-Minority,Yes,No,50,40-49,05/20/2016,,,,E00044,Northeast,0,Masters,7.6,0,Technical,2.7,None,,,Regular
+E00468,Peyton Scott,Risk Management,Specialist,Professional,7,71488.65,Female,Non-Minority,No,No,48,40-49,04/01/2013,,,,E00041,Remote,0,Doctorate,10.8,1,Market Premium,9.7,None,,,Regular
+E00469,Avery Anderson,Human Resources,Specialist,Senior Manager,12,115203.07,Male,Non-Minority,No,No,63,60+,08/08/2011,,,,E00022,Midwest,0,Bachelors,12.4,1,Technical,8.5,None,,,Regular
+E00470,Reese Lee,Product,Manager,Senior Manager,15,121126.93,Female,Non-Minority,No,No,48,40-49,02/01/2016,,,,E00048,Southeast,0,Associates,7.9,1,Standard,1.5,None,,,Regular
+E00471,Logan Walker,Research,Analyst II,Entry,9,87398.51,Male,Non-Minority,Yes,No,35,30-39,04/07/2015,,,,E00048,Southeast,0,Masters,8.7,1,Standard,1.3,None,,,Regular
+E00472,Kendall Thomas,Customer Service,Senior Manager,Entry,5,76894.62,Female,Minority,Yes,No,27,Under 30,08/12/2020,,,,E00002,Northeast,1,Bachelors,3.4,1,Technical,1.0,None,,,Regular
+E00473,Casey Jones,Sales,Senior Manager,Senior Professional,9,82062.15,Female,Minority,Yes,No,32,30-39,09/29/2018,09/15/2022,Voluntary - Retirement,Voluntary,E00041,Northeast,0,None,5.3,0,Technical,2.4,Family Care,08/25/2021,01/09/2022,Regular
+E00474,Emery Jackson,Product,Senior Analyst,Professional,13,112559.54,Female,Non-Minority,No,No,56,50-59,09/05/2020,,,,E00018,Southeast,0,Doctorate,3.3,1,Technical,2.0,None,,,Regular
+E00475,Finley Thompson,Legal,Associate,Senior Manager,14,119315.94,Female,Minority,No,No,27,Under 30,08/26/2022,,,,E00023,West,0,Bachelors,1.3,1,Market Premium,1.0,None,,,Regular
+E00476,Rowan Young,Engineering,Coordinator,Manager,10,108281.71,Female,Minority,No,No,30,Under 30,06/29/2013,,,,E00001,Midwest,1,Bachelors,10.5,1,Market Premium,6.1,None,,,Regular
+E00477,Alex Hall,Communications,Senior Specialist,Professional,12,108966.54,Male,Non-Minority,Yes,No,40,30-39,01/12/2021,,,,E00020,Remote,0,Associates,3.0,1,Standard,2.1,None,,,Regular
+E00478,Logan Walker,Legal,Senior Director,Manager,13,111301.46,Male,Minority,No,No,46,40-49,03/25/2014,05/04/2019,Voluntary - Return to School,Voluntary,E00011,West,0,Associates,9.8,1,Market Premium,1.3,None,,,Regular
+E00479,Skyler Rodriguez,Customer Service,Senior Associate,Entry,14,116120.28,Female,Non-Minority,No,No,63,60+,05/17/2015,,,,E00045,Remote,0,Bachelors,8.6,1,Market Premium,2.1,None,,,Regular
+E00480,Morgan Clark,Marketing,Manager,Professional,7,75480.14,Female,Minority,No,Yes,61,60+,07/15/2011,,,,E00019,West,0,Bachelors,12.5,0,Technical,8.3,None,,,Regular
+E00481,Jordan Thompson,Operations,Analyst I,Manager,10,109708.86,Female,Non-Minority,No,No,33,30-39,03/19/2014,,,,E00010,Northeast,1,Bachelors,9.8,1,Market Premium,1.7,None,,,Regular
+E00482,Taylor Jones,Supply Chain,Analyst I,Professional,5,66107.79,Male,Non-Minority,No,No,53,50-59,11/01/2019,,,,E00015,Southeast,0,Bachelors,4.2,1,Market Premium,1.8,None,,,Regular
+E00483,Peyton Johnson,Operations,Specialist,Entry,12,103105.81,Female,Non-Minority,No,No,27,Under 30,03/06/2021,,,,E00045,Southeast,0,None,2.8,1,Market Premium,2.7,None,,,Regular
+E00484,Quinn Wright,Customer Service,Administrator,Professional,12,108159.21,Male,Non-Minority,No,No,38,30-39,08/08/2011,,,,E00012,West,0,None,12.4,1,Standard,12.6,None,,,Regular
+E00485,Jordan Miller,Legal,Manager,Professional,12,97549.95,Female,Non-Minority,No,No,28,Under 30,08/02/2015,,,,E00048,Remote,0,Associates,8.4,0,Market Premium,3.8,Medical,07/02/2021,08/29/2021,Regular
+E00486,Elliot Thompson,Marketing,Senior Manager,Entry,5,73993.63,Male,Non-Minority,No,No,29,Under 30,03/31/2017,,,,E00048,Midwest,0,Masters,6.8,0,Technical,2.5,None,,,Regular
+E00487,Avery Clark,Finance,Senior Specialist,Professional,8,84689.79,Male,Non-Minority,No,No,42,40-49,01/31/2018,,,,E00008,Northeast,0,Associates,5.9,1,Market Premium,3.9,None,,,Regular
+E00488,Jordan White,Communications,Coordinator,Senior Professional,8,82525.88,Male,Non-Minority,No,No,52,50-59,11/17/2018,,,,E00001,Remote,0,Associates,5.1,1,Market Premium,4.4,None,,,Regular
+E00489,Elliot Hall,Human Resources,Senior Director,Senior Professional,14,116612.95,Female,Non-Minority,Yes,No,25,Under 30,07/31/2015,11/02/2017,Voluntary - Personal,Voluntary,E00022,Northeast,0,Bachelors,8.4,1,Technical,1.8,None,,,Regular
+E00490,Finley Davis,Communications,Specialist,Professional,6,80233.3,Female,Non-Minority,No,No,57,50-59,01/11/2022,,,,E00009,Midwest,1,Masters,2.0,0,Technical,0.9,None,,,Regular
+E00491,Charlie Johnson,Operations,Manager,Professional,7,86932.07,Female,Minority,No,No,50,40-49,06/22/2018,,,,E00017,Remote,1,Bachelors,5.5,1,Technical,4.3,None,,,Regular
+E00492,Blake Anderson,IT,VP,Professional,7,70918.11,Female,Minority,Yes,No,51,50-59,04/04/2014,,,,E00035,Midwest,0,Doctorate,9.7,0,Technical,2.1,None,,,Regular
+E00493,Marley Rodriguez,Marketing,Senior Manager,Entry,12,104520.61,Male,Non-Minority,No,No,45,40-49,11/30/2021,,,,E00019,West,0,None,2.1,1,Technical,1.6,None,,,Regular
+E00494,Kendall Harris,Finance,Associate,Senior Professional,14,113548.96,Male,Non-Minority,No,No,42,40-49,02/28/2014,,,,E00024,Northeast,0,Doctorate,9.8,1,Market Premium,2.4,None,,,Regular
+E00495,River Martinez,Communications,Specialist,Senior Professional,13,98726.87,Female,Non-Minority,No,No,48,40-49,02/27/2021,,,,E00010,Midwest,0,None,2.8,1,Standard,2.0,None,,,Regular
+E00496,Quinn Brown,Finance,Manager,Senior Professional,7,79791.68,Male,Non-Minority,No,No,34,30-39,07/01/2011,,,,E00003,Northeast,0,None,12.5,1,Technical,8.5,Medical,05/11/2022,09/26/2022,Regular
+E00497,Jamie Johnson,Customer Service,Specialist,Entry,14,123223.87,Male,Non-Minority,No,No,36,30-39,12/27/2020,,,,E00038,Remote,0,None,3.0,1,Standard,3.3,Military,05/04/2020,10/12/2020,Regular
+E00498,Peyton Clark,Risk Management,Analyst I,Senior Professional,6,70530.84,Male,Minority,No,No,45,40-49,01/08/2021,,,,E00030,Remote,0,Masters,3.0,1,Market Premium,2.9,None,,,Regular
+E00499,Rowan Johnson,Risk Management,VP,Senior Professional,14,125831.19,Female,Non-Minority,No,No,26,Under 30,04/23/2011,,,,E00018,Midwest,0,None,12.7,0,Standard,12.7,None,,,Regular
+E00500,Hayden Miller,Human Resources,Associate,Entry,8,87477.47,Female,Minority,No,No,55,50-59,03/06/2012,,,,E00035,Southeast,0,Doctorate,11.8,1,Technical,11.7,None,,,Regular

@@ -1,0 +1,501 @@
+post_id,text,topic,hashtag,timestamp,platform,likes,shares
+P00001,Reading about changes in the market #workplace #hrtech,workplace,#workplace,2023-06-22 00:00:00,Twitter,250,20
+P00002,Love the new direction we are heading #technology #hrtech,technology,#technology,2023-12-08 00:00:00,BlueSky,12,68
+P00003,Need better work-life balance support #technology #hrtech,technology,#technology,2024-11-28 00:00:00,LinkedIn,361,11
+P00004,Innovation drives success #innovation #peoplefirst,innovation,#innovation,2023-12-18 00:00:00,Twitter,245,59
+P00005,Amazing results from the latest project #leadership #futureofwork,leadership,#leadership,2023-06-29 00:00:00,Twitter,247,17
+P00006,Frustrated with the slow pace of change #innovation #culture,innovation,#innovation,2022-03-08 00:00:00,BlueSky,166,18
+P00007,Need better work-life balance support #workplace #hrtech,workplace,#workplace,2023-05-09 00:00:00,Twitter,373,13
+P00008,Great progress on our new initiative #innovation #culture,innovation,#innovation,2023-01-08 00:00:00,LinkedIn,367,56
+P00009,Panel discussion on the future of HR tech #workplace #peoplefirst,workplace,#workplace,2022-05-10 00:00:00,LinkedIn,234,87
+P00010,Reading about changes in the market #technology #hrtech,technology,#technology,2023-03-21 00:00:00,LinkedIn,474,72
+P00011,Disappointing lack of transparency #technology #futureofwork,technology,#technology,2023-01-08 00:00:00,LinkedIn,88,19
+P00012,Too much bureaucracy stifling innovation #technology #peoplefirst,technology,#technology,2022-07-26 00:00:00,Twitter,375,54
+P00013,New report on workforce analytics #leadership #futureofwork,leadership,#leadership,2023-04-29 00:00:00,Twitter,283,70
+P00014,Proud of what the team accomplished #technology #peoplefirst,technology,#technology,2023-10-28 00:00:00,Twitter,334,46
+P00015,Best practices in employee engagement #technology #culture,technology,#technology,2023-02-21 00:00:00,BlueSky,163,71
+P00016,Amazing results from the latest project #leadership #hrtech,leadership,#leadership,2022-09-08 00:00:00,BlueSky,250,92
+P00017,Outstanding teamwork and dedication #innovation #peoplefirst,innovation,#innovation,2022-11-27 00:00:00,Twitter,413,50
+P00018,Reading about changes in the market #leadership #analytics,leadership,#leadership,2023-11-13 00:00:00,Twitter,133,32
+P00019,New report on workforce analytics #innovation #peoplefirst,innovation,#innovation,2024-07-04 00:00:00,LinkedIn,309,74
+P00020,Disappointing lack of transparency #innovation #peoplefirst,innovation,#innovation,2022-12-24 00:00:00,LinkedIn,225,8
+P00021,Interesting article about industry trends #technology #futureofwork,technology,#technology,2023-05-20 00:00:00,Twitter,341,76
+P00022,Panel discussion on the future of HR tech #innovation #analytics,innovation,#innovation,2023-03-15 00:00:00,LinkedIn,251,90
+P00023,Innovation drives success #leadership #culture,leadership,#leadership,2024-11-28 00:00:00,Twitter,124,16
+P00024,Interesting article about industry trends #technology #analytics,technology,#technology,2022-10-03 00:00:00,BlueSky,406,46
+P00025,Great progress on our new initiative #innovation #culture,innovation,#innovation,2023-01-21 00:00:00,LinkedIn,88,4
+P00026,Webinar on talent management strategies #workplace #culture,workplace,#workplace,2024-09-28 00:00:00,LinkedIn,310,87
+P00027,Need better work-life balance support #innovation #futureofwork,innovation,#innovation,2023-03-08 00:00:00,LinkedIn,354,94
+P00028,Burnout is a real problem that needs addressing #leadership #peoplefirst,leadership,#leadership,2023-04-30 00:00:00,LinkedIn,326,68
+P00029,Great progress on our new initiative #innovation #analytics,innovation,#innovation,2023-02-18 00:00:00,LinkedIn,8,35
+P00030,Leadership needs to listen more to employees #leadership #hrtech,leadership,#leadership,2022-06-17 00:00:00,LinkedIn,417,73
+P00031,Excited about the future of work #leadership #hrtech,leadership,#leadership,2022-05-17 00:00:00,Twitter,177,20
+P00032,New report on workforce analytics #technology #analytics,technology,#technology,2022-11-02 00:00:00,LinkedIn,329,73
+P00033,Best practices in employee engagement #technology #futureofwork,technology,#technology,2022-02-19 00:00:00,Twitter,47,38
+P00034,Need better work-life balance support #technology #futureofwork,technology,#technology,2024-11-13 00:00:00,LinkedIn,98,7
+P00035,Disappointing lack of transparency #technology #culture,technology,#technology,2024-05-01 00:00:00,BlueSky,240,10
+P00036,Best practices in employee engagement #technology #hrtech,technology,#technology,2022-07-10 00:00:00,BlueSky,311,14
+P00037,Reviewing the latest benchmarking data #technology #analytics,technology,#technology,2022-11-06 00:00:00,BlueSky,374,19
+P00038,Proud of what the team accomplished #workplace #peoplefirst,workplace,#workplace,2022-08-30 00:00:00,Twitter,443,87
+P00039,Reviewing the latest benchmarking data #innovation #hrtech,innovation,#innovation,2022-10-13 00:00:00,BlueSky,27,14
+P00040,Struggling with outdated tools and processes #workplace #analytics,workplace,#workplace,2024-02-23 00:00:00,LinkedIn,206,13
+P00041,Innovation drives success #technology #analytics,technology,#technology,2022-09-05 00:00:00,LinkedIn,316,92
+P00042,Need better work-life balance support #workplace #peoplefirst,workplace,#workplace,2023-12-04 00:00:00,LinkedIn,338,95
+P00043,Reading about changes in the market #innovation #peoplefirst,innovation,#innovation,2023-03-15 00:00:00,Twitter,18,37
+P00044,Reviewing the latest benchmarking data #technology #hrtech,technology,#technology,2023-11-22 00:00:00,LinkedIn,106,68
+P00045,Frustrated with the slow pace of change #workplace #hrtech,workplace,#workplace,2023-09-10 00:00:00,LinkedIn,397,66
+P00046,Conference session on digital transformation #workplace #futureofwork,workplace,#workplace,2022-12-27 00:00:00,BlueSky,51,11
+P00047,Great progress on our new initiative #leadership #culture,leadership,#leadership,2024-03-19 00:00:00,Twitter,320,67
+P00048,Survey results are in for this quarter #technology #analytics,technology,#technology,2023-10-31 00:00:00,Twitter,68,19
+P00049,Technology is transforming how we collaborate #leadership #peoplefirst,leadership,#leadership,2022-02-05 00:00:00,BlueSky,430,75
+P00050,Survey results are in for this quarter #technology #futureofwork,technology,#technology,2024-02-19 00:00:00,Twitter,429,8
+P00051,Proud of what the team accomplished #workplace #culture,workplace,#workplace,2023-12-09 00:00:00,Twitter,65,99
+P00052,Interesting article about industry trends #innovation #analytics,innovation,#innovation,2023-04-14 00:00:00,Twitter,496,58
+P00053,Frustrated with the slow pace of change #workplace #futureofwork,workplace,#workplace,2023-01-26 00:00:00,LinkedIn,217,45
+P00054,Love the new direction we are heading #leadership #futureofwork,leadership,#leadership,2024-03-04 00:00:00,Twitter,157,97
+P00055,Reading about changes in the market #technology #analytics,technology,#technology,2023-06-16 00:00:00,Twitter,482,9
+P00056,Interesting article about industry trends #technology #peoplefirst,technology,#technology,2024-09-13 00:00:00,BlueSky,476,6
+P00057,Excited about the future of work #innovation #futureofwork,innovation,#innovation,2022-11-28 00:00:00,Twitter,245,29
+P00058,Poor communication about organizational changes #innovation #analytics,innovation,#innovation,2022-12-07 00:00:00,Twitter,306,79
+P00059,Outstanding teamwork and dedication #workplace #analytics,workplace,#workplace,2024-06-02 00:00:00,Twitter,218,75
+P00060,Too much bureaucracy stifling innovation #workplace #peoplefirst,workplace,#workplace,2022-09-24 00:00:00,BlueSky,64,36
+P00061,Thrilled to see leadership investing in people #workplace #futureofwork,workplace,#workplace,2023-06-19 00:00:00,LinkedIn,487,20
+P00062,Proud of what the team accomplished #workplace #futureofwork,workplace,#workplace,2022-03-08 00:00:00,LinkedIn,127,7
+P00063,Great progress on our new initiative #workplace #culture,workplace,#workplace,2024-01-14 00:00:00,Twitter,464,51
+P00064,Need better work-life balance support #innovation #futureofwork,innovation,#innovation,2024-05-16 00:00:00,Twitter,457,100
+P00065,Best practices in employee engagement #leadership #analytics,leadership,#leadership,2024-01-30 00:00:00,LinkedIn,226,75
+P00066,Burnout is a real problem that needs addressing #leadership #futureofwork,leadership,#leadership,2024-05-20 00:00:00,LinkedIn,431,22
+P00067,Poor communication about organizational changes #technology #hrtech,technology,#technology,2022-08-06 00:00:00,LinkedIn,70,32
+P00068,Technology is transforming how we collaborate #innovation #analytics,innovation,#innovation,2022-08-15 00:00:00,Twitter,22,71
+P00069,Excited about the future of work #workplace #culture,workplace,#workplace,2022-09-09 00:00:00,Twitter,19,26
+P00070,Reviewing the latest benchmarking data #workplace #culture,workplace,#workplace,2023-04-16 00:00:00,Twitter,51,57
+P00071,Amazing results from the latest project #innovation #analytics,innovation,#innovation,2024-09-28 00:00:00,Twitter,82,54
+P00072,Love the new direction we are heading #workplace #analytics,workplace,#workplace,2024-11-24 00:00:00,LinkedIn,49,93
+P00073,Outstanding teamwork and dedication #leadership #analytics,leadership,#leadership,2022-10-31 00:00:00,Twitter,303,3
+P00074,Burnout is a real problem that needs addressing #workplace #analytics,workplace,#workplace,2024-08-07 00:00:00,LinkedIn,43,25
+P00075,Reviewing the latest benchmarking data #workplace #hrtech,workplace,#workplace,2022-07-28 00:00:00,LinkedIn,126,6
+P00076,Reading about changes in the market #innovation #futureofwork,innovation,#innovation,2022-06-13 00:00:00,Twitter,496,6
+P00077,Thrilled to see leadership investing in people #leadership #culture,leadership,#leadership,2023-07-19 00:00:00,LinkedIn,251,38
+P00078,Technology is transforming how we collaborate #technology #peoplefirst,technology,#technology,2022-08-22 00:00:00,Twitter,360,25
+P00079,Great progress on our new initiative #workplace #culture,workplace,#workplace,2024-06-10 00:00:00,Twitter,93,44
+P00080,Need better work-life balance support #leadership #hrtech,leadership,#leadership,2024-05-29 00:00:00,Twitter,305,32
+P00081,Great progress on our new initiative #innovation #peoplefirst,innovation,#innovation,2022-09-04 00:00:00,LinkedIn,287,0
+P00082,Reading about changes in the market #leadership #peoplefirst,leadership,#leadership,2024-04-04 00:00:00,LinkedIn,80,56
+P00083,Technology is transforming how we collaborate #leadership #hrtech,leadership,#leadership,2024-06-13 00:00:00,LinkedIn,421,19
+P00084,Burnout is a real problem that needs addressing #workplace #culture,workplace,#workplace,2022-05-12 00:00:00,Twitter,268,30
+P00085,Outstanding teamwork and dedication #technology #analytics,technology,#technology,2022-03-07 00:00:00,BlueSky,29,34
+P00086,Technology is transforming how we collaborate #innovation #hrtech,innovation,#innovation,2022-07-25 00:00:00,Twitter,159,42
+P00087,Excited about the future of work #workplace #analytics,workplace,#workplace,2022-04-14 00:00:00,Twitter,228,75
+P00088,Outstanding teamwork and dedication #innovation #analytics,innovation,#innovation,2023-06-01 00:00:00,Twitter,19,2
+P00089,Best practices in employee engagement #leadership #peoplefirst,leadership,#leadership,2022-05-20 00:00:00,Twitter,420,91
+P00090,Best practices in employee engagement #leadership #analytics,leadership,#leadership,2023-10-08 00:00:00,LinkedIn,127,85
+P00091,Burnout is a real problem that needs addressing #workplace #peoplefirst,workplace,#workplace,2022-03-28 00:00:00,LinkedIn,130,78
+P00092,Poor communication about organizational changes #workplace #culture,workplace,#workplace,2024-10-14 00:00:00,LinkedIn,475,50
+P00093,Reading about changes in the market #innovation #analytics,innovation,#innovation,2023-02-11 00:00:00,Twitter,237,75
+P00094,Struggling with outdated tools and processes #innovation #hrtech,innovation,#innovation,2024-02-22 00:00:00,BlueSky,308,71
+P00095,Excited about the future of work #leadership #hrtech,leadership,#leadership,2024-02-22 00:00:00,LinkedIn,489,12
+P00096,Reading about changes in the market #technology #hrtech,technology,#technology,2023-08-11 00:00:00,Twitter,487,6
+P00097,Panel discussion on the future of HR tech #innovation #culture,innovation,#innovation,2023-06-30 00:00:00,Twitter,127,29
+P00098,Thrilled to see leadership investing in people #technology #hrtech,technology,#technology,2023-01-10 00:00:00,Twitter,107,94
+P00099,New report on workforce analytics #leadership #culture,leadership,#leadership,2024-07-02 00:00:00,LinkedIn,413,1
+P00100,Poor communication about organizational changes #workplace #peoplefirst,workplace,#workplace,2024-06-01 00:00:00,LinkedIn,434,84
+P00101,Great progress on our new initiative #technology #peoplefirst,technology,#technology,2024-08-14 00:00:00,Twitter,26,65
+P00102,Frustrated with the slow pace of change #innovation #analytics,innovation,#innovation,2022-07-02 00:00:00,LinkedIn,210,7
+P00103,Interesting article about industry trends #technology #futureofwork,technology,#technology,2022-07-14 00:00:00,Twitter,435,69
+P00104,Reading about changes in the market #workplace #futureofwork,workplace,#workplace,2024-11-16 00:00:00,Twitter,304,64
+P00105,Innovation drives success #innovation #analytics,innovation,#innovation,2022-06-21 00:00:00,LinkedIn,499,56
+P00106,Webinar on talent management strategies #workplace #culture,workplace,#workplace,2022-03-04 00:00:00,Twitter,417,9
+P00107,Poor communication about organizational changes #innovation #futureofwork,innovation,#innovation,2024-12-31 00:00:00,LinkedIn,70,20
+P00108,Outstanding teamwork and dedication #workplace #futureofwork,workplace,#workplace,2024-12-04 00:00:00,BlueSky,262,94
+P00109,Best practices in employee engagement #technology #hrtech,technology,#technology,2024-11-04 00:00:00,LinkedIn,191,56
+P00110,Frustrated with the slow pace of change #workplace #analytics,workplace,#workplace,2022-02-22 00:00:00,Twitter,132,69
+P00111,Reviewing the latest benchmarking data #workplace #hrtech,workplace,#workplace,2023-10-18 00:00:00,Twitter,242,85
+P00112,Innovation drives success #workplace #peoplefirst,workplace,#workplace,2024-02-18 00:00:00,LinkedIn,288,10
+P00113,Best practices in employee engagement #leadership #hrtech,leadership,#leadership,2022-07-07 00:00:00,Twitter,391,82
+P00114,Conference session on digital transformation #workplace #culture,workplace,#workplace,2024-10-20 00:00:00,LinkedIn,345,75
+P00115,Conference session on digital transformation #leadership #culture,leadership,#leadership,2024-05-17 00:00:00,LinkedIn,286,64
+P00116,Panel discussion on the future of HR tech #technology #hrtech,technology,#technology,2024-09-04 00:00:00,LinkedIn,340,81
+P00117,Amazing results from the latest project #workplace #analytics,workplace,#workplace,2023-12-28 00:00:00,LinkedIn,117,91
+P00118,Amazing results from the latest project #workplace #analytics,workplace,#workplace,2024-05-17 00:00:00,BlueSky,57,45
+P00119,Great progress on our new initiative #innovation #hrtech,innovation,#innovation,2023-05-24 00:00:00,BlueSky,90,62
+P00120,Leadership needs to listen more to employees #leadership #futureofwork,leadership,#leadership,2024-02-12 00:00:00,LinkedIn,181,13
+P00121,Reviewing the latest benchmarking data #innovation #peoplefirst,innovation,#innovation,2023-08-23 00:00:00,LinkedIn,327,5
+P00122,Webinar on talent management strategies #innovation #culture,innovation,#innovation,2024-02-10 00:00:00,Twitter,196,69
+P00123,Poor communication about organizational changes #technology #culture,technology,#technology,2024-05-29 00:00:00,LinkedIn,13,34
+P00124,Poor communication about organizational changes #innovation #peoplefirst,innovation,#innovation,2022-05-13 00:00:00,LinkedIn,227,1
+P00125,Love the new direction we are heading #technology #futureofwork,technology,#technology,2022-07-29 00:00:00,LinkedIn,197,18
+P00126,Thrilled to see leadership investing in people #technology #culture,technology,#technology,2023-05-13 00:00:00,BlueSky,422,80
+P00127,Poor communication about organizational changes #innovation #culture,innovation,#innovation,2022-09-14 00:00:00,Twitter,0,64
+P00128,Webinar on talent management strategies #technology #culture,technology,#technology,2024-03-30 00:00:00,LinkedIn,272,89
+P00129,Interesting article about industry trends #technology #hrtech,technology,#technology,2022-10-09 00:00:00,LinkedIn,132,50
+P00130,Innovation drives success #innovation #culture,innovation,#innovation,2024-06-30 00:00:00,Twitter,308,73
+P00131,Too much bureaucracy stifling innovation #workplace #analytics,workplace,#workplace,2022-05-10 00:00:00,Twitter,45,38
+P00132,Leadership needs to listen more to employees #workplace #analytics,workplace,#workplace,2023-05-24 00:00:00,LinkedIn,183,84
+P00133,Leadership needs to listen more to employees #technology #hrtech,technology,#technology,2022-08-10 00:00:00,BlueSky,119,27
+P00134,Reviewing the latest benchmarking data #innovation #analytics,innovation,#innovation,2023-12-01 00:00:00,LinkedIn,95,31
+P00135,Webinar on talent management strategies #workplace #futureofwork,workplace,#workplace,2024-11-12 00:00:00,Twitter,48,51
+P00136,Great progress on our new initiative #leadership #peoplefirst,leadership,#leadership,2024-01-08 00:00:00,LinkedIn,464,35
+P00137,Need better work-life balance support #leadership #peoplefirst,leadership,#leadership,2023-06-21 00:00:00,Twitter,63,78
+P00138,Technology is transforming how we collaborate #workplace #futureofwork,workplace,#workplace,2022-03-06 00:00:00,LinkedIn,446,24
+P00139,Poor communication about organizational changes #leadership #analytics,leadership,#leadership,2024-05-02 00:00:00,Twitter,205,8
+P00140,Outstanding teamwork and dedication #innovation #analytics,innovation,#innovation,2024-11-22 00:00:00,BlueSky,64,89
+P00141,Best practices in employee engagement #leadership #culture,leadership,#leadership,2022-03-27 00:00:00,LinkedIn,279,69
+P00142,Reviewing the latest benchmarking data #workplace #hrtech,workplace,#workplace,2022-10-25 00:00:00,Twitter,49,34
+P00143,Panel discussion on the future of HR tech #workplace #futureofwork,workplace,#workplace,2024-04-27 00:00:00,BlueSky,264,13
+P00144,Thrilled to see leadership investing in people #technology #culture,technology,#technology,2023-01-14 00:00:00,Twitter,470,50
+P00145,Webinar on talent management strategies #innovation #culture,innovation,#innovation,2024-05-14 00:00:00,LinkedIn,315,84
+P00146,Reviewing the latest benchmarking data #technology #culture,technology,#technology,2024-06-20 00:00:00,BlueSky,159,64
+P00147,Poor communication about organizational changes #innovation #analytics,innovation,#innovation,2023-11-02 00:00:00,Twitter,174,75
+P00148,Thrilled to see leadership investing in people #leadership #analytics,leadership,#leadership,2022-08-15 00:00:00,Twitter,63,78
+P00149,Frustrated with the slow pace of change #technology #analytics,technology,#technology,2024-09-05 00:00:00,Twitter,184,31
+P00150,Great progress on our new initiative #innovation #futureofwork,innovation,#innovation,2022-08-21 00:00:00,LinkedIn,36,60
+P00151,Reviewing the latest benchmarking data #workplace #analytics,workplace,#workplace,2023-04-11 00:00:00,Twitter,426,76
+P00152,Proud of what the team accomplished #innovation #hrtech,innovation,#innovation,2023-10-06 00:00:00,LinkedIn,127,52
+P00153,New report on workforce analytics #technology #culture,technology,#technology,2023-06-17 00:00:00,LinkedIn,167,47
+P00154,Technology is transforming how we collaborate #workplace #hrtech,workplace,#workplace,2022-01-16 00:00:00,Twitter,25,3
+P00155,Conference session on digital transformation #leadership #futureofwork,leadership,#leadership,2024-12-22 00:00:00,BlueSky,497,74
+P00156,Innovation drives success #leadership #analytics,leadership,#leadership,2023-08-24 00:00:00,Twitter,471,48
+P00157,Webinar on talent management strategies #innovation #culture,innovation,#innovation,2024-06-09 00:00:00,LinkedIn,220,63
+P00158,Great progress on our new initiative #innovation #futureofwork,innovation,#innovation,2024-06-11 00:00:00,LinkedIn,134,20
+P00159,Poor communication about organizational changes #workplace #futureofwork,workplace,#workplace,2024-05-17 00:00:00,LinkedIn,442,46
+P00160,Outstanding teamwork and dedication #innovation #futureofwork,innovation,#innovation,2022-03-01 00:00:00,LinkedIn,292,57
+P00161,Thrilled to see leadership investing in people #leadership #peoplefirst,leadership,#leadership,2023-01-29 00:00:00,LinkedIn,400,64
+P00162,Reviewing the latest benchmarking data #workplace #peoplefirst,workplace,#workplace,2023-05-12 00:00:00,LinkedIn,438,100
+P00163,Poor communication about organizational changes #leadership #hrtech,leadership,#leadership,2024-02-20 00:00:00,Twitter,401,16
+P00164,Technology is transforming how we collaborate #technology #futureofwork,technology,#technology,2023-08-16 00:00:00,BlueSky,27,13
+P00165,Thrilled to see leadership investing in people #innovation #culture,innovation,#innovation,2023-12-12 00:00:00,Twitter,117,6
+P00166,Reviewing the latest benchmarking data #workplace #peoplefirst,workplace,#workplace,2023-01-18 00:00:00,BlueSky,60,22
+P00167,Webinar on talent management strategies #technology #peoplefirst,technology,#technology,2024-07-14 00:00:00,LinkedIn,219,61
+P00168,Webinar on talent management strategies #innovation #hrtech,innovation,#innovation,2022-10-03 00:00:00,BlueSky,391,40
+P00169,Too much bureaucracy stifling innovation #workplace #analytics,workplace,#workplace,2022-08-01 00:00:00,Twitter,40,22
+P00170,Struggling with outdated tools and processes #leadership #analytics,leadership,#leadership,2024-02-02 00:00:00,LinkedIn,466,64
+P00171,Reviewing the latest benchmarking data #leadership #analytics,leadership,#leadership,2022-01-13 00:00:00,LinkedIn,389,68
+P00172,Excited about the future of work #workplace #hrtech,workplace,#workplace,2024-11-23 00:00:00,LinkedIn,202,61
+P00173,Conference session on digital transformation #innovation #peoplefirst,innovation,#innovation,2022-06-12 00:00:00,Twitter,88,73
+P00174,Outstanding teamwork and dedication #leadership #analytics,leadership,#leadership,2023-07-14 00:00:00,Twitter,228,17
+P00175,Poor communication about organizational changes #innovation #peoplefirst,innovation,#innovation,2024-05-20 00:00:00,LinkedIn,38,18
+P00176,Conference session on digital transformation #workplace #analytics,workplace,#workplace,2023-02-22 00:00:00,LinkedIn,270,32
+P00177,Panel discussion on the future of HR tech #technology #futureofwork,technology,#technology,2023-04-12 00:00:00,BlueSky,220,44
+P00178,Love the new direction we are heading #innovation #analytics,innovation,#innovation,2024-08-02 00:00:00,LinkedIn,283,44
+P00179,Survey results are in for this quarter #technology #futureofwork,technology,#technology,2024-11-18 00:00:00,Twitter,89,39
+P00180,Excited about the future of work #technology #culture,technology,#technology,2023-04-22 00:00:00,LinkedIn,257,41
+P00181,Burnout is a real problem that needs addressing #leadership #futureofwork,leadership,#leadership,2022-04-07 00:00:00,LinkedIn,16,86
+P00182,Webinar on talent management strategies #innovation #futureofwork,innovation,#innovation,2024-01-23 00:00:00,LinkedIn,146,83
+P00183,Thrilled to see leadership investing in people #innovation #peoplefirst,innovation,#innovation,2023-02-08 00:00:00,BlueSky,432,9
+P00184,Innovation drives success #workplace #peoplefirst,workplace,#workplace,2022-11-12 00:00:00,LinkedIn,478,91
+P00185,Amazing results from the latest project #innovation #culture,innovation,#innovation,2024-10-03 00:00:00,LinkedIn,349,79
+P00186,Need better work-life balance support #workplace #hrtech,workplace,#workplace,2024-03-26 00:00:00,BlueSky,391,26
+P00187,Amazing results from the latest project #technology #peoplefirst,technology,#technology,2024-09-29 00:00:00,Twitter,86,3
+P00188,Love the new direction we are heading #technology #culture,technology,#technology,2024-02-17 00:00:00,Twitter,350,21
+P00189,Panel discussion on the future of HR tech #workplace #futureofwork,workplace,#workplace,2022-01-26 00:00:00,LinkedIn,335,69
+P00190,Struggling with outdated tools and processes #workplace #culture,workplace,#workplace,2024-03-03 00:00:00,LinkedIn,492,31
+P00191,Amazing results from the latest project #workplace #futureofwork,workplace,#workplace,2023-02-03 00:00:00,LinkedIn,16,49
+P00192,Burnout is a real problem that needs addressing #technology #culture,technology,#technology,2024-10-27 00:00:00,LinkedIn,424,18
+P00193,Leadership needs to listen more to employees #leadership #futureofwork,leadership,#leadership,2023-04-16 00:00:00,LinkedIn,451,39
+P00194,Interesting article about industry trends #workplace #analytics,workplace,#workplace,2024-11-20 00:00:00,BlueSky,35,91
+P00195,Panel discussion on the future of HR tech #innovation #hrtech,innovation,#innovation,2024-10-31 00:00:00,LinkedIn,146,65
+P00196,Technology is transforming how we collaborate #workplace #futureofwork,workplace,#workplace,2022-12-19 00:00:00,BlueSky,142,32
+P00197,Thrilled to see leadership investing in people #leadership #futureofwork,leadership,#leadership,2023-06-21 00:00:00,LinkedIn,218,6
+P00198,Survey results are in for this quarter #technology #analytics,technology,#technology,2024-08-31 00:00:00,LinkedIn,308,79
+P00199,Panel discussion on the future of HR tech #technology #culture,technology,#technology,2022-08-08 00:00:00,LinkedIn,7,82
+P00200,Proud of what the team accomplished #leadership #culture,leadership,#leadership,2022-09-10 00:00:00,BlueSky,75,68
+P00201,Webinar on talent management strategies #innovation #culture,innovation,#innovation,2024-03-01 00:00:00,BlueSky,411,79
+P00202,Best practices in employee engagement #innovation #culture,innovation,#innovation,2024-11-19 00:00:00,LinkedIn,397,19
+P00203,Webinar on talent management strategies #workplace #futureofwork,workplace,#workplace,2024-09-12 00:00:00,Twitter,296,89
+P00204,Need better work-life balance support #technology #analytics,technology,#technology,2023-07-16 00:00:00,Twitter,429,57
+P00205,Webinar on talent management strategies #technology #hrtech,technology,#technology,2023-04-22 00:00:00,LinkedIn,18,11
+P00206,Webinar on talent management strategies #innovation #peoplefirst,innovation,#innovation,2023-07-03 00:00:00,LinkedIn,67,26
+P00207,Best practices in employee engagement #technology #hrtech,technology,#technology,2022-11-30 00:00:00,LinkedIn,266,30
+P00208,Best practices in employee engagement #technology #analytics,technology,#technology,2022-11-06 00:00:00,LinkedIn,499,14
+P00209,Great progress on our new initiative #innovation #hrtech,innovation,#innovation,2022-11-18 00:00:00,LinkedIn,483,72
+P00210,Conference session on digital transformation #technology #culture,technology,#technology,2024-11-20 00:00:00,LinkedIn,473,6
+P00211,Conference session on digital transformation #technology #peoplefirst,technology,#technology,2022-09-06 00:00:00,Twitter,22,14
+P00212,Conference session on digital transformation #workplace #peoplefirst,workplace,#workplace,2022-12-26 00:00:00,LinkedIn,455,0
+P00213,Excited about the future of work #workplace #culture,workplace,#workplace,2024-03-01 00:00:00,LinkedIn,236,55
+P00214,New report on workforce analytics #innovation #analytics,innovation,#innovation,2022-03-03 00:00:00,Twitter,260,80
+P00215,Technology is transforming how we collaborate #innovation #analytics,innovation,#innovation,2022-01-23 00:00:00,Twitter,280,10
+P00216,Proud of what the team accomplished #leadership #futureofwork,leadership,#leadership,2024-02-25 00:00:00,Twitter,407,11
+P00217,Interesting article about industry trends #leadership #peoplefirst,leadership,#leadership,2023-08-16 00:00:00,Twitter,475,40
+P00218,Excited about the future of work #technology #culture,technology,#technology,2024-11-11 00:00:00,Twitter,386,6
+P00219,Webinar on talent management strategies #innovation #hrtech,innovation,#innovation,2022-10-11 00:00:00,BlueSky,99,40
+P00220,Reviewing the latest benchmarking data #leadership #culture,leadership,#leadership,2023-10-10 00:00:00,LinkedIn,426,86
+P00221,Interesting article about industry trends #workplace #analytics,workplace,#workplace,2023-02-11 00:00:00,Twitter,375,98
+P00222,Outstanding teamwork and dedication #workplace #hrtech,workplace,#workplace,2023-01-09 00:00:00,Twitter,1,47
+P00223,Thrilled to see leadership investing in people #leadership #culture,leadership,#leadership,2024-02-16 00:00:00,Twitter,224,9
+P00224,Interesting article about industry trends #leadership #analytics,leadership,#leadership,2024-06-11 00:00:00,Twitter,221,85
+P00225,Too much bureaucracy stifling innovation #innovation #futureofwork,innovation,#innovation,2022-07-08 00:00:00,BlueSky,37,1
+P00226,Burnout is a real problem that needs addressing #innovation #futureofwork,innovation,#innovation,2022-06-27 00:00:00,Twitter,362,11
+P00227,Poor communication about organizational changes #technology #analytics,technology,#technology,2024-07-04 00:00:00,LinkedIn,277,41
+P00228,Too much bureaucracy stifling innovation #workplace #culture,workplace,#workplace,2023-07-05 00:00:00,LinkedIn,395,79
+P00229,Disappointing lack of transparency #innovation #culture,innovation,#innovation,2022-01-31 00:00:00,Twitter,188,98
+P00230,Technology is transforming how we collaborate #technology #hrtech,technology,#technology,2023-02-19 00:00:00,Twitter,150,70
+P00231,Too much bureaucracy stifling innovation #technology #culture,technology,#technology,2024-04-09 00:00:00,Twitter,81,49
+P00232,Great progress on our new initiative #innovation #culture,innovation,#innovation,2023-04-25 00:00:00,BlueSky,276,55
+P00233,Outstanding teamwork and dedication #workplace #culture,workplace,#workplace,2024-09-20 00:00:00,BlueSky,400,78
+P00234,Burnout is a real problem that needs addressing #workplace #analytics,workplace,#workplace,2024-01-30 00:00:00,Twitter,411,75
+P00235,Innovation drives success #innovation #futureofwork,innovation,#innovation,2024-07-17 00:00:00,LinkedIn,432,9
+P00236,Too much bureaucracy stifling innovation #innovation #analytics,innovation,#innovation,2023-04-30 00:00:00,BlueSky,64,2
+P00237,Innovation drives success #workplace #hrtech,workplace,#workplace,2024-01-05 00:00:00,Twitter,232,80
+P00238,Technology is transforming how we collaborate #technology #analytics,technology,#technology,2023-09-12 00:00:00,LinkedIn,500,10
+P00239,Best practices in employee engagement #workplace #futureofwork,workplace,#workplace,2022-10-13 00:00:00,Twitter,481,9
+P00240,Survey results are in for this quarter #innovation #futureofwork,innovation,#innovation,2024-11-11 00:00:00,LinkedIn,160,15
+P00241,Outstanding teamwork and dedication #innovation #hrtech,innovation,#innovation,2023-08-19 00:00:00,LinkedIn,361,11
+P00242,Panel discussion on the future of HR tech #technology #futureofwork,technology,#technology,2024-02-28 00:00:00,LinkedIn,308,23
+P00243,New report on workforce analytics #workplace #culture,workplace,#workplace,2022-10-24 00:00:00,LinkedIn,143,11
+P00244,Conference session on digital transformation #innovation #hrtech,innovation,#innovation,2023-06-30 00:00:00,BlueSky,90,20
+P00245,Panel discussion on the future of HR tech #technology #futureofwork,technology,#technology,2024-11-15 00:00:00,LinkedIn,300,9
+P00246,Interesting article about industry trends #innovation #futureofwork,innovation,#innovation,2024-01-21 00:00:00,LinkedIn,136,16
+P00247,Love the new direction we are heading #workplace #futureofwork,workplace,#workplace,2023-08-25 00:00:00,Twitter,190,62
+P00248,Survey results are in for this quarter #workplace #hrtech,workplace,#workplace,2024-11-01 00:00:00,LinkedIn,64,0
+P00249,Innovation drives success #technology #futureofwork,technology,#technology,2024-10-14 00:00:00,LinkedIn,425,0
+P00250,Great progress on our new initiative #workplace #analytics,workplace,#workplace,2024-03-28 00:00:00,LinkedIn,112,90
+P00251,Reviewing the latest benchmarking data #leadership #futureofwork,leadership,#leadership,2022-04-19 00:00:00,Twitter,235,21
+P00252,Innovation drives success #technology #futureofwork,technology,#technology,2024-08-20 00:00:00,Twitter,90,64
+P00253,Love the new direction we are heading #technology #culture,technology,#technology,2023-11-03 00:00:00,Twitter,454,92
+P00254,Great progress on our new initiative #leadership #analytics,leadership,#leadership,2022-07-02 00:00:00,LinkedIn,248,66
+P00255,Conference session on digital transformation #technology #futureofwork,technology,#technology,2024-07-15 00:00:00,LinkedIn,123,11
+P00256,Reviewing the latest benchmarking data #technology #analytics,technology,#technology,2024-03-08 00:00:00,Twitter,482,69
+P00257,Great progress on our new initiative #leadership #hrtech,leadership,#leadership,2022-05-15 00:00:00,Twitter,30,100
+P00258,Disappointing lack of transparency #leadership #analytics,leadership,#leadership,2022-08-26 00:00:00,BlueSky,294,47
+P00259,Best practices in employee engagement #workplace #peoplefirst,workplace,#workplace,2024-08-07 00:00:00,LinkedIn,453,13
+P00260,Burnout is a real problem that needs addressing #workplace #peoplefirst,workplace,#workplace,2024-05-25 00:00:00,LinkedIn,41,95
+P00261,Survey results are in for this quarter #workplace #peoplefirst,workplace,#workplace,2024-06-21 00:00:00,Twitter,27,72
+P00262,Proud of what the team accomplished #technology #analytics,technology,#technology,2022-03-09 00:00:00,LinkedIn,236,9
+P00263,Burnout is a real problem that needs addressing #innovation #analytics,innovation,#innovation,2022-01-10 00:00:00,LinkedIn,489,61
+P00264,Excited about the future of work #leadership #culture,leadership,#leadership,2023-10-02 00:00:00,BlueSky,287,91
+P00265,Poor communication about organizational changes #leadership #peoplefirst,leadership,#leadership,2022-10-16 00:00:00,Twitter,408,72
+P00266,Technology is transforming how we collaborate #innovation #culture,innovation,#innovation,2023-03-13 00:00:00,LinkedIn,442,52
+P00267,Innovation drives success #leadership #culture,leadership,#leadership,2023-06-11 00:00:00,Twitter,142,60
+P00268,Technology is transforming how we collaborate #workplace #analytics,workplace,#workplace,2024-11-20 00:00:00,BlueSky,473,18
+P00269,Leadership needs to listen more to employees #innovation #futureofwork,innovation,#innovation,2022-06-19 00:00:00,Twitter,109,98
+P00270,Disappointing lack of transparency #workplace #futureofwork,workplace,#workplace,2023-11-12 00:00:00,LinkedIn,23,19
+P00271,Love the new direction we are heading #leadership #culture,leadership,#leadership,2024-04-05 00:00:00,BlueSky,113,87
+P00272,New report on workforce analytics #technology #hrtech,technology,#technology,2023-08-31 00:00:00,LinkedIn,109,100
+P00273,Panel discussion on the future of HR tech #leadership #futureofwork,leadership,#leadership,2024-12-09 00:00:00,LinkedIn,391,30
+P00274,Innovation drives success #leadership #hrtech,leadership,#leadership,2024-12-21 00:00:00,Twitter,30,51
+P00275,Reviewing the latest benchmarking data #leadership #analytics,leadership,#leadership,2024-05-29 00:00:00,BlueSky,229,24
+P00276,Webinar on talent management strategies #technology #futureofwork,technology,#technology,2024-10-27 00:00:00,Twitter,99,70
+P00277,Innovation drives success #leadership #futureofwork,leadership,#leadership,2023-04-12 00:00:00,BlueSky,195,80
+P00278,Technology is transforming how we collaborate #leadership #peoplefirst,leadership,#leadership,2022-04-08 00:00:00,Twitter,169,42
+P00279,Need better work-life balance support #workplace #hrtech,workplace,#workplace,2023-07-21 00:00:00,BlueSky,360,6
+P00280,Survey results are in for this quarter #innovation #hrtech,innovation,#innovation,2023-11-19 00:00:00,Twitter,180,10
+P00281,Technology is transforming how we collaborate #leadership #peoplefirst,leadership,#leadership,2023-02-26 00:00:00,LinkedIn,289,23
+P00282,Disappointing lack of transparency #workplace #culture,workplace,#workplace,2023-11-14 00:00:00,BlueSky,461,98
+P00283,New report on workforce analytics #leadership #analytics,leadership,#leadership,2024-10-07 00:00:00,LinkedIn,322,89
+P00284,Great progress on our new initiative #leadership #culture,leadership,#leadership,2022-07-28 00:00:00,Twitter,455,29
+P00285,Excited about the future of work #workplace #analytics,workplace,#workplace,2024-08-05 00:00:00,BlueSky,398,64
+P00286,Excited about the future of work #innovation #culture,innovation,#innovation,2022-02-09 00:00:00,Twitter,72,42
+P00287,Need better work-life balance support #leadership #hrtech,leadership,#leadership,2022-04-21 00:00:00,Twitter,351,89
+P00288,Innovation drives success #technology #analytics,technology,#technology,2024-04-11 00:00:00,LinkedIn,367,79
+P00289,Reading about changes in the market #leadership #futureofwork,leadership,#leadership,2023-07-03 00:00:00,LinkedIn,357,10
+P00290,Disappointing lack of transparency #technology #analytics,technology,#technology,2022-10-04 00:00:00,Twitter,93,56
+P00291,Burnout is a real problem that needs addressing #leadership #analytics,leadership,#leadership,2022-01-22 00:00:00,LinkedIn,80,53
+P00292,Excited about the future of work #workplace #futureofwork,workplace,#workplace,2022-08-16 00:00:00,LinkedIn,172,27
+P00293,Thrilled to see leadership investing in people #technology #culture,technology,#technology,2023-06-16 00:00:00,Twitter,225,81
+P00294,Disappointing lack of transparency #leadership #hrtech,leadership,#leadership,2023-08-02 00:00:00,Twitter,22,63
+P00295,Outstanding teamwork and dedication #workplace #peoplefirst,workplace,#workplace,2022-09-22 00:00:00,Twitter,237,76
+P00296,Thrilled to see leadership investing in people #workplace #culture,workplace,#workplace,2024-01-20 00:00:00,BlueSky,329,3
+P00297,Struggling with outdated tools and processes #technology #analytics,technology,#technology,2022-01-20 00:00:00,LinkedIn,201,36
+P00298,Amazing results from the latest project #technology #analytics,technology,#technology,2023-02-21 00:00:00,LinkedIn,353,74
+P00299,Great progress on our new initiative #workplace #futureofwork,workplace,#workplace,2023-12-15 00:00:00,Twitter,64,4
+P00300,Technology is transforming how we collaborate #technology #analytics,technology,#technology,2024-11-03 00:00:00,LinkedIn,313,89
+P00301,New report on workforce analytics #leadership #analytics,leadership,#leadership,2023-09-07 00:00:00,BlueSky,320,78
+P00302,Reading about changes in the market #workplace #futureofwork,workplace,#workplace,2022-12-23 00:00:00,LinkedIn,491,69
+P00303,Thrilled to see leadership investing in people #leadership #peoplefirst,leadership,#leadership,2024-02-05 00:00:00,BlueSky,351,72
+P00304,Frustrated with the slow pace of change #leadership #analytics,leadership,#leadership,2024-01-11 00:00:00,BlueSky,198,9
+P00305,Great progress on our new initiative #workplace #hrtech,workplace,#workplace,2024-09-24 00:00:00,LinkedIn,291,73
+P00306,Interesting article about industry trends #workplace #hrtech,workplace,#workplace,2024-05-27 00:00:00,Twitter,482,70
+P00307,Struggling with outdated tools and processes #workplace #culture,workplace,#workplace,2024-03-03 00:00:00,Twitter,367,56
+P00308,Amazing results from the latest project #innovation #analytics,innovation,#innovation,2023-05-10 00:00:00,LinkedIn,245,64
+P00309,Innovation drives success #leadership #peoplefirst,leadership,#leadership,2023-02-01 00:00:00,BlueSky,291,36
+P00310,Best practices in employee engagement #leadership #futureofwork,leadership,#leadership,2023-04-06 00:00:00,LinkedIn,10,0
+P00311,Panel discussion on the future of HR tech #innovation #hrtech,innovation,#innovation,2024-02-12 00:00:00,Twitter,388,20
+P00312,Burnout is a real problem that needs addressing #leadership #analytics,leadership,#leadership,2023-03-23 00:00:00,LinkedIn,82,81
+P00313,Interesting article about industry trends #leadership #analytics,leadership,#leadership,2024-10-07 00:00:00,BlueSky,108,48
+P00314,Webinar on talent management strategies #leadership #peoplefirst,leadership,#leadership,2024-03-12 00:00:00,LinkedIn,94,36
+P00315,Need better work-life balance support #workplace #culture,workplace,#workplace,2023-06-06 00:00:00,LinkedIn,94,74
+P00316,Innovation drives success #workplace #culture,workplace,#workplace,2022-11-03 00:00:00,Twitter,112,28
+P00317,Survey results are in for this quarter #leadership #analytics,leadership,#leadership,2022-05-23 00:00:00,BlueSky,7,94
+P00318,Interesting article about industry trends #workplace #hrtech,workplace,#workplace,2022-04-06 00:00:00,Twitter,182,31
+P00319,Reviewing the latest benchmarking data #workplace #culture,workplace,#workplace,2023-06-03 00:00:00,LinkedIn,124,1
+P00320,Excited about the future of work #technology #analytics,technology,#technology,2024-02-26 00:00:00,BlueSky,201,56
+P00321,Frustrated with the slow pace of change #technology #culture,technology,#technology,2022-01-14 00:00:00,LinkedIn,144,86
+P00322,Outstanding teamwork and dedication #leadership #futureofwork,leadership,#leadership,2024-07-12 00:00:00,LinkedIn,165,72
+P00323,Excited about the future of work #technology #peoplefirst,technology,#technology,2024-05-17 00:00:00,LinkedIn,159,21
+P00324,Great progress on our new initiative #innovation #peoplefirst,innovation,#innovation,2023-05-08 00:00:00,LinkedIn,214,85
+P00325,Great progress on our new initiative #technology #peoplefirst,technology,#technology,2024-07-26 00:00:00,LinkedIn,189,45
+P00326,Struggling with outdated tools and processes #technology #futureofwork,technology,#technology,2024-08-04 00:00:00,BlueSky,237,3
+P00327,Great progress on our new initiative #technology #hrtech,technology,#technology,2022-08-23 00:00:00,Twitter,46,44
+P00328,Proud of what the team accomplished #technology #culture,technology,#technology,2022-01-13 00:00:00,Twitter,92,24
+P00329,Innovation drives success #innovation #analytics,innovation,#innovation,2022-12-17 00:00:00,LinkedIn,34,45
+P00330,Panel discussion on the future of HR tech #workplace #analytics,workplace,#workplace,2024-01-20 00:00:00,Twitter,289,12
+P00331,Excited about the future of work #innovation #analytics,innovation,#innovation,2024-10-27 00:00:00,LinkedIn,223,27
+P00332,Thrilled to see leadership investing in people #leadership #culture,leadership,#leadership,2022-06-17 00:00:00,BlueSky,373,75
+P00333,Best practices in employee engagement #leadership #hrtech,leadership,#leadership,2024-08-21 00:00:00,Twitter,85,90
+P00334,Technology is transforming how we collaborate #workplace #culture,workplace,#workplace,2024-11-24 00:00:00,Twitter,22,90
+P00335,Burnout is a real problem that needs addressing #workplace #peoplefirst,workplace,#workplace,2024-09-07 00:00:00,Twitter,273,97
+P00336,New report on workforce analytics #technology #culture,technology,#technology,2024-02-08 00:00:00,LinkedIn,311,19
+P00337,Conference session on digital transformation #innovation #culture,innovation,#innovation,2023-07-20 00:00:00,BlueSky,169,39
+P00338,Struggling with outdated tools and processes #workplace #culture,workplace,#workplace,2022-10-10 00:00:00,Twitter,86,92
+P00339,Frustrated with the slow pace of change #innovation #analytics,innovation,#innovation,2022-04-21 00:00:00,LinkedIn,90,70
+P00340,Best practices in employee engagement #technology #futureofwork,technology,#technology,2022-09-19 00:00:00,LinkedIn,320,29
+P00341,Frustrated with the slow pace of change #technology #analytics,technology,#technology,2023-06-01 00:00:00,Twitter,45,35
+P00342,Need better work-life balance support #leadership #futureofwork,leadership,#leadership,2023-03-09 00:00:00,Twitter,374,16
+P00343,Excited about the future of work #workplace #hrtech,workplace,#workplace,2024-01-08 00:00:00,BlueSky,295,77
+P00344,Interesting article about industry trends #technology #peoplefirst,technology,#technology,2022-01-27 00:00:00,Twitter,65,4
+P00345,Interesting article about industry trends #technology #futureofwork,technology,#technology,2022-11-02 00:00:00,LinkedIn,112,16
+P00346,Panel discussion on the future of HR tech #technology #hrtech,technology,#technology,2024-01-06 00:00:00,Twitter,435,16
+P00347,Proud of what the team accomplished #workplace #futureofwork,workplace,#workplace,2023-02-02 00:00:00,BlueSky,21,99
+P00348,New report on workforce analytics #technology #hrtech,technology,#technology,2023-11-19 00:00:00,LinkedIn,453,6
+P00349,Poor communication about organizational changes #innovation #hrtech,innovation,#innovation,2023-02-08 00:00:00,Twitter,1,87
+P00350,Survey results are in for this quarter #workplace #culture,workplace,#workplace,2023-04-18 00:00:00,Twitter,478,56
+P00351,Outstanding teamwork and dedication #innovation #futureofwork,innovation,#innovation,2024-03-25 00:00:00,Twitter,462,74
+P00352,Leadership needs to listen more to employees #workplace #peoplefirst,workplace,#workplace,2022-05-26 00:00:00,Twitter,350,2
+P00353,Best practices in employee engagement #technology #analytics,technology,#technology,2024-05-01 00:00:00,Twitter,349,87
+P00354,Outstanding teamwork and dedication #workplace #futureofwork,workplace,#workplace,2024-02-14 00:00:00,LinkedIn,442,77
+P00355,Frustrated with the slow pace of change #workplace #culture,workplace,#workplace,2024-12-23 00:00:00,Twitter,111,15
+P00356,Amazing results from the latest project #workplace #peoplefirst,workplace,#workplace,2023-07-20 00:00:00,LinkedIn,34,79
+P00357,Reviewing the latest benchmarking data #innovation #peoplefirst,innovation,#innovation,2022-11-05 00:00:00,LinkedIn,290,10
+P00358,Excited about the future of work #technology #hrtech,technology,#technology,2024-09-24 00:00:00,LinkedIn,7,64
+P00359,Survey results are in for this quarter #workplace #hrtech,workplace,#workplace,2024-01-25 00:00:00,LinkedIn,496,53
+P00360,Outstanding teamwork and dedication #innovation #analytics,innovation,#innovation,2024-02-24 00:00:00,Twitter,119,89
+P00361,Frustrated with the slow pace of change #innovation #analytics,innovation,#innovation,2024-11-14 00:00:00,Twitter,411,50
+P00362,Thrilled to see leadership investing in people #leadership #analytics,leadership,#leadership,2023-09-13 00:00:00,LinkedIn,297,36
+P00363,Webinar on talent management strategies #leadership #analytics,leadership,#leadership,2024-06-22 00:00:00,LinkedIn,494,55
+P00364,Reading about changes in the market #innovation #futureofwork,innovation,#innovation,2023-01-22 00:00:00,LinkedIn,367,28
+P00365,Survey results are in for this quarter #innovation #analytics,innovation,#innovation,2023-09-12 00:00:00,BlueSky,331,77
+P00366,Conference session on digital transformation #innovation #hrtech,innovation,#innovation,2023-01-24 00:00:00,LinkedIn,66,21
+P00367,Innovation drives success #innovation #hrtech,innovation,#innovation,2022-08-29 00:00:00,BlueSky,45,37
+P00368,Amazing results from the latest project #technology #peoplefirst,technology,#technology,2024-04-21 00:00:00,LinkedIn,340,17
+P00369,Love the new direction we are heading #leadership #futureofwork,leadership,#leadership,2023-06-30 00:00:00,LinkedIn,344,19
+P00370,Love the new direction we are heading #workplace #culture,workplace,#workplace,2022-03-22 00:00:00,LinkedIn,273,94
+P00371,Best practices in employee engagement #innovation #culture,innovation,#innovation,2022-07-20 00:00:00,LinkedIn,378,79
+P00372,Frustrated with the slow pace of change #innovation #peoplefirst,innovation,#innovation,2023-09-30 00:00:00,Twitter,464,91
+P00373,Best practices in employee engagement #workplace #culture,workplace,#workplace,2024-02-18 00:00:00,LinkedIn,134,28
+P00374,Burnout is a real problem that needs addressing #technology #peoplefirst,technology,#technology,2022-10-02 00:00:00,Twitter,368,36
+P00375,Innovation drives success #innovation #futureofwork,innovation,#innovation,2022-04-28 00:00:00,LinkedIn,186,68
+P00376,Proud of what the team accomplished #technology #peoplefirst,technology,#technology,2023-06-18 00:00:00,LinkedIn,486,25
+P00377,Leadership needs to listen more to employees #workplace #analytics,workplace,#workplace,2022-06-11 00:00:00,Twitter,361,46
+P00378,Reviewing the latest benchmarking data #innovation #analytics,innovation,#innovation,2024-02-05 00:00:00,LinkedIn,368,34
+P00379,Need better work-life balance support #leadership #hrtech,leadership,#leadership,2023-07-05 00:00:00,BlueSky,255,42
+P00380,Reviewing the latest benchmarking data #innovation #culture,innovation,#innovation,2023-07-04 00:00:00,LinkedIn,369,98
+P00381,Reading about changes in the market #leadership #futureofwork,leadership,#leadership,2023-05-07 00:00:00,Twitter,223,47
+P00382,Amazing results from the latest project #innovation #hrtech,innovation,#innovation,2024-03-02 00:00:00,BlueSky,476,93
+P00383,Excited about the future of work #innovation #hrtech,innovation,#innovation,2023-03-04 00:00:00,Twitter,463,35
+P00384,Struggling with outdated tools and processes #technology #peoplefirst,technology,#technology,2023-12-04 00:00:00,LinkedIn,146,47
+P00385,Love the new direction we are heading #workplace #analytics,workplace,#workplace,2023-11-12 00:00:00,Twitter,473,79
+P00386,Love the new direction we are heading #leadership #analytics,leadership,#leadership,2023-12-01 00:00:00,BlueSky,94,97
+P00387,Frustrated with the slow pace of change #innovation #futureofwork,innovation,#innovation,2024-01-31 00:00:00,Twitter,294,48
+P00388,Poor communication about organizational changes #innovation #hrtech,innovation,#innovation,2023-01-08 00:00:00,LinkedIn,57,30
+P00389,Panel discussion on the future of HR tech #workplace #futureofwork,workplace,#workplace,2022-10-07 00:00:00,Twitter,122,47
+P00390,Webinar on talent management strategies #workplace #peoplefirst,workplace,#workplace,2024-02-28 00:00:00,Twitter,62,36
+P00391,Amazing results from the latest project #workplace #culture,workplace,#workplace,2023-02-05 00:00:00,Twitter,126,20
+P00392,Excited about the future of work #innovation #futureofwork,innovation,#innovation,2023-10-11 00:00:00,BlueSky,453,39
+P00393,Disappointing lack of transparency #technology #hrtech,technology,#technology,2024-04-25 00:00:00,LinkedIn,112,84
+P00394,Proud of what the team accomplished #innovation #analytics,innovation,#innovation,2022-02-07 00:00:00,LinkedIn,15,68
+P00395,Outstanding teamwork and dedication #workplace #culture,workplace,#workplace,2023-12-31 00:00:00,Twitter,470,21
+P00396,Excited about the future of work #technology #analytics,technology,#technology,2024-01-25 00:00:00,LinkedIn,373,70
+P00397,Excited about the future of work #innovation #culture,innovation,#innovation,2023-07-30 00:00:00,LinkedIn,162,20
+P00398,Survey results are in for this quarter #technology #futureofwork,technology,#technology,2022-12-27 00:00:00,Twitter,221,64
+P00399,Webinar on talent management strategies #innovation #futureofwork,innovation,#innovation,2024-10-17 00:00:00,Twitter,24,14
+P00400,Proud of what the team accomplished #innovation #peoplefirst,innovation,#innovation,2022-02-21 00:00:00,Twitter,354,67
+P00401,Burnout is a real problem that needs addressing #innovation #peoplefirst,innovation,#innovation,2023-04-01 00:00:00,Twitter,463,56
+P00402,Panel discussion on the future of HR tech #innovation #peoplefirst,innovation,#innovation,2024-05-30 00:00:00,Twitter,204,87
+P00403,Technology is transforming how we collaborate #leadership #peoplefirst,leadership,#leadership,2023-02-04 00:00:00,Twitter,239,0
+P00404,Webinar on talent management strategies #workplace #analytics,workplace,#workplace,2022-04-06 00:00:00,LinkedIn,473,97
+P00405,Conference session on digital transformation #leadership #hrtech,leadership,#leadership,2022-05-09 00:00:00,Twitter,12,47
+P00406,Love the new direction we are heading #leadership #analytics,leadership,#leadership,2022-03-16 00:00:00,LinkedIn,12,19
+P00407,Innovation drives success #innovation #peoplefirst,innovation,#innovation,2022-05-15 00:00:00,Twitter,158,23
+P00408,Outstanding teamwork and dedication #leadership #peoplefirst,leadership,#leadership,2022-09-03 00:00:00,LinkedIn,217,3
+P00409,Reading about changes in the market #leadership #culture,leadership,#leadership,2022-09-10 00:00:00,Twitter,393,27
+P00410,New report on workforce analytics #innovation #hrtech,innovation,#innovation,2022-12-03 00:00:00,LinkedIn,465,4
+P00411,Excited about the future of work #technology #peoplefirst,technology,#technology,2024-02-14 00:00:00,Twitter,318,44
+P00412,Conference session on digital transformation #leadership #culture,leadership,#leadership,2024-03-11 00:00:00,LinkedIn,90,92
+P00413,Best practices in employee engagement #workplace #peoplefirst,workplace,#workplace,2024-09-19 00:00:00,LinkedIn,401,31
+P00414,Conference session on digital transformation #leadership #futureofwork,leadership,#leadership,2023-12-23 00:00:00,LinkedIn,423,84
+P00415,Proud of what the team accomplished #technology #peoplefirst,technology,#technology,2022-12-13 00:00:00,Twitter,77,81
+P00416,Reading about changes in the market #innovation #culture,innovation,#innovation,2023-01-25 00:00:00,LinkedIn,457,66
+P00417,Great progress on our new initiative #technology #futureofwork,technology,#technology,2024-01-15 00:00:00,LinkedIn,436,60
+P00418,Survey results are in for this quarter #technology #peoplefirst,technology,#technology,2022-09-22 00:00:00,LinkedIn,116,54
+P00419,Excited about the future of work #innovation #culture,innovation,#innovation,2023-12-18 00:00:00,LinkedIn,497,4
+P00420,Reviewing the latest benchmarking data #innovation #analytics,innovation,#innovation,2022-04-11 00:00:00,Twitter,282,58
+P00421,Love the new direction we are heading #workplace #peoplefirst,workplace,#workplace,2024-03-07 00:00:00,Twitter,310,63
+P00422,Conference session on digital transformation #workplace #peoplefirst,workplace,#workplace,2024-02-20 00:00:00,Twitter,19,12
+P00423,Need better work-life balance support #workplace #analytics,workplace,#workplace,2022-11-16 00:00:00,BlueSky,202,12
+P00424,Leadership needs to listen more to employees #leadership #culture,leadership,#leadership,2023-01-10 00:00:00,LinkedIn,361,11
+P00425,Too much bureaucracy stifling innovation #innovation #futureofwork,innovation,#innovation,2024-12-29 00:00:00,Twitter,440,33
+P00426,Panel discussion on the future of HR tech #innovation #peoplefirst,innovation,#innovation,2023-10-27 00:00:00,Twitter,226,96
+P00427,Innovation drives success #leadership #peoplefirst,leadership,#leadership,2023-03-06 00:00:00,Twitter,496,27
+P00428,Conference session on digital transformation #technology #peoplefirst,technology,#technology,2024-11-07 00:00:00,Twitter,8,81
+P00429,Webinar on talent management strategies #workplace #futureofwork,workplace,#workplace,2022-11-12 00:00:00,BlueSky,177,71
+P00430,Innovation drives success #technology #peoplefirst,technology,#technology,2023-12-26 00:00:00,LinkedIn,207,7
+P00431,Conference session on digital transformation #innovation #culture,innovation,#innovation,2023-11-23 00:00:00,Twitter,108,47
+P00432,Too much bureaucracy stifling innovation #workplace #peoplefirst,workplace,#workplace,2024-09-07 00:00:00,BlueSky,442,31
+P00433,Excited about the future of work #workplace #culture,workplace,#workplace,2022-04-24 00:00:00,Twitter,139,50
+P00434,Poor communication about organizational changes #innovation #analytics,innovation,#innovation,2023-04-29 00:00:00,BlueSky,3,62
+P00435,Proud of what the team accomplished #leadership #culture,leadership,#leadership,2023-09-17 00:00:00,Twitter,395,15
+P00436,Conference session on digital transformation #leadership #analytics,leadership,#leadership,2022-05-27 00:00:00,Twitter,112,99
+P00437,Frustrated with the slow pace of change #innovation #hrtech,innovation,#innovation,2022-04-28 00:00:00,LinkedIn,260,100
+P00438,Reviewing the latest benchmarking data #leadership #peoplefirst,leadership,#leadership,2024-08-27 00:00:00,Twitter,336,46
+P00439,New report on workforce analytics #innovation #futureofwork,innovation,#innovation,2023-07-21 00:00:00,Twitter,404,60
+P00440,Thrilled to see leadership investing in people #workplace #futureofwork,workplace,#workplace,2023-05-30 00:00:00,LinkedIn,291,9
+P00441,New report on workforce analytics #technology #futureofwork,technology,#technology,2022-06-27 00:00:00,LinkedIn,219,92
+P00442,Struggling with outdated tools and processes #leadership #analytics,leadership,#leadership,2023-12-02 00:00:00,Twitter,168,54
+P00443,Great progress on our new initiative #leadership #culture,leadership,#leadership,2022-07-07 00:00:00,LinkedIn,295,92
+P00444,Best practices in employee engagement #innovation #peoplefirst,innovation,#innovation,2023-10-20 00:00:00,LinkedIn,230,70
+P00445,Survey results are in for this quarter #innovation #peoplefirst,innovation,#innovation,2022-05-04 00:00:00,BlueSky,244,0
+P00446,Interesting article about industry trends #technology #futureofwork,technology,#technology,2022-12-12 00:00:00,Twitter,222,20
+P00447,Excited about the future of work #workplace #culture,workplace,#workplace,2024-10-13 00:00:00,Twitter,49,17
+P00448,Innovation drives success #workplace #futureofwork,workplace,#workplace,2022-05-31 00:00:00,LinkedIn,481,25
+P00449,Technology is transforming how we collaborate #technology #culture,technology,#technology,2024-04-06 00:00:00,BlueSky,236,68
+P00450,Technology is transforming how we collaborate #innovation #analytics,innovation,#innovation,2024-12-07 00:00:00,LinkedIn,242,27
+P00451,Innovation drives success #workplace #hrtech,workplace,#workplace,2024-10-01 00:00:00,LinkedIn,457,61
+P00452,Excited about the future of work #technology #culture,technology,#technology,2023-01-15 00:00:00,Twitter,67,56
+P00453,Interesting article about industry trends #innovation #hrtech,innovation,#innovation,2023-11-26 00:00:00,LinkedIn,356,73
+P00454,Reviewing the latest benchmarking data #innovation #futureofwork,innovation,#innovation,2023-05-01 00:00:00,LinkedIn,430,81
+P00455,Poor communication about organizational changes #technology #peoplefirst,technology,#technology,2022-08-25 00:00:00,BlueSky,308,11
+P00456,Survey results are in for this quarter #innovation #futureofwork,innovation,#innovation,2023-01-21 00:00:00,Twitter,15,65
+P00457,Frustrated with the slow pace of change #leadership #peoplefirst,leadership,#leadership,2022-09-13 00:00:00,BlueSky,74,5
+P00458,New report on workforce analytics #technology #culture,technology,#technology,2022-05-22 00:00:00,LinkedIn,180,3
+P00459,Outstanding teamwork and dedication #leadership #hrtech,leadership,#leadership,2023-07-12 00:00:00,LinkedIn,144,72
+P00460,Poor communication about organizational changes #innovation #hrtech,innovation,#innovation,2022-01-15 00:00:00,LinkedIn,364,6
+P00461,Conference session on digital transformation #workplace #hrtech,workplace,#workplace,2024-08-08 00:00:00,Twitter,202,39
+P00462,Love the new direction we are heading #leadership #hrtech,leadership,#leadership,2024-10-13 00:00:00,LinkedIn,205,38
+P00463,Best practices in employee engagement #innovation #hrtech,innovation,#innovation,2023-09-26 00:00:00,LinkedIn,453,11
+P00464,Leadership needs to listen more to employees #innovation #hrtech,innovation,#innovation,2023-12-13 00:00:00,Twitter,218,88
+P00465,Amazing results from the latest project #workplace #futureofwork,workplace,#workplace,2022-03-09 00:00:00,LinkedIn,11,52
+P00466,Thrilled to see leadership investing in people #technology #futureofwork,technology,#technology,2023-03-28 00:00:00,Twitter,240,25
+P00467,Reviewing the latest benchmarking data #workplace #futureofwork,workplace,#workplace,2024-05-23 00:00:00,LinkedIn,315,23
+P00468,Need better work-life balance support #innovation #analytics,innovation,#innovation,2022-08-14 00:00:00,LinkedIn,451,81
+P00469,Conference session on digital transformation #leadership #culture,leadership,#leadership,2024-02-18 00:00:00,LinkedIn,114,41
+P00470,Interesting article about industry trends #technology #futureofwork,technology,#technology,2024-08-12 00:00:00,LinkedIn,368,1
+P00471,Thrilled to see leadership investing in people #technology #futureofwork,technology,#technology,2022-08-14 00:00:00,Twitter,82,67
+P00472,Panel discussion on the future of HR tech #technology #hrtech,technology,#technology,2023-02-27 00:00:00,Twitter,218,38
+P00473,Excited about the future of work #technology #futureofwork,technology,#technology,2023-08-17 00:00:00,BlueSky,469,67
+P00474,Best practices in employee engagement #leadership #hrtech,leadership,#leadership,2023-12-16 00:00:00,Twitter,472,36
+P00475,Technology is transforming how we collaborate #innovation #peoplefirst,innovation,#innovation,2023-09-04 00:00:00,LinkedIn,497,42
+P00476,Poor communication about organizational changes #leadership #peoplefirst,leadership,#leadership,2023-09-22 00:00:00,LinkedIn,363,32
+P00477,Poor communication about organizational changes #workplace #culture,workplace,#workplace,2022-09-06 00:00:00,BlueSky,202,72
+P00478,Leadership needs to listen more to employees #technology #futureofwork,technology,#technology,2023-07-19 00:00:00,Twitter,296,57
+P00479,Reading about changes in the market #leadership #culture,leadership,#leadership,2023-07-07 00:00:00,Twitter,449,52
+P00480,Great progress on our new initiative #leadership #culture,leadership,#leadership,2022-12-17 00:00:00,LinkedIn,74,28
+P00481,Best practices in employee engagement #workplace #futureofwork,workplace,#workplace,2024-10-22 00:00:00,LinkedIn,215,16
+P00482,Proud of what the team accomplished #innovation #culture,innovation,#innovation,2024-12-27 00:00:00,Twitter,328,98
+P00483,Excited about the future of work #leadership #peoplefirst,leadership,#leadership,2022-11-19 00:00:00,LinkedIn,53,1
+P00484,Conference session on digital transformation #innovation #analytics,innovation,#innovation,2022-12-21 00:00:00,BlueSky,58,61
+P00485,Need better work-life balance support #workplace #futureofwork,workplace,#workplace,2023-09-10 00:00:00,LinkedIn,460,66
+P00486,Proud of what the team accomplished #leadership #futureofwork,leadership,#leadership,2024-04-25 00:00:00,LinkedIn,189,43
+P00487,Conference session on digital transformation #innovation #peoplefirst,innovation,#innovation,2022-03-18 00:00:00,LinkedIn,125,1
+P00488,Amazing results from the latest project #workplace #futureofwork,workplace,#workplace,2024-06-05 00:00:00,LinkedIn,434,38
+P00489,Excited about the future of work #innovation #peoplefirst,innovation,#innovation,2023-04-03 00:00:00,BlueSky,290,6
+P00490,Conference session on digital transformation #workplace #futureofwork,workplace,#workplace,2022-08-07 00:00:00,Twitter,69,99
+P00491,Proud of what the team accomplished #workplace #hrtech,workplace,#workplace,2023-11-14 00:00:00,LinkedIn,439,50
+P00492,Reviewing the latest benchmarking data #leadership #peoplefirst,leadership,#leadership,2023-11-09 00:00:00,LinkedIn,298,43
+P00493,Interesting article about industry trends #innovation #culture,innovation,#innovation,2024-05-31 00:00:00,LinkedIn,497,10
+P00494,Excited about the future of work #technology #futureofwork,technology,#technology,2024-01-09 00:00:00,BlueSky,282,38
+P00495,Webinar on talent management strategies #technology #futureofwork,technology,#technology,2024-03-23 00:00:00,Twitter,198,28
+P00496,Excited about the future of work #workplace #peoplefirst,workplace,#workplace,2024-01-30 00:00:00,Twitter,24,26
+P00497,Innovation drives success #leadership #peoplefirst,leadership,#leadership,2024-04-14 00:00:00,LinkedIn,80,85
+P00498,Great progress on our new initiative #technology #peoplefirst,technology,#technology,2023-02-04 00:00:00,BlueSky,158,58
+P00499,Conference session on digital transformation #leadership #futureofwork,leadership,#leadership,2024-04-12 00:00:00,Twitter,106,83
+P00500,Great progress on our new initiative #workplace #futureofwork,workplace,#workplace,2023-04-21 00:00:00,LinkedIn,339,57

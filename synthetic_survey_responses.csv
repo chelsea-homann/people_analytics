@@ -1,0 +1,501 @@
+respondent_id,Q1_1,Q1_2,Q1_3,Q1_4,Q2_1,Q2_2,Q2_3,Q2_4,Q3_1,Q3_2,Q3_3,Q3_4,Q3_5,Q3_6,Q4_1,Q4_2,Q4_3,Q4_4,WB_1,WB_2,WB_3,WB_4,WB_5,WB_6,WB_7,WB_8,WB_9,WB_10,WB_11,WB_12,WB_13,WB_14,WB_15,WB_16,WB_17,WB_18,WB_19,WB_20,department,gender,management_level,ethnicity,job_level,is_manager,campus,performance_rating,manager_id,manager_name,terminated,erg_participations
+R0001,4,5,4,4,5,4,5,5,4,3,3,3,4,3,5,4,3,3,3,2,4,3,3,3,2,3,3,2,1,3,3,3,3,3,3,4,2,3,Product,Female,Individual Contributor,Non-Minority,Manager,0,Midwest,Exceeds,M0039,Manager 28,0,0
+R0002,5,4,4,4,5,4,5,4,3,4,3,3,3,4,4,4,3,3,3,2,4,3,3,4,2,3,3,3,3,2,3,3,3,3,2,3,2,3,Operations,Male,Manager,Non-Minority,Senior Professional,1,Midwest,Meets,M0021,Manager 16,0,2
+R0003,4,4,3,4,3,2,3,4,4,5,4,4,3,3,2,4,4,3,3,3,3,4,2,3,3,3,3,3,3,3,4,3,3,2,3,4,3,3,Operations,Male,Individual Contributor,Non-Minority,Director,0,West,Meets,M0025,Manager 40,0,0
+R0004,5,4,5,5,4,3,4,4,3,4,3,4,3,4,3,4,5,3,3,3,4,3,2,4,4,2,3,4,4,4,3,3,3,4,3,3,4,3,Finance,Female,Individual Contributor,Minority,Senior Professional,0,Midwest,Meets,M0007,Manager 1,1,2
+R0005,4,3,4,5,2,2,4,2,3,3,4,3,3,3,2,2,2,2,3,5,4,3,4,4,3,4,3,5,4,4,4,4,4,4,4,4,4,4,Product,Male,Manager,Non-Minority,VP,1,West,Meets,M0047,Manager 9,0,3
+R0006,2,2,2,2,4,3,3,5,2,3,3,2,2,3,4,4,4,4,4,4,3,4,4,5,3,4,4,3,4,3,3,4,4,4,4,3,4,3,Finance,Female,Individual Contributor,Minority,Senior Manager,0,Northeast,Meets,M0034,Manager 18,0,2
+R0007,3,3,3,4,4,4,4,5,4,4,3,4,3,4,4,4,4,3,2,3,4,2,3,2,4,1,3,1,1,3,3,2,2,4,2,3,2,3,Supply Chain,Male,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0024,Manager 29,0,0
+R0008,4,3,2,4,5,5,4,5,4,4,3,4,3,3,4,5,5,5,5,5,4,5,5,5,4,5,4,4,5,4,4,3,5,4,5,4,4,4,IT,Female,Individual Contributor,Minority,Director,0,West,Meets,M0033,Manager 27,0,0
+R0009,3,2,1,2,3,3,3,3,3,3,4,4,3,4,2,2,3,3,5,3,5,5,4,4,5,4,4,3,4,4,5,4,4,5,5,4,5,5,Research,Female,Individual Contributor,Non-Minority,Professional,0,Northeast,Exceeds,M0041,Manager 21,1,0
+R0010,5,4,5,5,3,3,3,2,4,2,4,3,4,3,4,3,2,3,1,1,2,1,1,1,1,1,2,1,2,1,2,2,1,1,1,1,1,2,Finance,Male,Individual Contributor,Non-Minority,Director,0,Midwest,Meets,M0003,Manager 48,0,0
+R0011,4,4,4,4,5,3,5,4,2,4,3,4,4,3,4,5,4,5,3,4,4,5,4,4,4,3,5,5,4,5,4,3,4,4,4,4,4,3,Operations,Male,Manager,Minority,Director,1,West,Meets,M0015,Manager 39,0,1
+R0012,4,5,4,3,3,2,3,3,3,4,3,3,4,3,3,3,3,3,4,3,3,3,4,2,2,3,2,3,3,2,2,3,3,2,3,3,3,4,Product,Female,Individual Contributor,Minority,Manager,0,Remote,Meets,M0006,Manager 23,0,1
+R0013,3,3,3,3,3,4,3,3,5,5,5,5,5,4,5,5,4,5,2,3,3,4,3,2,3,2,4,4,3,4,3,3,3,3,2,3,3,4,Legal,Female,Individual Contributor,Non-Minority,Manager,0,Northeast,Exceeds,M0047,Manager 25,0,0
+R0014,4,4,4,4,3,4,3,4,5,4,5,4,5,4,3,2,2,2,4,3,4,3,3,4,3,4,4,3,4,4,3,3,4,3,5,4,3,3,Engineering,Female,Individual Contributor,Minority,Senior Manager,0,Southeast,Meets,M0046,Manager 10,0,1
+R0015,3,3,3,3,4,5,3,3,3,4,4,4,3,4,3,4,5,3,3,5,4,5,4,4,4,3,4,4,3,4,4,4,3,5,4,5,4,3,Risk Management,Female,Individual Contributor,Non-Minority,Senior Manager,0,Remote,Meets,M0046,Manager 33,1,0
+R0016,4,5,4,5,4,4,4,4,4,4,2,4,3,3,3,3,3,3,4,4,4,3,4,4,4,5,5,4,4,5,5,4,3,5,5,4,4,4,Finance,Female,Individual Contributor,Non-Minority,Professional,0,West,Meets,M0006,Manager 20,0,0
+R0017,4,3,3,3,4,3,4,4,3,5,4,3,2,4,2,2,2,3,5,5,5,4,5,5,5,5,5,4,5,5,4,4,5,5,5,4,5,5,Risk Management,Male,Individual Contributor,Minority,Director,0,Remote,Exceeds,M0030,Manager 11,0,0
+R0018,4,4,3,4,4,4,5,5,3,3,4,4,2,4,3,4,3,3,5,5,4,5,5,5,5,4,5,5,5,5,5,5,4,4,4,5,5,5,Product,Female,Individual Contributor,Minority,Entry,0,West,Exceeds,M0043,Manager 35,0,0
+R0019,4,4,4,4,3,3,4,3,3,5,3,3,4,3,3,5,3,2,2,3,3,2,3,3,4,2,1,2,2,2,2,3,3,2,3,3,3,3,Sales,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0011,Manager 49,0,3
+R0020,4,3,4,4,2,3,2,3,3,4,4,3,4,3,4,3,4,4,5,5,5,5,4,5,5,5,4,5,5,4,4,5,5,4,4,4,5,5,Research,Female,Manager,Non-Minority,Director,1,Northeast,Exceeds,M0007,Manager 28,0,0
+R0021,4,5,5,4,3,3,3,2,3,2,4,4,3,3,1,1,1,1,3,1,2,1,1,1,3,2,2,2,1,2,2,1,2,1,2,2,2,2,Supply Chain,Female,Individual Contributor,Non-Minority,Entry,0,Southeast,Meets,M0021,Manager 25,0,1
+R0022,3,3,4,5,3,3,4,4,4,3,4,4,3,4,5,5,4,4,2,1,2,1,2,1,2,2,1,2,2,2,1,1,2,1,2,2,1,2,Communications,Female,Individual Contributor,Minority,Senior Professional,0,Southeast,Below,M0047,Manager 17,0,0
+R0023,4,5,5,5,4,4,4,3,4,3,3,4,2,3,3,4,3,3,3,4,4,3,4,4,3,3,3,3,4,4,4,3,4,3,4,3,4,4,Research,Male,Individual Contributor,Minority,Manager,0,Northeast,Meets,M0043,Manager 9,1,2
+R0024,3,3,4,3,5,5,5,4,4,3,4,3,3,3,4,3,4,3,3,5,4,4,3,5,4,5,5,5,4,3,4,5,4,5,5,5,4,5,Customer Service,Male,Senior Leader,Non-Minority,Director,1,West,Below,M0006,Manager 45,0,1
+R0025,3,2,2,3,4,3,4,3,2,1,1,1,1,2,3,3,4,3,5,3,3,3,5,4,3,4,4,4,4,3,4,3,5,3,5,4,4,4,Operations,Male,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0037,Manager 50,0,0
+R0026,3,4,3,3,3,3,3,3,3,2,3,3,3,3,3,2,2,2,3,3,2,3,3,3,3,3,4,3,4,4,3,3,4,3,2,2,3,2,IT,Male,Individual Contributor,Non-Minority,Entry,0,Midwest,Meets,M0025,Manager 46,0,1
+R0027,5,5,5,5,4,4,3,4,3,2,2,2,3,3,3,4,4,4,5,5,5,5,4,3,4,3,4,4,4,4,5,4,4,5,4,4,5,3,Supply Chain,Male,Manager,Non-Minority,Director,1,West,Meets,M0042,Manager 42,0,0
+R0028,1,2,3,2,5,4,4,4,2,3,3,4,4,4,4,4,4,4,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,5,4,4,Communications,Male,Individual Contributor,Non-Minority,Senior Manager,0,West,Exceeds,M0015,Manager 15,1,0
+R0029,2,3,4,3,2,2,2,3,5,4,4,4,4,3,2,2,2,2,2,2,3,3,2,3,2,2,2,2,2,4,2,4,3,3,3,4,2,2,Engineering,Female,Individual Contributor,Non-Minority,Entry,0,Midwest,Meets,M0006,Manager 8,0,1
+R0030,4,3,3,4,4,3,3,2,5,5,4,4,4,4,3,2,3,2,5,5,5,5,5,5,4,5,5,5,5,5,4,5,5,5,5,4,5,4,Human Resources,Female,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0013,Manager 48,0,2
+R0031,3,2,4,3,4,4,3,3,4,4,3,3,2,3,3,2,3,3,2,3,2,2,3,3,3,3,3,3,2,2,2,2,3,3,3,2,3,1,Human Resources,Female,Senior Leader,Minority,Senior Manager,1,Midwest,Exceeds,M0009,Manager 21,1,0
+R0032,4,4,5,5,4,2,3,3,5,5,5,5,4,5,2,3,2,2,4,3,4,3,3,3,4,2,2,4,3,2,2,2,2,4,3,3,3,3,Legal,Male,Individual Contributor,Minority,Senior Manager,0,Northeast,Exceeds,M0020,Manager 4,0,2
+R0033,4,4,4,5,5,5,5,4,4,5,5,4,5,4,1,3,2,3,3,4,4,5,4,4,3,3,4,3,4,4,3,5,5,3,4,3,4,5,IT,Male,Manager,Minority,Senior Manager,1,Southeast,Meets,M0025,Manager 28,0,2
+R0034,4,4,4,4,4,3,3,4,5,4,4,4,3,4,2,2,2,2,3,1,3,2,1,3,3,3,3,4,3,2,3,3,2,2,2,1,2,1,Operations,Female,Senior Leader,Minority,VP,1,Midwest,Below,M0044,Manager 9,0,1
+R0035,3,5,3,3,4,5,5,5,2,3,2,1,2,1,5,4,5,5,3,5,4,5,4,4,4,4,4,4,4,5,3,4,4,4,5,4,4,4,Customer Service,Male,Individual Contributor,Minority,Director,0,Remote,Exceeds,M0038,Manager 15,1,2
+R0036,4,3,4,4,3,2,4,3,5,5,4,5,5,4,2,1,1,1,4,4,4,3,3,4,5,4,4,4,3,4,4,4,5,4,4,3,4,3,Human Resources,Female,Manager,Minority,Manager,1,Northeast,Meets,M0035,Manager 30,0,1
+R0037,2,2,3,3,5,5,5,5,3,4,3,4,3,3,2,2,2,1,4,5,3,3,3,4,4,3,4,3,3,4,2,3,5,4,3,4,4,4,Operations,Male,Individual Contributor,Non-Minority,Professional,0,Midwest,Meets,M0015,Manager 32,1,0
+R0038,5,4,4,4,4,3,3,3,3,3,4,4,4,4,3,4,3,3,2,4,4,2,3,3,2,2,3,2,3,2,1,3,3,2,3,2,2,2,Research,Male,Individual Contributor,Non-Minority,Manager,0,Southeast,Meets,M0039,Manager 19,0,0
+R0039,5,5,5,4,3,3,3,4,5,4,4,4,5,4,2,2,3,3,3,5,5,4,4,4,4,5,3,4,5,4,5,5,3,5,4,4,5,5,Marketing,Male,Manager,Non-Minority,Director,1,Northeast,Exceeds,M0039,Manager 21,0,1
+R0040,4,3,4,5,5,5,5,5,5,4,4,4,4,5,3,4,3,4,4,4,4,4,3,5,3,4,4,3,4,4,5,3,3,3,4,4,3,3,Engineering,Male,Individual Contributor,Non-Minority,Senior Manager,0,Northeast,Meets,M0018,Manager 46,0,3
+R0041,4,4,4,4,4,4,4,5,5,4,4,5,4,5,4,4,5,4,3,3,3,3,4,3,4,2,4,4,3,3,3,4,2,4,3,3,3,3,IT,Male,Individual Contributor,Non-Minority,Manager,0,Southeast,Meets,M0032,Manager 19,0,0
+R0042,4,3,4,4,3,4,3,4,3,4,2,3,1,3,4,3,4,3,2,2,1,3,1,1,2,3,2,1,2,2,1,1,3,2,2,2,2,2,Supply Chain,Female,Manager,Non-Minority,Manager,1,Northeast,Meets,M0022,Manager 10,0,0
+R0043,4,4,4,3,5,5,5,5,2,2,2,2,1,1,4,3,3,3,5,3,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,4,5,5,Risk Management,Male,Individual Contributor,Minority,Director,0,Southeast,Meets,M0047,Manager 15,0,1
+R0044,3,3,4,4,4,3,3,3,3,2,3,3,3,3,5,5,5,5,3,2,3,4,3,4,2,2,4,3,4,3,2,3,2,2,4,4,3,2,Supply Chain,Female,Individual Contributor,Non-Minority,Director,0,Northeast,Meets,M0050,Manager 12,0,0
+R0045,5,4,4,4,3,3,2,4,3,3,3,3,2,2,4,4,4,3,3,2,3,4,2,2,2,3,3,3,2,3,2,3,2,2,2,3,3,3,Risk Management,Female,Individual Contributor,Non-Minority,Manager,0,West,Meets,M0020,Manager 43,0,1
+R0046,1,1,2,1,3,3,2,3,5,4,5,4,5,4,2,3,3,2,2,3,3,3,3,3,2,4,2,2,4,3,3,3,4,3,4,2,3,2,Risk Management,Male,Manager,Non-Minority,Professional,1,Northeast,Exceeds,M0036,Manager 26,1,2
+R0047,2,3,3,3,3,3,1,3,3,4,3,4,4,4,4,3,4,3,4,4,4,5,4,4,5,5,3,4,5,5,3,4,5,4,4,5,4,4,Operations,Female,Senior Leader,Minority,Manager,1,West,Meets,M0023,Manager 49,1,0
+R0048,3,4,3,2,3,4,3,3,5,3,3,3,4,4,5,5,4,5,4,3,5,4,4,4,4,4,4,4,4,4,5,4,4,5,4,4,5,4,Legal,Male,Individual Contributor,Non-Minority,Manager,0,Northeast,Meets,M0034,Manager 47,0,0
+R0049,5,5,4,5,5,5,4,4,3,3,3,3,2,3,4,4,5,4,5,5,5,5,4,5,5,5,4,4,5,5,5,4,5,5,4,4,4,4,Engineering,Female,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0045,Manager 36,0,1
+R0050,4,4,4,4,4,4,4,5,3,4,4,4,4,3,4,3,4,4,3,3,3,3,3,3,3,3,3,3,3,3,4,4,2,3,3,3,4,3,Legal,Male,Individual Contributor,Non-Minority,Entry,0,Southeast,Exceeds,M0021,Manager 49,0,1
+R0051,3,4,3,2,3,3,2,3,3,2,3,3,4,4,2,4,3,2,1,1,1,1,1,2,1,1,1,2,1,1,1,1,2,1,1,1,1,2,Communications,Female,Manager,Non-Minority,Senior Manager,1,Northeast,Below,M0046,Manager 20,0,0
+R0052,4,4,4,4,3,3,2,3,3,3,3,3,3,3,4,4,5,4,2,3,2,3,2,2,2,1,3,3,2,3,2,3,1,4,3,2,1,2,Product,Female,Individual Contributor,Non-Minority,Director,0,Southeast,Exceeds,M0037,Manager 9,0,1
+R0053,5,5,4,5,5,4,5,4,4,4,5,4,5,4,3,4,3,3,3,3,2,2,2,2,2,1,2,2,1,1,2,2,3,2,2,2,2,2,Product,Female,Manager,Non-Minority,Director,1,West,Meets,M0019,Manager 10,0,1
+R0054,5,5,4,4,3,3,4,3,5,5,5,5,5,5,4,4,4,4,2,2,4,3,1,2,2,2,1,3,2,3,2,3,2,4,3,3,2,4,Sales,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0048,Manager 42,0,2
+R0055,4,3,3,3,3,3,3,3,2,2,3,3,2,3,4,4,4,4,5,4,4,5,5,4,4,5,5,4,4,3,4,4,5,5,5,4,5,4,Finance,Male,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0007,Manager 44,0,3
+R0056,4,4,4,5,5,5,4,4,2,3,3,2,3,2,3,3,3,3,4,3,3,3,4,4,4,4,4,4,5,3,4,4,4,5,5,4,4,4,Communications,Male,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0025,Manager 28,1,0
+R0057,4,3,4,4,5,4,5,5,2,3,3,3,2,3,3,3,3,4,2,3,2,3,2,2,3,3,3,1,4,4,3,2,2,2,3,3,2,2,Research,Male,Individual Contributor,Non-Minority,VP,0,Southeast,Below,M0004,Manager 7,0,0
+R0058,5,5,5,5,4,3,4,4,4,4,4,5,5,4,2,4,3,3,2,2,3,1,1,2,3,3,2,2,2,2,3,1,2,1,1,3,2,2,Operations,Female,Manager,Minority,Manager,1,Southeast,Meets,M0004,Manager 8,0,0
+R0059,3,2,3,4,5,5,5,5,3,4,3,3,4,3,3,4,4,5,4,3,3,2,3,3,4,4,4,3,4,3,4,3,3,2,3,4,3,3,Customer Service,Female,Manager,Minority,Director,1,Midwest,Below,M0038,Manager 28,0,0
+R0060,5,5,4,5,3,4,4,2,3,4,3,3,3,2,2,4,3,4,4,4,5,4,4,4,5,3,3,4,4,4,3,5,3,4,3,5,4,3,Marketing,Male,Manager,Non-Minority,Director,1,West,Meets,M0016,Manager 3,1,2
+R0061,4,3,4,3,3,3,3,3,3,2,2,3,2,2,2,2,2,2,5,5,4,4,5,5,5,5,5,4,5,5,5,5,5,5,4,5,5,5,Human Resources,Female,Individual Contributor,Non-Minority,Professional,0,West,Meets,M0032,Manager 20,0,2
+R0062,4,3,4,4,4,5,5,5,4,4,4,5,4,3,4,3,3,3,3,2,3,2,2,3,3,3,3,3,3,3,3,2,3,1,4,2,2,3,Supply Chain,Male,Individual Contributor,Non-Minority,Senior Manager,0,Southeast,Exceeds,M0042,Manager 48,0,0
+R0063,3,3,4,3,3,4,4,4,3,3,3,3,4,3,4,3,4,4,3,3,3,2,4,3,2,3,2,3,4,2,3,2,3,2,3,2,3,3,Legal,Male,Individual Contributor,Non-Minority,VP,0,Northeast,Meets,M0050,Manager 30,0,1
+R0064,3,4,4,5,4,4,5,4,3,3,4,3,3,3,5,3,5,4,5,4,5,4,5,4,5,4,4,5,5,5,4,5,5,4,5,5,4,5,Risk Management,Female,Individual Contributor,Minority,VP,0,West,Meets,M0018,Manager 41,0,0
+R0065,4,3,4,3,5,4,4,4,3,3,3,4,4,4,4,3,3,4,4,4,3,3,4,3,3,3,2,3,3,3,4,3,4,3,3,2,3,3,Research,Male,Manager,Non-Minority,Manager,1,Midwest,Meets,M0001,Manager 8,1,0
+R0066,3,4,4,4,3,2,3,3,5,5,4,5,4,4,3,5,4,4,3,4,3,4,5,2,3,3,4,3,5,4,4,3,3,4,3,4,3,3,Human Resources,Female,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0032,Manager 42,0,0
+R0067,2,2,1,1,3,3,4,3,4,3,4,4,3,3,5,4,4,3,3,5,4,3,3,4,3,4,3,5,3,4,4,4,2,2,3,4,3,3,Research,Female,Manager,Minority,Senior Manager,1,Southeast,Meets,M0002,Manager 38,1,0
+R0068,5,5,4,5,3,3,4,4,4,5,4,4,4,4,5,5,5,4,1,2,1,3,3,2,1,3,3,2,2,2,2,2,2,3,3,1,2,1,IT,Male,Individual Contributor,Minority,Senior Manager,0,West,Exceeds,M0018,Manager 45,0,1
+R0069,3,3,2,3,4,4,4,5,5,5,5,5,5,5,4,4,4,4,3,5,4,4,3,3,4,4,2,3,3,4,3,4,3,3,5,4,4,5,Supply Chain,Male,Manager,Minority,Entry,1,Remote,Meets,M0012,Manager 25,0,0
+R0070,3,4,3,3,4,5,5,4,4,4,4,4,5,4,4,4,4,5,3,3,4,2,3,4,4,3,3,4,4,2,2,3,3,3,3,3,2,3,Product,Male,Manager,Minority,Director,1,West,Meets,M0020,Manager 37,0,0
+R0071,3,4,4,4,3,4,4,5,5,5,5,5,5,5,5,4,5,5,3,3,3,3,2,3,2,2,3,3,2,2,2,2,3,3,3,2,2,3,Marketing,Male,Manager,Non-Minority,Entry,1,Midwest,Exceeds,M0005,Manager 46,0,0
+R0072,4,5,5,4,3,3,4,4,3,3,2,2,3,3,3,2,3,4,4,3,4,3,4,4,2,3,4,3,3,3,4,3,2,3,4,3,5,4,Risk Management,Male,Manager,Minority,VP,1,Remote,Below,M0012,Manager 26,0,0
+R0073,5,4,4,3,4,4,4,4,3,3,3,3,2,3,3,2,2,2,3,2,3,3,2,1,3,3,3,2,2,2,3,2,2,2,2,2,2,2,Risk Management,Female,Senior Leader,Non-Minority,Director,1,Northeast,Meets,M0026,Manager 36,0,0
+R0074,3,3,3,3,4,4,4,4,4,3,3,3,3,4,4,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5,Risk Management,Male,Individual Contributor,Non-Minority,Senior Manager,0,Remote,Meets,M0032,Manager 5,1,0
+R0075,3,4,4,4,4,5,5,5,4,3,4,4,4,3,2,3,2,3,5,5,5,5,4,3,5,5,4,4,4,5,5,5,5,4,5,5,5,5,Customer Service,Female,Individual Contributor,Minority,VP,0,Remote,Meets,M0035,Manager 46,0,1
+R0076,5,5,5,5,4,3,3,3,5,4,4,4,4,3,3,3,3,3,5,5,4,5,5,5,5,4,5,4,4,5,5,5,5,4,4,5,5,5,Risk Management,Female,Individual Contributor,Minority,VP,0,Northeast,Meets,M0049,Manager 49,0,0
+R0077,5,4,3,4,4,3,5,4,5,4,4,5,5,5,4,4,4,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,Sales,Female,Individual Contributor,Non-Minority,Director,0,Northeast,Meets,M0012,Manager 39,0,1
+R0078,4,4,4,4,4,4,4,4,4,3,4,4,4,4,2,2,3,2,3,3,3,3,4,4,3,3,3,4,3,3,2,2,3,3,2,3,3,2,Supply Chain,Female,Manager,Non-Minority,Professional,1,Northeast,Meets,M0036,Manager 29,0,2
+R0079,3,3,3,2,3,3,4,3,3,4,4,3,3,4,4,2,3,4,3,3,3,3,2,4,2,3,4,2,3,4,4,3,4,4,3,3,3,3,Communications,Female,Individual Contributor,Minority,Senior Professional,0,Northeast,Meets,M0003,Manager 9,0,0
+R0080,4,4,4,4,4,3,3,2,3,3,4,3,3,3,2,2,2,1,4,2,3,4,3,3,4,3,3,3,5,3,2,4,4,3,3,4,3,2,IT,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0006,Manager 36,0,0
+R0081,3,4,3,3,2,2,1,2,4,3,4,3,4,3,4,5,3,3,3,3,2,3,3,3,2,4,4,3,3,3,4,4,2,4,3,3,2,3,Engineering,Female,Individual Contributor,Non-Minority,VP,0,Northeast,Below,M0006,Manager 8,1,0
+R0082,2,3,3,4,3,3,4,3,3,4,4,3,4,3,4,4,3,4,3,2,2,2,2,2,2,2,2,2,1,2,1,2,2,2,2,2,3,3,Customer Service,Male,Individual Contributor,Minority,Senior Professional,0,Midwest,Meets,M0035,Manager 11,1,3
+R0083,4,3,4,3,4,4,5,5,5,5,4,4,4,4,4,3,5,4,2,2,3,2,2,2,2,2,2,2,2,2,2,1,2,2,3,1,2,2,Legal,Female,Individual Contributor,Minority,Director,0,Northeast,Exceeds,M0016,Manager 20,0,2
+R0084,5,5,5,5,3,3,3,3,2,3,2,4,3,3,5,5,5,4,4,4,4,4,3,4,3,4,5,3,3,3,4,4,4,4,3,4,4,3,Finance,Male,Manager,Non-Minority,Senior Manager,1,Midwest,Meets,M0043,Manager 35,0,3
+R0085,3,3,4,4,5,3,4,3,4,4,5,4,5,4,2,2,3,2,5,5,5,4,5,5,5,5,5,4,4,5,5,5,5,5,5,5,4,5,Product,Male,Individual Contributor,Minority,Professional,0,Remote,Below,M0032,Manager 45,1,0
+R0086,5,4,5,5,1,1,2,2,3,4,2,2,2,3,4,4,5,5,2,3,4,3,3,4,2,3,3,3,4,3,4,3,4,4,3,2,3,3,Operations,Female,Manager,Minority,Senior Manager,1,Midwest,Below,M0039,Manager 35,0,0
+R0087,2,3,3,3,4,4,5,5,3,3,3,3,2,3,3,2,4,3,3,4,2,2,3,4,2,3,3,2,4,4,3,4,4,3,3,3,3,3,Customer Service,Male,Individual Contributor,Minority,Professional,0,Northeast,Meets,M0043,Manager 3,0,1
+R0088,4,4,3,3,1,1,2,1,5,4,4,4,4,5,2,2,2,3,3,5,5,4,4,3,4,3,4,5,4,4,3,4,4,4,4,4,4,4,Sales,Male,Manager,Minority,Entry,1,Southeast,Below,M0010,Manager 20,0,0
+R0089,5,5,4,5,4,4,4,4,4,4,5,4,4,3,5,5,5,4,3,4,5,3,5,4,4,4,3,4,3,3,4,3,3,4,4,4,4,5,Risk Management,Female,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0009,Manager 39,0,1
+R0090,4,3,4,4,3,3,3,4,3,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,4,3,4,4,3,4,3,4,3,4,4,3,3,Customer Service,Male,Individual Contributor,Non-Minority,Professional,0,Remote,Meets,M0023,Manager 18,0,0
+R0091,3,3,4,4,4,5,4,4,3,3,3,3,3,4,4,4,3,2,3,2,2,2,3,3,2,3,3,2,3,2,3,1,3,2,3,1,2,3,Marketing,Female,Senior Leader,Minority,Director,1,Remote,Exceeds,M0028,Manager 5,0,1
+R0092,4,3,5,4,4,3,3,2,5,5,4,5,4,4,4,4,3,4,4,4,3,4,4,4,3,3,4,3,3,3,4,3,3,3,3,4,5,4,Customer Service,Male,Individual Contributor,Minority,Senior Professional,0,Midwest,Meets,M0025,Manager 42,0,0
+R0093,3,3,4,3,2,3,2,2,4,3,3,4,4,4,4,4,3,3,4,4,4,4,3,4,3,3,4,4,4,5,3,3,5,4,4,3,4,4,Marketing,Female,Individual Contributor,Minority,Manager,0,West,Meets,M0006,Manager 17,0,1
+R0094,3,3,4,3,4,3,3,3,4,3,4,5,4,4,3,4,3,4,3,3,3,2,3,3,2,3,2,3,3,2,2,3,3,3,2,2,3,2,Research,Male,Individual Contributor,Non-Minority,Manager,0,Southeast,Meets,M0035,Manager 14,0,0
+R0095,2,2,3,3,5,5,5,5,5,5,5,5,4,5,5,4,5,5,3,4,4,3,3,3,3,3,4,4,4,4,3,4,3,3,2,3,3,4,Human Resources,Female,Individual Contributor,Minority,Director,0,Midwest,Meets,M0041,Manager 45,0,0
+R0096,5,5,3,4,5,5,5,5,4,4,4,3,4,3,4,5,5,5,1,2,2,2,1,2,2,3,3,2,3,2,2,3,2,2,1,2,2,3,Research,Female,Manager,Minority,Professional,1,Midwest,Meets,M0037,Manager 43,0,0
+R0097,3,3,4,3,3,4,3,4,4,3,5,4,4,4,5,5,4,5,3,4,4,4,5,3,3,3,4,4,3,3,3,4,4,4,3,3,3,4,Research,Female,Individual Contributor,Non-Minority,VP,0,Remote,Meets,M0039,Manager 11,0,3
+R0098,3,2,2,2,3,4,3,3,2,2,3,3,1,2,4,4,4,4,5,5,4,5,4,5,5,5,5,5,4,4,5,5,5,4,5,5,5,3,Legal,Female,Individual Contributor,Minority,VP,0,Southeast,Meets,M0021,Manager 28,1,0
+R0099,2,4,2,3,4,3,3,3,3,2,3,2,3,3,3,3,2,3,3,2,2,3,3,1,2,2,2,1,3,3,2,2,2,3,3,3,2,2,Legal,Male,Individual Contributor,Non-Minority,Entry,0,Remote,Meets,M0016,Manager 5,0,0
+R0100,3,3,4,5,4,4,5,4,4,5,4,5,5,4,3,3,3,3,5,5,5,4,5,5,5,5,5,5,4,4,5,3,5,5,5,5,4,5,Engineering,Male,Individual Contributor,Non-Minority,Entry,0,Remote,Exceeds,M0008,Manager 44,0,0
+R0101,5,5,4,4,3,3,2,2,3,4,3,2,3,3,3,2,3,3,2,2,1,2,2,2,2,2,3,2,2,2,2,2,2,2,2,2,2,3,Customer Service,Male,Individual Contributor,Non-Minority,Manager,0,Northeast,Meets,M0022,Manager 41,0,1
+R0102,5,5,5,5,4,4,3,3,3,4,4,4,2,4,5,5,5,4,5,3,4,3,4,4,4,4,4,3,3,4,3,4,4,3,4,5,4,4,Human Resources,Female,Manager,Minority,Senior Professional,1,Midwest,Meets,M0050,Manager 18,1,1
+R0103,4,4,4,4,5,4,4,4,2,3,3,3,3,3,4,3,3,3,4,5,4,5,5,5,4,5,5,5,5,5,4,4,5,4,5,4,5,5,Marketing,Female,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0018,Manager 1,0,2
+R0104,3,4,3,4,3,3,4,4,2,4,4,3,4,3,5,5,5,4,4,4,5,4,4,5,4,4,5,4,4,4,4,4,4,4,5,4,5,4,Human Resources,Male,Manager,Minority,Manager,1,Southeast,Meets,M0025,Manager 7,0,0
+R0105,4,4,4,4,3,2,3,4,4,4,4,5,4,5,2,3,2,2,3,3,3,4,4,2,3,3,5,3,4,2,2,3,2,3,3,3,4,4,Communications,Male,Senior Leader,Minority,Entry,1,Southeast,Meets,M0034,Manager 47,1,2
+R0106,4,5,5,5,4,3,2,3,3,3,3,3,2,3,3,4,3,3,2,2,1,2,3,2,3,3,3,2,2,3,2,1,3,2,2,2,2,1,Engineering,Male,Individual Contributor,Non-Minority,Senior Manager,0,West,Meets,M0007,Manager 34,0,0
+R0107,3,3,3,4,4,5,3,4,2,1,1,3,2,1,4,3,4,3,2,3,4,4,4,3,4,3,3,3,3,4,3,4,3,4,4,3,4,4,Operations,Female,Individual Contributor,Non-Minority,Director,0,Remote,Below,M0019,Manager 36,0,2
+R0108,3,4,3,4,3,3,3,3,4,5,5,4,5,4,2,2,2,2,3,3,3,3,3,3,3,3,3,3,4,3,2,2,3,2,3,3,4,3,Engineering,Male,Individual Contributor,Non-Minority,Senior Manager,0,Northeast,Meets,M0004,Manager 11,1,2
+R0109,4,4,5,5,3,4,3,4,5,5,5,5,4,5,1,1,1,2,3,3,3,4,3,3,3,4,3,3,2,3,3,3,2,2,4,4,2,3,Operations,Female,Individual Contributor,Minority,VP,0,West,Below,M0012,Manager 23,0,2
+R0110,3,3,3,3,5,4,4,4,2,2,3,2,2,3,4,4,4,4,2,3,2,3,4,3,3,4,4,3,4,3,4,5,4,2,3,4,3,4,Communications,Female,Manager,Minority,Director,1,Remote,Meets,M0036,Manager 39,0,0
+R0111,4,5,5,5,5,5,4,5,3,3,2,2,2,1,1,1,2,2,3,3,1,4,3,3,2,4,3,3,3,4,3,3,3,2,3,3,4,2,Risk Management,Female,Individual Contributor,Non-Minority,Manager,0,West,Below,M0038,Manager 9,0,0
+R0112,3,4,4,3,2,5,4,5,4,4,3,4,4,3,4,4,5,4,3,3,3,4,5,4,4,4,3,4,4,4,4,4,4,4,3,4,4,5,Engineering,Male,Individual Contributor,Non-Minority,Entry,0,Remote,Below,M0046,Manager 10,0,2
+R0113,3,3,3,3,3,4,4,4,4,3,3,2,3,3,4,4,4,4,2,4,3,2,3,4,3,2,2,2,2,2,2,2,3,2,3,3,3,3,Research,Male,Individual Contributor,Non-Minority,Professional,0,Southeast,Exceeds,M0025,Manager 37,0,0
+R0114,4,3,3,3,3,3,3,4,3,3,3,3,4,3,4,4,4,3,3,3,1,2,2,2,2,2,3,3,2,2,3,3,2,2,2,2,2,2,Supply Chain,Female,Individual Contributor,Minority,Senior Professional,0,Northeast,Exceeds,M0047,Manager 41,1,0
+R0115,2,3,3,3,3,3,3,2,3,2,2,2,2,2,4,5,3,5,3,3,3,3,3,3,3,3,4,3,3,3,3,4,3,2,4,3,3,4,Operations,Male,Individual Contributor,Non-Minority,Director,0,Southeast,Meets,M0044,Manager 39,0,0
+R0116,3,3,2,4,3,3,1,2,4,5,5,4,5,4,5,4,4,4,5,4,3,4,4,3,4,4,2,4,3,4,4,4,5,4,4,4,4,4,Legal,Female,Individual Contributor,Minority,Director,0,West,Exceeds,M0012,Manager 29,0,0
+R0117,4,5,4,5,5,4,4,5,4,4,4,4,4,5,3,3,3,3,3,3,1,3,3,2,3,2,1,2,2,2,3,1,3,2,2,2,3,2,Operations,Female,Individual Contributor,Non-Minority,VP,0,West,Meets,M0033,Manager 19,0,0
+R0118,4,2,3,3,5,5,4,5,3,4,3,3,2,4,4,3,3,4,5,5,5,4,4,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,Engineering,Male,Senior Leader,Non-Minority,Manager,1,Remote,Meets,M0046,Manager 15,1,2
+R0119,4,4,4,4,3,3,4,4,2,3,3,3,3,3,5,4,4,4,2,2,2,3,3,2,2,3,2,3,3,2,2,2,3,1,2,2,3,2,Engineering,Female,Individual Contributor,Non-Minority,Director,0,Northeast,Exceeds,M0020,Manager 27,1,0
+R0120,3,3,2,3,2,3,3,2,4,4,4,5,5,5,3,3,3,2,4,5,5,5,4,5,5,5,5,5,4,4,5,5,5,5,4,5,3,4,Communications,Female,Manager,Minority,Senior Professional,1,Northeast,Meets,M0041,Manager 6,1,0
+R0121,4,4,4,4,5,3,5,4,4,5,4,4,4,5,2,2,2,2,4,4,3,4,4,4,4,4,3,4,3,3,3,3,2,4,2,5,4,3,Human Resources,Female,Individual Contributor,Minority,Director,0,Southeast,Meets,M0006,Manager 11,0,2
+R0122,4,4,4,4,3,4,4,3,4,4,4,4,4,4,2,3,2,3,2,3,3,3,3,3,3,3,4,4,4,4,4,4,5,3,3,4,4,4,IT,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0048,Manager 19,0,1
+R0123,5,5,4,5,4,4,4,4,4,3,3,3,3,3,3,3,3,3,1,2,2,3,2,2,2,3,2,2,2,3,2,3,3,3,2,3,3,3,Customer Service,Male,Manager,Non-Minority,Manager,1,Northeast,Meets,M0028,Manager 44,0,0
+R0124,5,5,5,5,3,3,4,3,5,5,4,4,4,4,3,3,3,3,4,3,2,3,4,4,3,4,3,3,3,3,4,3,2,3,3,3,3,4,Customer Service,Male,Individual Contributor,Minority,Director,0,Southeast,Meets,M0031,Manager 32,0,2
+R0125,3,3,3,2,1,2,2,3,4,4,4,3,4,4,3,4,4,4,3,4,4,4,4,4,3,4,4,3,5,4,5,4,3,4,4,4,4,4,Customer Service,Male,Individual Contributor,Non-Minority,Director,0,Remote,Meets,M0045,Manager 8,1,2
+R0126,2,3,3,4,3,4,2,3,3,3,3,4,4,3,2,2,2,3,2,3,3,4,4,2,3,3,2,2,5,3,4,4,3,3,3,3,3,2,Legal,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Exceeds,M0013,Manager 48,0,0
+R0127,5,5,5,4,3,3,4,3,2,2,3,2,2,2,4,3,3,3,4,4,3,3,3,3,3,3,3,3,4,4,3,4,3,4,4,4,3,3,Finance,Male,Individual Contributor,Non-Minority,Director,0,West,Meets,M0045,Manager 35,0,2
+R0128,2,3,3,3,5,4,4,5,1,1,2,2,2,1,3,3,2,3,3,3,3,3,3,2,3,2,3,2,3,3,3,3,3,1,3,2,3,2,Supply Chain,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0048,Manager 43,0,2
+R0129,4,4,4,4,3,4,3,3,5,4,5,5,5,4,3,3,3,4,2,4,4,3,4,2,5,3,3,2,3,2,3,3,2,3,3,2,3,3,Risk Management,Male,Manager,Non-Minority,Senior Manager,1,Remote,Exceeds,M0003,Manager 39,0,1
+R0130,5,5,5,5,3,3,4,2,3,3,5,5,4,4,4,3,4,3,4,4,4,5,4,4,5,2,5,5,5,4,4,5,5,4,4,5,3,4,Product,Male,Individual Contributor,Minority,Professional,0,Remote,Meets,M0015,Manager 12,0,0
+R0131,5,5,4,4,3,2,4,2,3,4,4,3,3,3,3,4,3,3,5,5,3,4,5,4,5,5,4,4,4,4,3,4,3,5,5,3,5,5,Human Resources,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0033,Manager 23,0,1
+R0132,5,4,4,5,5,4,4,4,5,4,4,5,4,4,4,5,4,4,1,2,2,3,1,2,2,2,2,2,2,2,2,1,2,1,2,3,1,2,Finance,Male,Individual Contributor,Non-Minority,Manager,0,West,Meets,M0025,Manager 11,0,3
+R0133,4,4,3,4,4,3,5,5,2,3,2,2,2,2,3,4,3,3,3,3,3,3,4,4,4,2,4,4,3,4,3,2,3,4,2,3,3,3,Operations,Female,Individual Contributor,Non-Minority,Entry,0,Midwest,Exceeds,M0044,Manager 16,0,1
+R0134,4,4,4,4,3,3,3,2,3,3,2,3,3,3,3,3,3,3,5,4,4,5,5,5,5,5,5,4,5,5,5,5,5,4,4,5,5,5,Risk Management,Female,Manager,Non-Minority,Senior Manager,1,Northeast,Meets,M0019,Manager 20,0,0
+R0135,3,4,4,4,4,4,3,5,4,4,3,4,3,3,3,3,3,4,3,4,4,4,4,4,4,4,4,4,3,4,5,3,4,4,4,4,4,3,Product,Female,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Meets,M0014,Manager 1,0,0
+R0136,5,4,5,4,4,4,4,5,2,2,3,2,2,2,3,3,4,3,3,3,3,5,3,4,3,4,4,3,3,4,4,4,4,4,5,3,4,2,Supply Chain,Female,Individual Contributor,Non-Minority,Director,0,Remote,Meets,M0026,Manager 14,0,0
+R0137,4,3,3,3,3,3,3,3,5,5,4,5,4,4,3,4,3,4,2,3,4,2,2,1,2,3,3,3,3,4,4,2,2,2,2,3,2,3,Engineering,Female,Individual Contributor,Non-Minority,Director,0,Remote,Meets,M0003,Manager 30,0,0
+R0138,4,4,4,5,3,4,4,3,4,3,4,4,4,4,4,5,5,4,3,5,3,4,4,3,3,3,4,3,3,2,4,3,4,3,3,4,4,4,IT,Male,Manager,Non-Minority,VP,1,West,Below,M0004,Manager 23,0,2
+R0139,5,4,5,5,5,4,4,4,5,5,5,5,4,5,4,3,3,3,2,3,4,3,4,4,4,4,3,3,3,3,4,4,4,4,2,4,2,3,Finance,Male,Manager,Non-Minority,Senior Manager,1,West,Meets,M0022,Manager 20,0,3
+R0140,4,3,3,5,2,2,2,3,3,3,3,3,3,3,3,3,4,3,5,4,5,4,4,5,5,4,5,5,4,5,4,5,4,5,4,5,4,4,Operations,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0023,Manager 47,0,2
+R0141,3,4,3,4,3,2,3,2,2,2,2,3,2,1,3,3,3,5,5,3,4,3,4,3,4,4,5,5,5,4,4,5,5,5,4,4,4,5,Marketing,Male,Individual Contributor,Non-Minority,Manager,0,Midwest,Meets,M0001,Manager 7,0,2
+R0142,5,5,4,5,4,3,3,3,4,3,3,4,3,4,3,3,3,3,3,3,4,3,4,4,3,4,3,3,4,3,4,4,3,3,3,3,5,3,Legal,Female,Senior Leader,Non-Minority,Manager,1,Southeast,Meets,M0006,Manager 34,0,0
+R0143,4,5,4,5,4,5,5,4,5,5,5,4,5,4,5,5,5,4,4,3,4,3,3,2,4,4,3,4,4,4,4,4,3,5,3,4,4,4,Customer Service,Female,Individual Contributor,Minority,Professional,0,West,Meets,M0008,Manager 32,0,0
+R0144,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5,4,5,5,3,4,5,5,4,3,4,5,4,5,5,5,Finance,Female,Individual Contributor,Non-Minority,Professional,0,Midwest,Meets,M0015,Manager 31,0,3
+R0145,5,4,5,4,4,4,3,4,3,2,3,4,4,3,3,3,3,4,3,3,2,3,2,3,3,3,3,3,3,3,2,2,3,3,2,3,3,3,Legal,Female,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Exceeds,M0024,Manager 28,0,0
+R0146,5,5,5,5,4,3,2,3,4,4,4,4,2,4,5,4,4,4,5,5,5,5,5,5,5,5,5,5,4,4,4,5,5,5,5,5,5,5,Marketing,Male,Individual Contributor,Non-Minority,Senior Manager,0,Midwest,Meets,M0007,Manager 29,0,0
+R0147,4,4,3,4,4,3,3,4,4,4,5,4,4,4,4,5,4,3,4,3,5,3,4,4,4,4,4,5,4,5,3,4,4,4,5,4,3,4,Research,Female,Individual Contributor,Non-Minority,VP,0,West,Meets,M0011,Manager 9,0,0
+R0148,3,2,2,2,4,4,4,4,5,4,5,4,4,4,3,4,3,3,3,5,4,4,4,5,4,4,5,5,5,4,4,4,4,4,4,5,4,5,Operations,Female,Manager,Minority,Director,1,West,Meets,M0001,Manager 23,1,1
+R0149,3,3,3,3,2,2,2,2,4,4,5,5,4,5,4,4,3,4,2,2,1,2,2,2,2,2,2,3,2,1,2,2,2,3,1,3,2,3,Risk Management,Male,Individual Contributor,Minority,Director,0,Southeast,Meets,M0008,Manager 13,0,2
+R0150,4,4,3,4,3,4,3,5,5,5,5,5,5,5,3,3,3,3,4,4,4,4,2,4,4,4,3,4,4,4,4,4,4,4,3,3,3,3,Engineering,Male,Individual Contributor,Minority,Entry,0,Southeast,Meets,M0026,Manager 27,0,3
+R0151,3,4,5,4,3,3,2,2,5,5,5,5,5,5,3,3,4,4,2,4,3,3,4,4,4,4,4,3,3,3,3,3,3,3,3,4,2,3,Supply Chain,Female,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Exceeds,M0011,Manager 43,0,0
+R0152,4,4,4,3,4,5,3,4,5,4,4,4,4,4,4,5,5,4,3,3,3,4,3,3,4,4,3,3,5,4,3,4,4,4,4,4,4,3,Sales,Female,Individual Contributor,Non-Minority,Manager,0,Midwest,Exceeds,M0008,Manager 27,0,0
+R0153,3,3,3,2,4,3,5,3,4,4,4,5,5,4,5,5,4,5,4,5,4,4,4,3,5,3,4,3,4,4,4,5,4,5,5,4,4,4,Product,Male,Individual Contributor,Non-Minority,Senior Manager,0,West,Exceeds,M0044,Manager 46,0,2
+R0154,4,5,3,4,5,4,4,4,4,5,4,3,4,5,4,4,4,3,5,4,3,3,2,5,5,3,4,4,3,3,4,4,3,4,5,4,4,4,Marketing,Female,Manager,Non-Minority,Senior Professional,1,West,Meets,M0033,Manager 47,0,0
+R0155,5,5,4,5,2,3,3,3,5,4,3,3,4,4,4,4,3,4,3,4,3,4,2,2,2,4,4,2,3,2,2,3,3,3,2,4,3,3,Supply Chain,Male,Manager,Non-Minority,VP,1,West,Meets,M0009,Manager 8,0,0
+R0156,3,3,3,3,3,3,3,4,4,4,4,3,3,4,4,4,4,4,2,2,3,2,2,2,2,3,2,2,2,3,2,2,3,3,1,1,2,2,Human Resources,Male,Manager,Minority,VP,1,Northeast,Meets,M0009,Manager 10,0,1
+R0157,3,3,4,3,3,4,4,5,4,3,3,3,3,4,3,4,3,4,3,1,3,3,3,2,3,2,3,3,2,4,3,3,2,4,2,3,2,2,Operations,Female,Individual Contributor,Non-Minority,Senior Manager,0,Northeast,Meets,M0050,Manager 44,0,0
+R0158,5,5,4,5,2,2,3,3,4,3,3,3,3,3,3,4,4,3,2,2,2,3,2,2,3,1,3,2,3,2,4,2,3,3,2,2,3,2,Sales,Female,Individual Contributor,Minority,Entry,0,Midwest,Meets,M0028,Manager 39,0,1
+R0159,3,3,3,3,5,5,5,5,4,4,3,3,3,3,2,2,3,3,2,3,1,2,3,1,1,3,1,1,3,2,2,2,1,2,3,2,3,1,Supply Chain,Female,Individual Contributor,Minority,Entry,0,West,Below,M0031,Manager 19,1,0
+R0160,4,5,5,4,4,4,4,4,5,5,5,5,5,5,4,4,4,4,4,4,4,4,5,4,4,5,4,5,5,4,5,5,5,4,5,5,5,4,Engineering,Male,Senior Leader,Minority,Manager,1,Northeast,Meets,M0049,Manager 28,0,1
+R0161,2,3,2,4,4,5,4,4,3,3,3,3,3,3,1,3,2,2,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,4,5,5,5,4,Sales,Male,Manager,Non-Minority,Senior Manager,1,Southeast,Meets,M0047,Manager 33,0,0
+R0162,3,3,4,4,2,2,3,2,5,5,5,5,5,5,2,3,2,3,4,5,5,4,4,5,4,5,4,5,5,4,4,4,4,3,4,4,5,5,Marketing,Male,Manager,Minority,Professional,1,Midwest,Exceeds,M0050,Manager 8,1,1
+R0163,3,3,4,4,4,4,3,3,5,5,5,4,4,5,3,3,2,3,5,5,4,5,5,4,5,5,5,5,5,4,5,5,5,4,5,4,4,5,Risk Management,Female,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0043,Manager 28,1,3
+R0164,3,3,4,3,3,3,3,3,4,4,4,4,4,4,3,3,2,3,4,3,3,2,3,3,3,3,3,3,3,2,3,3,4,3,3,3,4,4,Sales,Female,Manager,Non-Minority,Manager,1,Northeast,Meets,M0045,Manager 47,1,1
+R0165,4,5,5,5,5,4,4,4,3,5,4,4,5,5,4,5,5,5,3,2,2,2,2,3,2,3,3,1,3,2,3,2,2,3,4,3,3,2,Customer Service,Male,Manager,Minority,Senior Manager,1,Southeast,Exceeds,M0013,Manager 38,0,0
+R0166,3,3,2,3,3,3,4,4,4,3,3,3,3,4,4,3,3,3,4,4,4,2,4,4,4,3,4,4,4,4,3,3,5,4,4,4,4,4,Research,Male,Individual Contributor,Non-Minority,Director,0,Southeast,Meets,M0015,Manager 8,0,2
+R0167,4,4,4,4,4,3,3,4,4,4,4,3,4,5,3,2,3,3,4,4,4,3,3,4,4,3,4,3,4,4,4,3,3,3,4,3,4,4,Marketing,Male,Individual Contributor,Non-Minority,Manager,0,Northeast,Meets,M0018,Manager 13,0,2
+R0168,5,5,4,4,5,4,5,5,3,4,3,4,3,4,4,4,3,4,4,3,4,5,4,4,4,4,4,3,3,4,3,4,4,3,4,4,5,3,Marketing,Female,Manager,Non-Minority,Manager,1,Northeast,Meets,M0040,Manager 13,0,0
+R0169,5,4,4,4,4,3,4,4,4,4,4,4,4,4,4,3,3,2,4,2,2,2,3,3,2,3,2,4,2,2,2,3,2,2,3,2,3,4,Human Resources,Male,Individual Contributor,Non-Minority,VP,0,Northeast,Below,M0025,Manager 27,0,1
+R0170,4,4,3,4,4,5,4,5,4,5,5,5,5,5,2,3,2,2,3,4,5,4,4,4,3,4,4,4,4,4,4,3,4,3,4,4,4,4,Customer Service,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0015,Manager 22,0,1
+R0171,2,1,2,1,5,4,5,5,4,4,5,5,4,4,4,5,5,4,3,3,4,3,2,3,2,2,2,4,3,3,2,2,2,4,3,3,3,2,Legal,Male,Individual Contributor,Non-Minority,Manager,0,Northeast,Exceeds,M0033,Manager 28,0,1
+R0172,4,5,5,4,4,3,3,3,1,2,3,2,2,1,4,5,5,5,4,3,4,3,5,4,3,3,4,4,4,2,4,3,4,4,3,4,4,3,Research,Female,Individual Contributor,Non-Minority,Entry,0,Midwest,Meets,M0008,Manager 18,0,0
+R0173,4,3,4,4,4,4,4,3,5,5,5,5,5,4,4,4,4,3,2,1,1,1,1,2,2,1,2,1,2,1,1,2,1,2,1,2,2,2,Operations,Female,Manager,Non-Minority,Senior Professional,1,Midwest,Meets,M0046,Manager 27,0,0
+R0174,3,3,3,2,5,5,4,5,4,3,4,4,4,3,4,3,3,4,5,4,4,4,4,4,4,3,5,3,4,4,5,4,4,4,4,3,3,3,Sales,Male,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Exceeds,M0012,Manager 3,0,1
+R0175,3,3,4,5,4,4,4,4,4,2,3,4,3,3,3,3,3,3,3,3,3,4,1,3,2,4,3,3,3,3,2,4,4,4,3,3,3,3,Finance,Female,Individual Contributor,Non-Minority,Entry,0,Midwest,Below,M0014,Manager 19,0,1
+R0176,4,3,3,2,4,4,4,4,4,5,5,4,4,5,5,5,5,5,5,4,5,5,5,5,4,5,5,4,5,5,4,4,5,5,5,5,4,5,Product,Male,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0007,Manager 28,1,2
+R0177,3,2,3,3,4,3,3,4,5,5,4,5,5,5,3,4,4,3,3,4,4,4,3,4,3,3,3,3,3,3,2,3,3,3,4,3,4,4,Marketing,Male,Individual Contributor,Minority,Senior Professional,0,West,Meets,M0024,Manager 22,1,3
+R0178,3,2,2,3,2,1,1,1,3,2,3,2,2,2,4,4,4,4,5,5,5,4,3,5,4,5,5,5,5,5,5,5,5,5,5,5,4,5,Engineering,Female,Manager,Non-Minority,Entry,1,Northeast,Exceeds,M0043,Manager 1,1,3
+R0179,3,4,4,4,3,4,3,4,5,4,5,5,4,5,4,4,4,4,3,2,2,2,2,3,2,2,3,3,2,3,3,2,2,4,3,4,2,2,Research,Male,Individual Contributor,Non-Minority,Senior Manager,0,Southeast,Meets,M0022,Manager 24,0,0
+R0180,3,3,3,2,3,4,2,4,3,3,4,4,4,4,5,3,4,4,5,4,4,4,3,3,5,3,4,3,4,4,3,3,4,3,3,3,4,4,Supply Chain,Female,Individual Contributor,Non-Minority,VP,0,Midwest,Exceeds,M0048,Manager 50,0,1
+R0181,5,5,4,4,2,3,3,2,3,4,3,3,3,3,3,2,4,3,3,3,3,4,3,3,3,3,3,2,3,3,3,4,4,3,3,2,3,4,IT,Male,Senior Leader,Non-Minority,Senior Manager,1,Remote,Meets,M0024,Manager 16,0,3
+R0182,3,3,3,3,4,5,5,5,4,4,3,4,5,4,5,4,5,4,1,1,2,2,2,1,1,2,2,1,1,1,1,1,2,1,1,1,1,3,Research,Female,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Below,M0038,Manager 25,0,0
+R0183,5,5,4,5,3,3,4,3,4,4,4,4,5,4,4,4,4,2,4,5,4,4,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,4,Human Resources,Female,Individual Contributor,Minority,Entry,0,Southeast,Meets,M0041,Manager 48,0,0
+R0184,3,4,3,4,2,3,3,2,4,4,4,4,4,5,5,5,5,5,2,4,4,3,3,4,3,3,2,3,3,4,3,3,4,3,3,3,2,3,IT,Male,Senior Leader,Non-Minority,Entry,1,Northeast,Meets,M0038,Manager 42,0,2
+R0185,5,5,4,5,5,5,4,4,5,5,5,5,5,5,4,4,3,4,3,2,1,3,3,3,2,3,3,1,3,3,2,2,1,3,3,2,3,2,Risk Management,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0046,Manager 29,0,0
+R0186,4,3,3,3,4,5,5,5,5,5,5,5,5,5,4,4,4,4,2,2,4,3,1,3,3,1,3,2,3,3,2,2,2,3,3,2,2,3,Human Resources,Male,Individual Contributor,Non-Minority,Entry,0,Remote,Meets,M0040,Manager 22,0,0
+R0187,4,4,4,3,3,2,2,2,4,5,5,4,4,4,3,3,3,4,4,4,4,5,5,5,5,4,5,5,5,4,4,5,5,5,5,4,4,5,Engineering,Male,Individual Contributor,Non-Minority,Director,0,West,Exceeds,M0049,Manager 13,0,1
+R0188,3,3,4,4,5,5,5,4,2,3,3,2,2,2,4,3,3,4,4,3,4,3,3,3,3,5,3,3,3,4,3,3,5,4,4,5,4,3,Customer Service,Female,Individual Contributor,Non-Minority,Director,0,Southeast,Meets,M0003,Manager 9,0,1
+R0189,4,3,4,3,3,2,2,3,4,4,3,3,4,4,3,4,2,4,4,2,3,4,3,3,3,3,4,4,3,3,4,3,3,3,4,4,3,4,Sales,Female,Individual Contributor,Non-Minority,Manager,0,Remote,Below,M0046,Manager 17,1,0
+R0190,5,5,5,5,5,5,5,4,2,2,2,1,1,2,2,3,3,3,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,Communications,Female,Individual Contributor,Non-Minority,VP,0,Remote,Meets,M0023,Manager 24,0,0
+R0191,3,4,4,4,5,4,5,5,4,3,3,3,4,3,4,4,3,4,4,4,4,4,5,4,3,4,4,5,4,4,5,4,5,5,4,4,3,5,Product,Male,Individual Contributor,Non-Minority,Director,0,Northeast,Meets,M0028,Manager 5,0,0
+R0192,3,3,4,4,2,3,3,3,3,3,2,4,3,3,4,5,5,5,4,3,3,4,3,4,4,4,5,5,3,3,2,5,3,4,3,4,3,3,Product,Female,Individual Contributor,Non-Minority,Manager,0,Remote,Below,M0033,Manager 2,0,3
+R0193,3,3,4,4,3,4,3,4,4,4,4,3,5,5,3,4,4,4,2,1,1,2,2,2,3,1,1,2,1,2,1,1,3,1,1,2,1,1,Marketing,Male,Individual Contributor,Non-Minority,Senior Manager,0,Midwest,Exceeds,M0045,Manager 9,0,0
+R0194,4,5,5,3,5,4,5,4,3,3,3,4,2,4,4,4,4,4,3,3,5,4,3,2,3,3,3,4,4,4,4,2,3,5,4,4,4,4,Engineering,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Meets,M0004,Manager 45,0,1
+R0195,5,4,4,4,3,3,2,3,2,3,3,3,2,3,3,3,2,2,4,3,4,3,4,5,4,4,5,3,3,4,4,4,3,5,4,5,3,4,Sales,Female,Manager,Non-Minority,Director,1,West,Meets,M0032,Manager 44,0,1
+R0196,4,3,3,3,4,4,4,4,2,3,3,4,2,3,3,3,3,3,3,3,3,4,3,3,4,4,2,3,4,4,3,4,4,4,4,4,4,4,Customer Service,Female,Individual Contributor,Minority,VP,0,Remote,Meets,M0005,Manager 11,1,2
+R0197,3,3,3,3,4,4,3,4,4,5,4,3,3,4,3,3,3,3,4,3,4,3,3,4,4,4,4,4,5,4,4,4,4,4,4,4,3,4,Product,Female,Individual Contributor,Non-Minority,VP,0,Remote,Exceeds,M0025,Manager 36,1,3
+R0198,4,5,4,3,4,3,3,3,5,4,4,5,5,4,4,4,4,4,3,4,3,4,4,4,5,3,4,3,5,4,4,3,4,5,4,3,4,2,Communications,Male,Individual Contributor,Minority,Manager,0,West,Meets,M0039,Manager 18,0,2
+R0199,3,3,2,3,4,3,4,4,5,5,4,5,5,5,2,3,2,3,3,4,3,4,3,3,3,3,3,4,3,3,3,3,3,3,5,4,4,4,Sales,Female,Manager,Non-Minority,Professional,1,Northeast,Meets,M0011,Manager 37,0,0
+R0200,3,5,3,4,3,3,3,2,5,5,4,4,4,4,3,3,2,2,3,3,3,4,3,3,4,3,2,3,3,4,4,4,4,4,3,3,3,3,Sales,Female,Manager,Non-Minority,Senior Manager,1,Northeast,Below,M0033,Manager 30,0,1
+R0201,4,4,3,4,3,2,3,2,3,3,4,4,3,3,4,4,4,4,3,4,3,3,4,3,3,3,2,3,2,4,3,4,3,4,3,3,4,4,Customer Service,Female,Manager,Minority,Director,1,Remote,Exceeds,M0017,Manager 20,0,0
+R0202,4,5,4,4,4,5,5,5,4,5,4,5,5,4,3,3,4,4,3,3,3,3,3,2,4,2,3,2,3,4,3,3,3,2,4,3,2,2,Risk Management,Male,Individual Contributor,Minority,Professional,0,Midwest,Exceeds,M0046,Manager 18,0,0
+R0203,4,3,3,3,5,5,4,5,2,2,3,3,4,3,4,4,4,4,3,3,4,4,3,3,4,5,4,4,4,3,4,3,4,4,4,3,4,3,Customer Service,Female,Individual Contributor,Minority,Entry,0,Southeast,Meets,M0015,Manager 3,0,0
+R0204,3,3,4,4,4,4,4,5,2,1,2,2,2,2,4,4,4,3,4,4,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,5,Customer Service,Female,Manager,Non-Minority,Professional,1,Midwest,Meets,M0003,Manager 41,1,0
+R0205,5,4,5,4,4,5,5,5,3,3,3,3,3,3,3,3,3,4,4,3,5,4,4,4,4,4,3,4,3,3,3,4,4,4,4,3,3,4,Marketing,Female,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Exceeds,M0018,Manager 4,0,0
+R0206,5,5,5,4,5,5,5,5,3,1,2,2,3,3,4,3,4,4,4,4,5,5,5,5,5,5,5,5,4,5,5,5,4,5,4,5,5,5,Research,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0035,Manager 8,0,0
+R0207,1,1,1,2,3,3,3,4,4,5,4,3,3,3,3,3,4,3,4,5,4,4,4,4,5,5,5,5,4,5,5,5,5,5,5,4,4,5,Finance,Female,Individual Contributor,Minority,Director,0,Midwest,Exceeds,M0041,Manager 39,0,2
+R0208,2,3,3,4,2,3,4,2,3,3,3,4,3,3,2,3,3,3,3,2,3,3,1,2,3,3,2,3,3,3,2,3,3,2,3,2,4,2,Operations,Female,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Meets,M0046,Manager 36,0,0
+R0209,3,3,3,3,5,5,5,5,5,4,4,4,4,4,4,5,4,4,3,4,3,3,4,3,4,3,3,3,3,3,4,3,4,3,3,4,4,3,Engineering,Female,Individual Contributor,Minority,Director,0,Southeast,Meets,M0027,Manager 40,1,0
+R0210,4,5,5,5,4,4,4,5,4,5,5,5,5,5,5,5,5,5,4,3,4,5,3,4,4,4,5,3,4,4,3,4,4,4,3,5,4,4,Engineering,Female,Manager,Non-Minority,Senior Professional,1,Northeast,Exceeds,M0041,Manager 1,0,0
+R0211,3,3,3,4,5,4,4,4,5,5,5,5,5,5,3,4,5,4,5,5,5,4,4,3,4,4,5,4,4,4,5,5,5,5,4,4,5,5,Risk Management,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0047,Manager 18,0,1
+R0212,2,2,2,3,1,3,3,2,4,4,2,3,2,3,3,2,4,4,3,4,2,3,2,4,4,4,4,4,3,4,3,3,3,4,3,3,3,4,Marketing,Male,Senior Leader,Non-Minority,Senior Professional,1,Northeast,Meets,M0035,Manager 43,0,0
+R0213,4,3,2,4,3,4,3,4,4,3,3,3,4,3,4,4,5,5,4,3,4,3,4,5,3,4,3,4,4,3,5,3,4,2,4,4,3,2,Risk Management,Male,Individual Contributor,Non-Minority,VP,0,Remote,Meets,M0007,Manager 47,0,0
+R0214,4,4,3,4,3,4,4,4,4,4,4,4,3,4,3,3,3,3,4,4,5,5,5,3,5,5,4,4,4,3,4,4,4,4,4,4,4,4,Supply Chain,Male,Individual Contributor,Non-Minority,Director,0,West,Meets,M0042,Manager 17,0,2
+R0215,3,3,4,3,4,4,3,4,3,4,4,4,4,4,4,2,3,2,3,5,4,4,4,5,4,5,4,4,5,5,5,4,4,4,4,5,3,4,Risk Management,Female,Individual Contributor,Non-Minority,Director,0,Remote,Below,M0036,Manager 14,0,1
+R0216,3,3,4,4,4,4,5,4,4,4,5,4,4,4,3,3,4,4,1,2,1,1,2,1,2,1,1,1,1,1,1,1,1,1,2,1,2,1,Risk Management,Male,Individual Contributor,Non-Minority,Manager,0,Southeast,Exceeds,M0021,Manager 18,0,0
+R0217,4,3,3,4,2,2,3,3,4,4,4,4,5,4,3,4,3,3,3,1,2,3,2,1,3,2,2,2,2,3,1,3,2,2,3,3,1,3,Sales,Female,Individual Contributor,Non-Minority,Senior Manager,0,West,Meets,M0010,Manager 29,1,0
+R0218,3,4,3,2,3,3,3,5,3,3,2,3,3,4,4,2,3,3,4,5,4,5,5,5,5,5,4,3,5,4,5,5,5,5,4,5,4,5,Sales,Female,Individual Contributor,Minority,Director,0,West,Exceeds,M0024,Manager 10,1,0
+R0219,3,4,3,4,4,4,3,3,2,3,3,4,3,3,4,5,5,5,3,2,2,4,3,4,3,2,3,2,3,3,3,2,3,3,3,3,3,4,Product,Female,Manager,Non-Minority,Entry,1,West,Exceeds,M0012,Manager 30,1,3
+R0220,5,5,5,5,3,4,3,3,3,4,3,4,3,3,3,3,2,3,4,3,3,4,4,4,3,4,4,3,3,4,2,3,3,4,3,4,3,4,Marketing,Female,Individual Contributor,Minority,VP,0,Southeast,Below,M0013,Manager 37,0,1
+R0221,4,3,4,4,3,3,4,3,4,5,4,4,5,5,3,3,4,4,2,2,2,2,2,1,2,2,3,1,2,2,2,3,2,1,1,3,2,1,Product,Female,Manager,Non-Minority,Director,1,Southeast,Exceeds,M0042,Manager 19,0,1
+R0222,3,3,3,3,4,4,4,3,5,5,5,5,5,5,4,4,4,5,3,3,3,4,3,2,4,2,4,3,2,3,3,3,3,4,3,3,3,4,Finance,Female,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0012,Manager 26,0,2
+R0223,3,2,3,3,4,4,4,4,2,3,3,2,4,3,2,1,1,2,3,2,3,3,2,2,4,1,2,2,3,3,2,3,3,2,3,2,2,2,Research,Female,Manager,Non-Minority,Senior Manager,1,Southeast,Meets,M0005,Manager 10,0,2
+R0224,5,4,5,4,4,4,4,4,3,2,2,2,2,3,4,4,5,4,2,2,2,2,3,2,3,3,2,2,2,3,2,3,3,2,2,3,2,2,Human Resources,Male,Senior Leader,Non-Minority,Manager,1,Southeast,Exceeds,M0030,Manager 42,0,0
+R0225,3,3,4,3,1,1,1,1,5,4,4,4,4,4,2,3,3,3,5,5,5,5,4,4,5,5,4,5,5,5,5,5,5,5,5,5,5,5,Legal,Female,Individual Contributor,Minority,Entry,0,Remote,Exceeds,M0009,Manager 47,0,0
+R0226,3,4,3,3,4,5,5,5,4,4,4,4,5,4,4,5,4,4,5,5,4,4,5,5,5,5,5,5,5,3,5,5,5,5,5,5,5,4,Communications,Male,Individual Contributor,Non-Minority,VP,0,Northeast,Exceeds,M0039,Manager 7,0,3
+R0227,3,3,3,3,2,1,2,1,4,5,5,4,4,5,3,3,3,4,5,4,5,5,5,5,4,5,5,5,5,5,4,5,5,4,5,5,4,4,Legal,Male,Individual Contributor,Non-Minority,Manager,0,Northeast,Exceeds,M0008,Manager 1,0,0
+R0228,4,3,3,4,3,4,3,3,2,3,3,2,2,2,5,5,5,5,2,3,3,2,1,2,3,1,2,2,2,2,2,3,2,3,2,3,2,2,Communications,Male,Individual Contributor,Non-Minority,VP,0,Northeast,Meets,M0009,Manager 16,0,1
+R0229,4,3,3,3,2,4,4,4,3,2,3,3,3,3,3,3,3,4,4,3,3,3,4,3,4,3,2,4,4,4,3,3,4,5,4,4,3,3,Communications,Male,Manager,Non-Minority,Entry,1,Midwest,Meets,M0010,Manager 41,0,1
+R0230,5,5,5,5,5,4,5,4,3,4,3,4,4,4,2,3,2,3,3,3,3,3,4,4,3,4,3,4,4,3,3,4,2,4,4,4,3,3,IT,Female,Senior Leader,Minority,Entry,1,Northeast,Exceeds,M0007,Manager 35,0,2
+R0231,3,4,4,4,4,5,5,4,5,5,5,4,4,4,4,5,5,5,4,4,4,3,3,5,3,4,4,3,4,4,4,3,3,3,3,4,5,4,Supply Chain,Female,Individual Contributor,Non-Minority,VP,0,Midwest,Exceeds,M0046,Manager 6,0,1
+R0232,4,5,4,4,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,5,5,4,4,4,4,4,5,4,4,5,4,5,4,4,4,5,Sales,Female,Individual Contributor,Non-Minority,Professional,0,West,Meets,M0049,Manager 37,0,0
+R0233,4,5,4,5,2,2,2,3,3,3,2,3,2,3,5,5,5,4,3,2,3,3,4,3,3,4,2,2,3,2,4,4,4,3,3,3,3,2,Product,Female,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0020,Manager 22,0,0
+R0234,2,1,2,1,5,4,4,4,3,2,2,3,2,2,4,3,3,3,4,2,3,4,3,2,2,3,4,3,3,2,2,3,4,3,3,3,4,2,Product,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Exceeds,M0004,Manager 35,0,1
+R0235,3,4,4,4,4,4,4,5,4,4,3,5,4,3,4,3,4,3,3,4,4,4,4,4,4,4,4,3,3,4,3,4,3,3,3,3,4,4,Supply Chain,Female,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0008,Manager 2,0,0
+R0236,4,3,4,4,4,4,4,4,5,3,5,4,4,4,4,3,3,4,3,4,4,3,3,4,4,4,3,4,3,3,3,4,4,4,3,3,4,3,Risk Management,Female,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0035,Manager 19,0,3
+R0237,3,4,4,3,3,3,4,3,5,5,5,5,5,5,2,3,3,3,3,3,5,3,3,4,4,3,3,3,4,3,3,2,3,4,4,4,4,4,Human Resources,Female,Individual Contributor,Non-Minority,Senior Manager,0,West,Meets,M0010,Manager 1,0,2
+R0238,3,4,4,3,5,5,5,5,5,4,4,4,5,4,4,3,3,3,3,2,4,4,4,2,3,4,3,2,3,3,3,4,2,3,2,2,2,3,Sales,Male,Manager,Non-Minority,Entry,1,Southeast,Meets,M0028,Manager 25,0,2
+R0239,5,5,5,5,4,3,5,4,4,4,4,4,4,5,3,4,3,3,3,4,4,4,4,4,4,5,5,4,3,4,4,5,4,4,4,3,4,3,Marketing,Male,Manager,Non-Minority,Senior Professional,1,Midwest,Meets,M0015,Manager 44,0,0
+R0240,5,5,5,5,4,5,5,5,4,4,4,3,4,4,3,3,3,3,3,3,3,3,3,4,3,3,3,5,2,2,2,3,3,3,3,3,3,3,Legal,Male,Manager,Non-Minority,Director,1,Northeast,Below,M0032,Manager 11,0,1
+R0241,4,4,4,3,4,3,3,3,4,3,3,3,3,3,3,4,3,3,3,3,3,4,3,3,4,3,3,4,3,2,3,2,3,2,3,3,2,3,Human Resources,Male,Individual Contributor,Non-Minority,Professional,0,Northeast,Exceeds,M0019,Manager 23,0,1
+R0242,4,5,5,5,1,2,2,2,4,4,4,3,5,5,4,5,4,5,4,5,4,4,3,3,4,3,3,2,4,3,3,4,3,3,3,3,3,4,Human Resources,Male,Individual Contributor,Non-Minority,Senior Manager,0,Midwest,Meets,M0008,Manager 24,0,3
+R0243,4,4,4,4,4,4,3,4,3,3,3,3,4,3,4,4,4,4,3,3,3,3,3,3,2,5,3,4,4,4,3,3,3,4,4,3,3,2,Human Resources,Male,Individual Contributor,Minority,Entry,0,Remote,Meets,M0010,Manager 12,0,3
+R0244,4,5,5,5,4,5,5,4,3,4,3,4,4,3,5,3,3,5,3,3,3,2,3,3,3,3,3,3,2,4,4,2,3,3,4,2,3,2,Legal,Female,Individual Contributor,Minority,Senior Manager,0,Midwest,Meets,M0039,Manager 12,0,0
+R0245,4,3,4,4,4,4,3,4,4,4,3,4,4,4,3,3,4,3,5,3,4,3,3,4,3,3,4,3,4,2,4,4,3,3,3,3,3,4,Research,Female,Individual Contributor,Non-Minority,Manager,0,Southeast,Below,M0043,Manager 44,0,2
+R0246,5,5,5,5,3,3,3,4,3,2,4,3,3,3,3,3,3,2,2,2,1,3,3,2,3,2,2,2,3,3,3,2,2,2,2,2,1,2,Engineering,Male,Individual Contributor,Non-Minority,Senior Manager,0,Midwest,Exceeds,M0023,Manager 7,0,0
+R0247,5,5,4,5,5,4,4,5,5,4,5,5,5,5,5,4,4,5,3,3,4,3,5,4,4,3,5,4,3,3,4,3,4,3,4,4,4,3,Engineering,Female,Individual Contributor,Non-Minority,Manager,0,Midwest,Meets,M0017,Manager 46,0,2
+R0248,5,5,5,4,3,3,2,3,5,5,5,4,5,4,4,3,4,4,4,3,5,4,4,4,4,3,5,5,4,4,4,5,5,4,3,5,3,4,Communications,Female,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0010,Manager 50,0,0
+R0249,5,5,5,5,4,4,3,3,4,3,4,4,3,3,5,5,5,5,4,4,4,3,4,5,3,5,5,4,5,4,4,4,4,4,5,5,4,3,Research,Female,Manager,Non-Minority,Professional,1,Midwest,Meets,M0010,Manager 25,0,0
+R0250,4,4,5,4,4,5,4,3,3,3,3,3,2,3,3,2,3,3,5,3,5,4,3,4,4,5,5,5,4,5,5,4,4,4,4,4,4,5,Product,Female,Manager,Non-Minority,Director,1,West,Meets,M0005,Manager 8,0,3
+R0251,4,3,3,3,4,4,4,5,4,3,4,4,3,4,4,4,3,3,2,2,2,1,2,2,1,1,1,3,1,1,1,1,1,1,1,1,2,1,IT,Male,Individual Contributor,Non-Minority,Manager,0,Midwest,Meets,M0010,Manager 6,0,1
+R0252,4,4,3,3,3,3,4,3,4,4,4,5,4,5,1,2,3,4,1,1,2,1,2,1,2,1,2,1,1,2,1,2,1,1,2,1,1,2,Operations,Male,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0050,Manager 25,1,0
+R0253,5,5,5,5,4,4,5,4,5,4,5,5,5,5,4,4,5,4,4,2,4,3,4,3,3,3,3,3,4,2,3,3,3,3,3,3,3,4,Operations,Female,Individual Contributor,Non-Minority,Senior Professional,0,West,Exceeds,M0028,Manager 31,1,1
+R0254,3,5,3,4,5,5,5,4,4,4,3,4,3,3,4,3,3,3,4,2,2,2,3,2,2,3,2,2,3,3,2,3,2,4,2,3,2,3,Supply Chain,Female,Manager,Non-Minority,Manager,1,Remote,Meets,M0041,Manager 22,0,2
+R0255,2,2,2,1,2,1,2,2,3,2,3,3,3,4,4,3,3,3,3,3,4,2,2,3,3,1,2,3,4,3,2,2,4,3,2,2,2,3,Marketing,Male,Individual Contributor,Minority,VP,0,Southeast,Meets,M0025,Manager 27,0,2
+R0256,3,3,4,3,4,5,5,3,5,5,5,5,5,5,4,3,3,4,3,4,4,4,3,3,3,4,4,4,4,3,3,3,3,3,4,3,4,2,Customer Service,Male,Manager,Minority,Manager,1,Remote,Meets,M0035,Manager 32,0,0
+R0257,4,4,5,4,3,3,4,4,5,5,5,5,4,5,3,4,3,4,3,4,4,5,4,4,4,3,5,4,3,4,5,4,5,4,4,3,3,4,Customer Service,Male,Individual Contributor,Non-Minority,Senior Manager,0,Southeast,Meets,M0025,Manager 6,0,0
+R0258,4,4,5,4,4,2,4,4,3,3,4,3,3,2,5,5,4,5,4,4,4,5,4,3,4,4,3,4,5,4,3,4,3,4,4,4,4,4,IT,Female,Individual Contributor,Non-Minority,Director,0,West,Meets,M0034,Manager 37,0,0
+R0259,4,4,4,5,3,4,5,4,2,3,3,3,3,2,1,2,1,2,3,3,4,3,3,3,3,3,2,3,2,3,1,2,2,3,3,3,3,3,Communications,Female,Individual Contributor,Minority,Director,0,Southeast,Meets,M0045,Manager 6,0,3
+R0260,4,4,4,3,4,5,3,4,4,4,4,3,4,4,4,3,5,5,2,4,4,4,3,4,3,3,3,4,3,4,3,4,3,4,4,5,2,3,Sales,Male,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Meets,M0014,Manager 2,0,3
+R0261,4,3,5,3,3,4,4,3,4,4,4,4,4,4,3,3,3,4,4,4,4,4,4,2,3,3,3,3,4,5,4,4,4,2,3,4,3,3,Operations,Female,Individual Contributor,Non-Minority,Senior Manager,0,West,Meets,M0009,Manager 8,0,0
+R0262,4,4,4,4,5,4,4,5,4,3,4,3,3,4,5,4,4,4,2,3,3,1,3,2,3,2,2,3,3,2,2,2,2,2,3,2,3,3,Finance,Male,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Meets,M0050,Manager 9,0,1
+R0263,5,5,5,4,5,5,5,5,4,3,4,4,4,3,3,3,3,3,4,5,4,3,4,4,5,5,5,5,4,4,4,4,3,4,4,4,5,4,Engineering,Male,Manager,Non-Minority,Manager,1,Southeast,Meets,M0036,Manager 27,0,2
+R0264,4,3,4,4,3,4,4,3,3,2,2,4,3,2,4,4,4,4,2,2,3,2,2,2,2,1,2,2,2,1,1,2,2,2,2,2,2,2,Sales,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0004,Manager 48,0,1
+R0265,3,3,2,3,4,4,3,4,3,3,3,3,3,3,4,4,5,5,1,2,2,2,2,3,2,3,3,2,2,2,1,2,2,2,3,3,2,1,Marketing,Female,Individual Contributor,Non-Minority,Entry,0,Southeast,Below,M0025,Manager 47,0,0
+R0266,4,5,4,4,5,5,5,4,4,4,4,5,5,4,4,3,4,3,3,3,3,3,2,3,2,3,2,1,3,3,3,2,4,2,1,1,2,3,Finance,Male,Individual Contributor,Non-Minority,Director,0,West,Meets,M0024,Manager 4,0,2
+R0267,3,4,4,3,5,5,5,5,3,4,4,3,4,3,3,3,3,3,5,5,5,5,4,5,5,5,5,5,4,5,5,5,5,4,5,5,5,3,Supply Chain,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Meets,M0005,Manager 31,1,1
+R0268,4,5,5,5,4,5,4,5,4,5,3,5,4,4,4,4,4,4,2,3,2,2,2,2,3,2,2,2,2,4,2,3,3,3,3,2,4,2,Risk Management,Female,Individual Contributor,Non-Minority,Senior Manager,0,Southeast,Meets,M0002,Manager 10,0,0
+R0269,4,3,4,3,5,4,5,5,3,3,2,3,2,2,4,3,3,3,3,3,2,3,4,3,4,4,3,2,3,3,3,3,3,4,3,3,3,4,Operations,Female,Individual Contributor,Minority,Professional,0,Northeast,Meets,M0016,Manager 5,0,1
+R0270,4,4,4,4,3,3,3,3,3,3,2,2,3,2,3,5,5,3,4,4,5,5,3,5,3,5,4,4,4,4,5,5,4,5,5,4,4,5,Finance,Male,Senior Leader,Non-Minority,Senior Manager,1,West,Meets,M0010,Manager 49,0,1
+R0271,4,3,4,4,2,3,2,2,4,4,5,4,4,4,3,4,3,4,3,2,3,3,4,2,3,2,3,3,3,2,3,2,2,2,3,3,1,4,Marketing,Female,Individual Contributor,Non-Minority,Manager,0,Southeast,Meets,M0048,Manager 34,0,1
+R0272,5,4,4,4,4,3,3,3,3,3,3,3,3,3,5,5,5,5,4,4,4,5,2,4,4,4,3,5,5,4,4,4,4,4,4,5,4,4,Supply Chain,Female,Individual Contributor,Non-Minority,Senior Professional,0,West,Meets,M0027,Manager 47,0,2
+R0273,3,4,3,3,3,2,3,4,5,5,5,5,5,5,4,3,4,4,4,2,4,3,3,3,3,3,3,3,4,4,4,4,3,3,3,3,5,4,Operations,Female,Senior Leader,Minority,Manager,1,Northeast,Below,M0019,Manager 8,0,0
+R0274,3,3,3,3,4,4,4,4,4,4,5,4,4,4,3,3,4,4,4,3,3,4,3,4,4,2,3,4,3,2,3,5,3,4,3,3,4,3,Marketing,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0039,Manager 49,0,0
+R0275,5,5,5,5,3,4,4,3,4,3,3,4,3,3,2,3,2,3,2,1,2,2,1,3,1,1,2,3,1,2,2,2,2,1,1,2,1,2,Marketing,Male,Individual Contributor,Non-Minority,Senior Manager,0,Southeast,Exceeds,M0001,Manager 26,0,0
+R0276,3,3,4,4,5,5,5,5,2,3,4,3,1,3,5,4,4,5,3,3,3,3,4,3,3,3,4,3,3,5,4,4,3,4,3,4,3,4,Risk Management,Male,Senior Leader,Minority,Manager,1,West,Below,M0036,Manager 46,0,0
+R0277,4,4,4,3,4,4,3,4,4,5,5,4,4,5,3,4,3,3,3,3,3,2,3,2,2,3,3,3,3,3,3,3,3,3,3,3,3,2,Risk Management,Male,Individual Contributor,Minority,Senior Professional,0,Remote,Meets,M0033,Manager 20,0,0
+R0278,2,4,3,3,3,4,4,2,4,5,5,5,4,5,3,2,3,2,3,2,3,2,2,1,3,3,2,1,3,1,3,2,2,3,2,2,3,1,Supply Chain,Female,Manager,Minority,Professional,1,West,Below,M0011,Manager 18,0,0
+R0279,5,5,5,4,4,4,4,4,4,5,4,5,5,5,3,2,2,3,3,3,4,3,4,4,4,3,3,3,4,3,4,4,3,4,3,4,3,4,Human Resources,Male,Individual Contributor,Minority,Senior Manager,0,West,Meets,M0009,Manager 48,0,1
+R0280,5,5,4,5,5,5,4,5,4,4,5,5,5,5,5,4,4,4,4,5,4,3,3,3,3,3,4,4,4,3,4,3,2,3,3,3,3,3,Sales,Female,Manager,Minority,Manager,1,Remote,Meets,M0004,Manager 15,0,0
+R0281,3,3,3,3,3,2,3,3,5,3,4,3,4,3,4,3,3,3,5,4,5,5,5,5,4,5,4,5,5,5,4,5,5,4,4,5,4,4,Legal,Female,Individual Contributor,Minority,Professional,0,Remote,Below,M0039,Manager 5,0,3
+R0282,3,4,3,3,1,3,2,2,3,3,3,3,3,3,4,4,4,4,1,1,2,3,3,1,2,2,2,2,3,2,1,2,2,2,1,1,2,1,Risk Management,Female,Individual Contributor,Minority,Director,0,West,Meets,M0031,Manager 21,0,0
+R0283,4,4,4,3,3,3,3,4,4,3,3,3,3,3,3,3,4,4,4,4,4,5,4,4,3,4,3,5,5,5,4,4,4,5,5,4,4,5,Research,Male,Individual Contributor,Minority,Director,0,West,Meets,M0025,Manager 11,0,0
+R0284,3,3,3,4,5,3,5,5,4,3,4,4,4,4,3,3,3,2,3,2,4,4,3,4,3,3,2,3,3,2,2,3,3,2,2,3,2,3,Finance,Male,Individual Contributor,Non-Minority,VP,0,Midwest,Below,M0042,Manager 28,1,0
+R0285,3,4,4,3,3,4,4,4,4,4,4,4,3,3,4,4,4,4,4,5,4,3,3,3,4,4,5,3,4,5,3,4,3,4,3,4,4,3,Sales,Male,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Exceeds,M0007,Manager 5,1,3
+R0286,5,5,4,4,4,4,5,4,3,4,3,4,2,2,2,2,3,1,4,3,4,3,4,3,4,3,4,4,3,4,2,4,5,3,3,4,3,3,Operations,Female,Individual Contributor,Non-Minority,Senior Manager,0,Midwest,Exceeds,M0002,Manager 16,0,0
+R0287,4,5,5,5,3,2,2,4,2,2,2,2,3,3,5,4,3,3,4,3,3,3,3,2,3,3,2,2,4,3,4,2,2,2,2,2,3,3,Engineering,Male,Individual Contributor,Minority,Professional,0,Remote,Meets,M0007,Manager 5,0,2
+R0288,3,3,4,4,4,4,3,3,5,5,3,4,4,5,2,3,3,3,4,4,4,5,5,5,4,5,4,4,4,4,4,4,4,4,4,5,4,4,Sales,Male,Individual Contributor,Minority,Senior Manager,0,Northeast,Meets,M0049,Manager 20,0,2
+R0289,5,5,5,5,2,1,1,2,4,4,4,4,5,4,5,4,5,5,4,4,4,3,4,4,4,3,4,3,5,4,3,4,4,5,3,4,4,4,Sales,Female,Individual Contributor,Minority,Senior Manager,0,Southeast,Meets,M0041,Manager 3,0,0
+R0290,3,4,4,4,4,2,4,3,2,3,3,3,3,3,3,3,3,4,4,4,2,4,3,4,3,3,4,3,4,3,4,4,4,3,4,4,4,4,Sales,Female,Individual Contributor,Minority,Senior Professional,0,Northeast,Exceeds,M0037,Manager 37,0,0
+R0291,4,5,4,5,3,5,3,4,3,4,3,3,3,4,4,5,4,4,4,3,4,3,3,3,4,4,4,4,3,3,4,3,3,3,2,4,4,4,Finance,Female,Individual Contributor,Non-Minority,Senior Manager,0,West,Exceeds,M0003,Manager 4,0,2
+R0292,4,4,4,3,4,4,5,4,4,3,2,3,3,4,4,3,3,4,4,2,4,3,3,4,5,4,4,4,3,2,4,3,3,3,4,3,3,3,Operations,Female,Individual Contributor,Minority,Entry,0,Midwest,Meets,M0001,Manager 23,0,2
+R0293,4,4,4,4,2,2,2,2,5,5,5,5,5,5,3,2,2,4,3,3,3,3,3,4,3,3,2,4,3,3,3,3,3,3,2,4,3,3,Communications,Female,Individual Contributor,Minority,Senior Professional,0,West,Exceeds,M0033,Manager 13,0,0
+R0294,4,4,4,5,5,5,5,5,4,5,4,5,5,5,4,3,3,3,3,4,2,3,4,4,3,4,3,4,5,5,4,4,3,3,4,3,4,5,Operations,Female,Manager,Non-Minority,VP,1,West,Below,M0047,Manager 23,0,0
+R0295,3,3,2,3,2,4,3,4,4,4,5,5,4,4,5,5,5,5,4,2,3,3,2,4,3,2,3,2,3,3,4,3,4,3,3,3,3,4,Marketing,Male,Individual Contributor,Non-Minority,Director,0,Northeast,Meets,M0022,Manager 27,0,1
+R0296,3,4,4,4,1,3,2,3,2,2,2,3,2,2,2,2,2,2,5,4,5,4,3,4,4,5,5,5,3,4,5,4,4,3,5,4,4,3,Supply Chain,Male,Senior Leader,Minority,Senior Manager,1,Northeast,Below,M0033,Manager 50,0,2
+R0297,4,3,4,3,3,3,3,3,4,4,4,4,3,3,3,4,4,3,4,3,3,2,3,3,3,3,4,4,3,3,4,3,3,3,3,3,2,2,Marketing,Male,Manager,Minority,Entry,1,Remote,Meets,M0025,Manager 31,0,2
+R0298,4,4,4,4,3,4,5,5,4,4,5,4,5,4,4,4,3,3,3,3,1,4,2,4,3,5,4,3,3,4,3,4,3,3,4,4,4,4,IT,Female,Individual Contributor,Non-Minority,VP,0,Northeast,Below,M0019,Manager 11,0,0
+R0299,4,3,3,3,3,3,3,3,4,3,4,3,3,4,3,3,3,4,4,4,4,4,4,3,3,4,4,3,4,3,3,3,3,4,3,5,4,2,Marketing,Male,Individual Contributor,Non-Minority,Director,0,West,Meets,M0006,Manager 41,0,0
+R0300,3,4,4,4,4,4,3,3,3,4,4,2,4,3,3,3,3,3,5,5,5,4,4,4,3,4,5,4,5,4,4,4,5,4,4,4,4,5,Human Resources,Female,Individual Contributor,Minority,Director,0,Southeast,Meets,M0014,Manager 44,0,0
+R0301,2,2,2,2,4,4,4,5,5,5,4,5,4,5,3,4,3,4,5,5,4,4,5,4,5,5,4,4,4,5,5,4,5,4,4,4,4,5,Research,Male,Manager,Non-Minority,Professional,1,Southeast,Meets,M0033,Manager 34,1,0
+R0302,5,4,5,3,3,3,3,4,5,5,5,5,3,5,3,4,4,4,1,1,2,2,2,1,2,2,1,1,2,1,1,1,2,1,1,2,1,2,Supply Chain,Female,Individual Contributor,Non-Minority,Senior Manager,0,Remote,Meets,M0050,Manager 22,0,1
+R0303,3,4,2,3,2,3,2,3,3,4,4,3,3,3,3,3,2,2,3,3,3,3,2,4,2,4,3,4,3,3,2,2,4,2,3,4,4,3,Product,Female,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0022,Manager 19,0,0
+R0304,2,4,2,3,3,3,4,3,5,4,4,4,4,4,4,5,4,4,2,2,2,1,3,3,2,2,1,2,3,3,3,2,3,2,3,2,2,2,Operations,Male,Individual Contributor,Minority,Senior Manager,0,West,Meets,M0003,Manager 46,0,2
+R0305,4,4,4,5,4,5,4,5,4,4,3,4,3,4,3,4,4,3,4,3,3,2,4,3,5,4,4,3,3,4,3,3,3,3,5,5,4,4,Communications,Male,Individual Contributor,Minority,Director,0,West,Below,M0016,Manager 14,0,1
+R0306,3,4,4,3,4,4,4,3,3,3,2,3,3,4,3,3,4,2,3,4,4,4,5,5,5,5,5,3,5,4,4,5,3,3,5,5,5,4,IT,Male,Manager,Minority,Senior Manager,1,Northeast,Meets,M0010,Manager 37,1,0
+R0307,5,3,5,5,3,3,3,3,4,4,3,3,4,4,4,3,4,2,4,3,3,5,4,3,3,4,4,4,3,3,4,3,3,4,4,4,3,4,Research,Female,Individual Contributor,Non-Minority,Manager,0,Northeast,Meets,M0001,Manager 10,0,1
+R0308,3,4,3,2,5,5,5,5,3,4,4,4,3,3,5,5,4,4,4,3,4,3,5,4,5,5,4,4,4,4,5,4,5,5,4,4,4,4,Communications,Male,Manager,Non-Minority,VP,1,Midwest,Meets,M0036,Manager 6,1,0
+R0309,4,3,4,4,4,3,4,4,4,3,3,3,4,3,3,4,3,4,4,2,3,3,3,4,5,4,4,4,3,2,3,4,4,4,3,5,3,4,Product,Male,Individual Contributor,Non-Minority,Entry,0,West,Meets,M0021,Manager 11,0,2
+R0310,3,4,4,4,4,4,4,3,4,4,4,5,4,4,3,3,3,3,3,3,3,4,4,3,4,4,4,4,3,3,4,5,4,4,4,4,4,2,Engineering,Male,Individual Contributor,Non-Minority,Professional,0,Northeast,Meets,M0018,Manager 37,0,0
+R0311,3,4,3,3,3,3,3,3,4,5,4,5,3,4,3,3,3,4,3,3,3,4,4,3,4,3,3,2,3,3,4,3,2,3,4,2,2,3,Operations,Female,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Exceeds,M0005,Manager 12,1,0
+R0312,4,3,3,4,3,3,3,2,4,4,5,5,5,5,3,3,3,3,3,4,5,4,5,4,3,4,4,5,4,4,4,5,4,3,5,5,5,4,Supply Chain,Female,Individual Contributor,Non-Minority,VP,0,West,Meets,M0017,Manager 31,1,0
+R0313,4,3,4,4,3,3,3,3,3,4,4,3,2,2,5,5,5,5,2,3,2,2,1,2,3,2,3,4,3,3,3,2,3,4,2,2,2,2,Engineering,Male,Individual Contributor,Non-Minority,VP,0,West,Meets,M0042,Manager 9,0,3
+R0314,3,3,3,3,4,4,4,5,4,3,4,5,4,3,2,2,2,3,1,1,2,2,2,1,2,2,2,3,3,1,1,2,1,1,2,2,2,2,Human Resources,Female,Individual Contributor,Non-Minority,Senior Manager,0,West,Meets,M0003,Manager 24,0,0
+R0315,3,2,2,3,3,3,3,3,4,3,3,4,4,4,2,1,1,1,3,4,4,5,4,4,3,4,4,4,4,2,4,5,4,5,4,4,3,3,Risk Management,Female,Manager,Non-Minority,Senior Professional,1,West,Exceeds,M0027,Manager 40,1,1
+R0316,5,5,4,4,4,3,3,3,2,2,3,2,3,2,5,5,4,3,3,3,2,3,3,3,3,3,4,3,3,3,3,3,4,3,3,3,3,3,Research,Male,Individual Contributor,Non-Minority,Professional,0,West,Exceeds,M0024,Manager 33,0,3
+R0317,4,4,3,4,4,5,3,4,3,3,3,4,3,2,4,3,4,5,4,4,3,3,3,3,3,2,4,2,4,4,3,3,2,3,4,3,3,4,Risk Management,Male,Individual Contributor,Non-Minority,Senior Manager,0,Midwest,Exceeds,M0024,Manager 6,0,2
+R0318,5,4,5,5,3,3,3,3,3,4,2,4,3,4,3,3,3,3,2,3,3,3,4,3,3,4,4,3,4,4,3,4,2,3,3,4,4,3,Research,Male,Individual Contributor,Minority,Manager,0,Remote,Meets,M0029,Manager 17,0,1
+R0319,4,3,5,4,4,4,3,4,4,3,4,3,3,5,2,2,3,3,4,3,3,3,3,3,3,3,4,4,2,3,3,3,4,3,3,3,3,3,Research,Male,Individual Contributor,Non-Minority,Entry,0,Remote,Meets,M0042,Manager 4,0,2
+R0320,3,2,3,3,4,5,4,4,2,3,3,3,1,2,2,2,2,1,4,3,3,4,4,4,5,5,3,4,4,5,4,4,4,3,4,3,3,4,Supply Chain,Male,Manager,Minority,VP,1,Southeast,Meets,M0045,Manager 36,0,0
+R0321,3,2,4,3,5,5,5,4,5,5,5,5,5,5,2,2,2,3,4,4,2,2,2,3,1,2,4,3,2,2,3,3,2,3,2,2,3,3,Finance,Male,Manager,Non-Minority,Professional,1,Northeast,Exceeds,M0019,Manager 25,0,2
+R0322,2,3,4,3,1,2,2,1,4,5,3,3,3,4,3,3,4,3,4,3,2,3,2,2,3,3,3,2,2,2,3,2,2,3,3,3,3,2,Marketing,Female,Individual Contributor,Minority,Senior Manager,0,West,Exceeds,M0005,Manager 15,1,1
+R0323,3,3,4,3,5,5,5,5,5,5,4,5,5,5,4,4,4,4,4,5,5,5,4,4,5,5,5,5,5,4,4,4,5,5,5,5,4,3,Legal,Female,Individual Contributor,Non-Minority,VP,0,West,Meets,M0043,Manager 6,0,0
+R0324,3,4,5,4,5,5,5,4,3,3,3,3,3,3,4,3,3,4,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,1,1,1,2,Operations,Male,Manager,Non-Minority,Manager,1,West,Exceeds,M0042,Manager 35,0,0
+R0325,2,3,3,4,5,5,5,5,4,4,4,4,4,4,5,4,4,4,3,3,4,4,3,3,3,4,4,1,3,3,3,3,4,2,3,4,2,5,Risk Management,Female,Individual Contributor,Non-Minority,Manager,0,Northeast,Exceeds,M0006,Manager 12,1,1
+R0326,5,5,4,5,4,4,3,2,5,4,4,4,4,4,3,2,2,3,3,3,2,3,4,4,3,3,4,4,3,1,3,3,2,3,3,3,3,4,Supply Chain,Female,Individual Contributor,Minority,Entry,0,West,Meets,M0050,Manager 28,0,1
+R0327,5,5,5,4,4,3,3,3,3,4,3,4,3,2,4,4,3,4,3,4,3,3,3,3,4,4,3,4,3,3,5,4,3,4,4,3,4,4,Sales,Male,Individual Contributor,Non-Minority,Manager,0,Midwest,Meets,M0005,Manager 21,0,2
+R0328,4,2,2,3,3,5,5,4,3,4,3,5,3,4,3,2,4,3,4,2,3,3,3,2,4,3,3,2,4,5,3,3,4,2,3,3,4,4,Operations,Female,Individual Contributor,Minority,Senior Manager,0,West,Meets,M0014,Manager 45,0,0
+R0329,4,4,4,4,4,4,4,4,3,4,3,4,3,3,4,3,3,4,4,3,3,3,3,2,3,4,3,3,3,4,4,4,3,4,4,4,4,3,Supply Chain,Male,Manager,Non-Minority,Manager,1,Northeast,Exceeds,M0018,Manager 30,0,2
+R0330,5,5,4,4,4,4,4,4,3,3,2,3,4,3,5,4,4,4,5,5,5,4,5,4,4,4,5,5,5,5,5,5,4,5,5,5,5,5,Finance,Female,Individual Contributor,Non-Minority,Senior Manager,0,Southeast,Exceeds,M0031,Manager 10,0,0
+R0331,4,5,5,5,3,2,2,3,3,3,3,3,3,3,4,4,3,5,4,3,3,4,4,3,3,3,3,3,3,3,4,5,4,4,4,4,3,4,Research,Female,Manager,Non-Minority,Professional,1,Midwest,Exceeds,M0037,Manager 3,0,2
+R0332,3,3,4,3,3,3,3,4,3,4,4,4,4,4,4,3,5,4,4,4,5,4,3,3,5,3,4,3,3,4,3,4,5,4,5,5,4,4,IT,Male,Manager,Non-Minority,VP,1,West,Exceeds,M0004,Manager 24,0,0
+R0333,3,4,2,3,2,2,4,3,3,2,2,3,2,1,2,3,3,4,4,5,4,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,Communications,Female,Individual Contributor,Non-Minority,Manager,0,West,Meets,M0014,Manager 4,1,3
+R0334,5,5,5,4,4,4,4,4,4,5,4,5,5,5,1,2,2,3,2,2,4,3,3,3,3,4,3,3,3,2,4,3,4,3,4,2,2,3,Sales,Male,Senior Leader,Non-Minority,VP,1,Northeast,Meets,M0049,Manager 44,0,1
+R0335,4,4,4,4,1,1,1,1,4,3,5,4,5,5,4,4,4,5,4,4,4,4,3,4,3,3,4,4,3,3,2,3,4,3,3,3,3,3,Legal,Male,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Exceeds,M0041,Manager 12,0,2
+R0336,2,2,2,3,3,4,4,5,2,3,4,3,3,2,5,5,4,4,3,4,3,4,3,3,4,3,4,2,4,4,3,3,3,3,3,3,4,3,Human Resources,Female,Individual Contributor,Non-Minority,Professional,0,Northeast,Meets,M0018,Manager 26,1,0
+R0337,5,5,5,4,4,4,4,4,4,3,3,4,3,4,2,3,3,3,2,3,3,2,3,3,3,4,3,3,2,3,2,3,2,3,4,3,3,2,Human Resources,Male,Individual Contributor,Non-Minority,Senior Professional,0,West,Meets,M0027,Manager 34,0,0
+R0338,3,3,4,4,4,5,5,5,3,4,4,3,3,4,3,4,3,3,2,2,2,1,2,1,1,2,3,3,2,2,3,1,2,1,2,2,2,2,Sales,Male,Manager,Non-Minority,Director,1,Midwest,Meets,M0012,Manager 4,1,1
+R0339,2,3,3,3,5,5,5,5,3,3,3,4,3,3,4,4,4,3,4,3,2,2,3,4,3,4,2,3,4,4,3,4,3,4,3,3,3,3,Human Resources,Female,Individual Contributor,Non-Minority,Manager,0,Midwest,Below,M0049,Manager 20,1,0
+R0340,3,4,4,4,3,3,4,3,4,4,5,4,4,4,4,3,4,3,4,4,2,3,4,3,3,4,3,4,3,2,4,4,5,2,4,2,4,4,Marketing,Male,Individual Contributor,Non-Minority,Professional,0,Midwest,Exceeds,M0027,Manager 31,0,0
+R0341,4,3,4,5,5,5,5,5,5,5,4,4,5,5,3,3,3,4,4,5,5,5,4,5,5,4,5,5,4,5,5,5,3,5,5,5,4,4,Product,Female,Individual Contributor,Minority,Senior Manager,0,Southeast,Meets,M0045,Manager 28,0,1
+R0342,4,3,3,3,4,4,4,4,3,3,3,4,3,3,2,2,3,2,4,4,5,4,3,4,4,4,5,3,3,4,4,3,4,4,5,4,5,5,Operations,Male,Individual Contributor,Minority,Director,0,Remote,Meets,M0025,Manager 1,0,0
+R0343,3,3,4,3,3,4,4,2,5,4,4,4,5,5,3,3,4,3,4,3,2,3,3,4,4,3,2,2,3,4,3,2,2,3,2,3,3,3,Customer Service,Female,Individual Contributor,Non-Minority,VP,0,Remote,Exceeds,M0013,Manager 5,1,1
+R0344,5,5,5,5,4,4,3,5,3,3,4,4,3,3,4,5,4,4,2,3,3,3,3,3,3,4,4,4,3,3,3,4,4,3,4,3,3,4,Supply Chain,Male,Individual Contributor,Minority,Director,0,Remote,Meets,M0040,Manager 10,0,0
+R0345,2,3,3,3,2,3,3,3,4,3,4,3,3,3,3,3,4,3,5,5,5,5,5,4,5,5,4,5,4,5,5,5,5,5,5,5,5,4,Operations,Female,Manager,Non-Minority,Director,1,Midwest,Meets,M0001,Manager 10,0,0
+R0346,4,3,4,5,3,3,3,2,2,2,2,2,2,2,4,4,5,5,3,3,3,3,3,3,4,4,4,3,3,3,3,3,4,3,3,4,5,4,Product,Male,Individual Contributor,Non-Minority,Professional,0,West,Meets,M0021,Manager 8,0,0
+R0347,4,4,4,4,3,3,3,3,3,3,4,4,3,3,5,4,5,4,2,2,1,1,2,1,2,1,2,1,1,1,3,1,2,1,3,2,2,3,Communications,Male,Manager,Minority,Director,1,West,Meets,M0017,Manager 34,0,0
+R0348,4,4,4,3,4,4,5,4,4,3,3,3,3,4,2,3,2,3,5,5,5,4,5,5,4,4,5,4,5,5,5,5,5,5,5,5,5,5,Supply Chain,Female,Individual Contributor,Non-Minority,Entry,0,West,Meets,M0009,Manager 41,0,0
+R0349,5,5,5,5,3,4,3,3,3,4,3,3,3,4,3,3,4,4,3,3,2,2,2,2,3,3,2,4,3,3,2,3,3,3,4,2,2,3,Product,Female,Individual Contributor,Minority,Director,0,Remote,Meets,M0007,Manager 3,0,2
+R0350,2,2,2,3,4,3,5,4,5,4,3,4,4,5,4,4,3,4,2,2,3,3,3,2,2,3,1,3,2,2,2,1,2,2,2,2,1,3,Sales,Female,Individual Contributor,Minority,Director,0,Southeast,Meets,M0027,Manager 45,0,0
+R0351,3,4,3,3,4,4,4,4,4,5,4,3,3,4,4,4,4,4,3,3,2,3,3,3,3,3,2,3,4,4,3,3,2,2,3,4,4,4,Customer Service,Female,Individual Contributor,Minority,VP,0,Southeast,Meets,M0039,Manager 25,0,2
+R0352,4,4,4,3,3,2,3,3,3,3,4,3,4,4,3,3,3,2,2,2,3,3,2,3,2,2,3,2,2,3,2,3,2,2,1,3,2,3,Sales,Female,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Exceeds,M0013,Manager 44,0,0
+R0353,2,2,3,2,4,4,5,4,4,4,4,4,3,4,4,4,4,3,3,3,3,2,3,2,2,2,2,3,3,2,2,2,2,3,3,3,2,1,IT,Male,Individual Contributor,Non-Minority,Entry,0,Midwest,Meets,M0024,Manager 2,0,1
+R0354,4,5,5,4,4,3,3,2,4,3,4,3,3,4,3,3,3,3,2,3,3,3,3,3,4,4,1,4,3,3,2,2,3,2,2,2,3,3,Engineering,Male,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Below,M0008,Manager 45,0,0
+R0355,3,3,3,4,3,4,4,3,2,3,2,3,2,2,3,3,2,3,4,3,2,4,3,4,2,4,3,3,3,4,3,3,3,3,2,4,2,3,Product,Male,Individual Contributor,Non-Minority,Director,0,West,Meets,M0027,Manager 27,1,3
+R0356,3,4,5,4,4,5,4,4,4,4,4,4,5,4,3,3,2,2,4,3,3,3,3,3,3,4,3,2,2,4,3,3,3,3,4,3,3,2,Operations,Female,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0028,Manager 34,0,3
+R0357,3,3,4,3,3,3,3,3,2,4,4,3,4,3,3,2,3,3,2,1,1,2,1,1,1,1,1,1,1,1,2,1,1,1,2,1,1,1,Communications,Male,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Exceeds,M0012,Manager 30,0,1
+R0358,4,5,4,5,5,4,4,5,3,3,3,2,2,3,3,5,4,5,3,4,4,4,4,3,3,3,4,3,4,4,3,4,3,3,4,3,3,3,Legal,Male,Manager,Minority,Senior Professional,1,Southeast,Meets,M0036,Manager 39,0,0
+R0359,5,4,5,5,4,3,3,3,5,4,5,5,5,5,4,4,3,3,2,1,3,2,3,2,2,3,3,3,2,2,1,2,1,2,2,1,2,2,Marketing,Female,Individual Contributor,Minority,Senior Manager,0,West,Exceeds,M0025,Manager 19,0,0
+R0360,3,4,5,3,3,4,4,4,3,4,3,4,4,4,3,3,3,2,4,3,4,4,3,4,3,4,3,4,3,3,4,3,2,2,3,4,4,3,Risk Management,Male,Individual Contributor,Minority,Director,0,West,Exceeds,M0041,Manager 19,0,0
+R0361,3,5,5,4,5,3,4,4,3,4,3,3,3,4,3,2,2,2,3,3,3,3,4,3,3,4,3,3,4,4,4,4,4,4,5,3,3,4,Supply Chain,Male,Manager,Non-Minority,Senior Manager,1,Northeast,Meets,M0006,Manager 7,0,1
+R0362,3,3,4,4,2,3,3,3,4,4,4,5,5,4,3,3,4,3,3,2,4,2,3,3,3,3,2,4,3,2,3,3,3,2,3,3,3,2,Human Resources,Female,Manager,Non-Minority,Director,1,Northeast,Meets,M0040,Manager 27,1,0
+R0363,4,5,4,4,4,2,2,2,2,2,2,3,2,2,4,4,5,4,3,3,3,4,2,3,1,3,2,2,3,2,2,3,2,2,3,3,4,3,Human Resources,Female,Individual Contributor,Minority,Manager,0,Remote,Meets,M0035,Manager 7,0,0
+R0364,3,3,3,3,5,4,5,5,4,4,5,3,5,4,4,4,2,3,5,4,5,5,3,5,4,5,5,5,5,5,5,5,4,5,5,5,5,5,Research,Male,Individual Contributor,Non-Minority,Manager,0,Remote,Meets,M0038,Manager 3,0,0
+R0365,4,5,5,5,4,5,4,5,4,4,4,5,4,4,4,4,4,4,4,5,5,5,4,4,4,5,4,5,4,4,4,4,4,3,4,5,5,4,Research,Male,Individual Contributor,Minority,Senior Professional,0,West,Meets,M0014,Manager 15,0,0
+R0366,3,4,5,3,5,4,3,4,5,3,5,5,5,4,3,3,2,2,1,2,1,1,2,2,1,2,1,2,2,1,1,2,1,1,1,1,2,2,Communications,Male,Manager,Non-Minority,Manager,1,Remote,Meets,M0025,Manager 8,0,0
+R0367,1,2,3,2,4,5,4,5,4,3,3,4,4,4,2,3,3,3,5,4,5,5,4,4,4,5,3,4,4,4,5,4,4,4,4,4,4,4,Sales,Male,Individual Contributor,Non-Minority,VP,0,West,Meets,M0008,Manager 23,1,1
+R0368,4,5,5,3,4,3,4,3,5,4,5,5,4,4,5,5,5,4,3,2,5,4,3,3,3,4,3,4,5,4,3,4,3,5,5,4,3,3,Communications,Male,Individual Contributor,Minority,Manager,0,West,Meets,M0042,Manager 46,0,2
+R0369,3,4,3,3,3,3,2,2,3,4,3,3,3,5,3,3,2,3,4,5,4,4,5,3,5,4,4,4,4,5,5,3,5,4,4,5,4,5,Communications,Male,Individual Contributor,Minority,Director,0,West,Exceeds,M0001,Manager 24,0,0
+R0370,2,3,3,3,3,3,3,2,5,5,4,4,5,4,5,5,5,5,3,3,3,3,3,3,3,4,3,3,3,2,4,2,4,3,3,4,5,3,Communications,Male,Individual Contributor,Non-Minority,Professional,0,Remote,Exceeds,M0019,Manager 18,0,1
+R0371,4,4,3,4,4,3,4,2,4,4,5,4,4,5,4,4,4,4,1,3,3,3,2,2,1,2,2,3,2,2,1,2,2,2,2,2,2,2,Research,Female,Individual Contributor,Minority,Senior Professional,0,Midwest,Meets,M0027,Manager 44,0,2
+R0372,5,3,4,4,4,4,5,4,4,4,4,4,5,3,3,3,4,5,5,4,5,5,5,5,5,5,5,5,5,4,5,5,5,5,5,5,4,5,Sales,Female,Individual Contributor,Non-Minority,Entry,0,West,Meets,M0003,Manager 1,0,0
+R0373,5,4,5,5,2,2,2,2,3,3,2,2,3,4,3,3,3,3,4,4,4,5,5,5,5,3,5,5,5,3,5,4,3,4,4,4,4,4,Finance,Female,Individual Contributor,Non-Minority,Professional,0,Midwest,Meets,M0034,Manager 48,0,2
+R0374,4,5,5,5,5,5,5,4,4,4,3,5,5,3,3,2,1,2,3,5,3,2,3,4,3,3,4,3,4,3,4,3,4,3,4,4,3,4,IT,Male,Senior Leader,Non-Minority,Senior Professional,1,Midwest,Exceeds,M0011,Manager 37,0,0
+R0375,5,5,5,5,5,4,4,5,5,5,5,5,5,5,3,3,3,4,3,4,4,4,5,4,4,3,3,4,2,4,2,4,3,4,3,2,4,4,Legal,Female,Manager,Non-Minority,Professional,1,Remote,Meets,M0026,Manager 13,0,1
+R0376,4,3,4,3,4,4,4,4,5,3,3,4,3,4,3,3,4,2,3,3,3,3,2,2,3,3,3,3,3,3,2,2,3,2,3,4,3,3,IT,Male,Individual Contributor,Non-Minority,Director,0,West,Exceeds,M0004,Manager 37,1,3
+R0377,5,5,4,5,4,4,4,5,3,4,4,4,4,5,4,4,4,4,5,5,5,4,4,4,5,5,5,5,4,4,4,5,5,4,4,4,5,5,Legal,Male,Individual Contributor,Non-Minority,Professional,0,West,Below,M0047,Manager 12,0,0
+R0378,4,5,4,5,4,4,3,4,5,4,4,4,4,3,4,4,4,3,3,4,4,4,4,3,4,4,5,4,4,5,4,4,4,5,4,4,4,4,Legal,Male,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0011,Manager 28,0,0
+R0379,5,5,4,4,3,3,3,3,3,2,2,2,3,2,4,3,3,3,3,3,3,3,3,4,4,4,5,3,4,4,3,3,4,4,4,3,3,4,Sales,Female,Individual Contributor,Minority,Entry,0,Southeast,Exceeds,M0033,Manager 8,0,0
+R0380,3,3,3,3,3,3,4,2,4,3,4,4,3,3,3,2,3,2,2,3,3,3,4,3,3,3,2,2,3,3,4,3,2,3,3,3,2,2,Research,Female,Individual Contributor,Minority,Senior Manager,0,West,Exceeds,M0049,Manager 41,0,1
+R0381,3,2,3,3,5,4,5,5,3,4,3,4,3,3,4,4,3,4,3,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,Engineering,Female,Manager,Minority,VP,1,Remote,Below,M0011,Manager 21,0,0
+R0382,3,3,4,4,4,3,4,4,2,3,4,3,2,3,4,5,5,4,2,3,1,3,3,2,3,2,1,3,2,2,3,2,2,3,3,2,2,2,Sales,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0002,Manager 28,1,0
+R0383,2,3,3,4,4,4,4,4,2,2,2,2,2,2,3,4,4,4,4,3,4,4,5,4,4,4,5,4,5,5,5,5,5,5,4,5,5,4,Finance,Female,Individual Contributor,Non-Minority,Director,0,Remote,Exceeds,M0010,Manager 2,0,0
+R0384,3,3,3,3,2,2,2,3,4,4,3,4,3,4,3,3,3,3,4,4,3,3,3,4,4,4,3,4,3,3,3,4,4,4,3,4,4,3,IT,Female,Individual Contributor,Non-Minority,Director,0,Remote,Exceeds,M0006,Manager 37,0,3
+R0385,3,4,3,3,5,4,5,4,2,2,2,1,2,2,4,4,4,4,2,2,2,2,2,2,2,2,2,2,1,1,2,3,1,1,2,1,1,2,Legal,Male,Individual Contributor,Non-Minority,Entry,0,Southeast,Meets,M0030,Manager 41,1,1
+R0386,5,5,4,5,4,4,4,4,5,5,5,5,5,5,4,4,3,5,5,5,5,4,4,5,4,4,4,4,5,5,4,4,5,5,5,4,4,5,Research,Female,Individual Contributor,Minority,VP,0,Midwest,Meets,M0012,Manager 16,0,0
+R0387,4,5,4,4,2,3,3,3,4,5,5,4,4,5,4,4,3,3,2,2,1,3,2,2,2,2,2,2,2,1,1,2,1,1,3,2,2,3,Research,Female,Manager,Non-Minority,Professional,1,Midwest,Below,M0013,Manager 35,0,0
+R0388,3,2,3,3,4,4,3,4,2,2,1,2,1,2,5,5,5,5,4,4,4,4,5,4,4,3,3,4,3,3,4,3,4,4,5,4,4,4,Risk Management,Male,Individual Contributor,Non-Minority,Professional,0,West,Below,M0050,Manager 17,1,1
+R0389,3,4,4,4,3,3,3,3,4,5,5,5,5,5,5,5,5,5,3,2,4,3,2,3,3,1,2,3,1,3,3,2,3,3,2,3,3,2,Research,Female,Manager,Non-Minority,Entry,1,Midwest,Meets,M0006,Manager 10,0,0
+R0390,4,3,4,4,5,5,5,4,4,4,4,3,4,2,3,4,3,4,3,3,4,4,4,4,5,5,4,3,3,4,4,4,4,3,4,5,3,4,Research,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Exceeds,M0007,Manager 8,0,1
+R0391,4,4,4,4,2,2,3,2,3,4,3,4,4,3,2,3,3,2,2,2,2,3,2,2,1,3,3,3,3,2,2,3,2,3,3,3,2,2,Product,Male,Individual Contributor,Non-Minority,Senior Manager,0,Northeast,Meets,M0007,Manager 10,0,0
+R0392,5,5,4,4,5,4,4,5,3,3,3,4,3,3,3,4,4,3,4,5,4,5,5,5,5,5,4,5,5,5,5,5,5,4,5,5,5,4,Engineering,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0006,Manager 5,0,0
+R0393,3,3,3,3,2,2,2,3,4,4,4,3,3,4,2,3,3,3,1,2,2,1,1,2,2,2,2,1,1,2,1,1,2,2,2,1,2,2,Product,Male,Individual Contributor,Non-Minority,VP,0,Midwest,Exceeds,M0014,Manager 26,0,0
+R0394,2,3,4,3,5,5,5,5,4,4,4,5,4,4,3,4,3,2,2,2,1,2,2,2,2,2,4,1,3,2,2,2,1,2,2,1,2,1,Human Resources,Female,Individual Contributor,Non-Minority,Manager,0,Northeast,Meets,M0027,Manager 5,0,1
+R0395,4,4,3,4,4,4,4,4,4,4,4,5,4,4,2,3,3,3,3,2,2,2,2,3,3,1,3,3,1,2,1,1,2,2,2,4,2,2,Product,Male,Individual Contributor,Non-Minority,Director,0,Northeast,Meets,M0014,Manager 44,0,2
+R0396,4,4,4,4,3,3,3,2,2,3,2,2,3,4,3,3,2,4,3,3,3,4,4,4,3,4,3,4,4,4,4,4,2,4,4,3,3,5,Legal,Male,Manager,Non-Minority,Manager,1,Midwest,Meets,M0041,Manager 29,0,2
+R0397,4,4,3,4,4,5,5,4,4,4,5,5,5,5,4,4,4,4,3,4,4,3,2,3,2,3,3,3,4,4,4,4,4,2,3,2,4,2,Communications,Female,Individual Contributor,Non-Minority,Professional,0,Southeast,Meets,M0020,Manager 1,0,1
+R0398,3,3,3,3,3,4,3,3,4,4,4,4,4,3,3,3,3,3,3,3,4,3,4,3,3,3,3,4,4,3,3,3,4,4,3,4,4,2,Marketing,Female,Individual Contributor,Minority,Director,0,Remote,Meets,M0041,Manager 39,0,0
+R0399,4,5,4,4,3,3,4,4,5,3,4,4,4,4,3,5,4,3,3,4,4,5,3,4,3,4,4,5,3,5,3,3,3,4,3,3,4,4,Risk Management,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Meets,M0022,Manager 23,0,1
+R0400,3,3,4,4,4,4,4,4,3,3,3,3,4,3,4,3,4,3,4,4,4,4,4,3,5,4,4,4,4,3,3,4,4,5,4,4,4,4,Product,Female,Senior Leader,Minority,Senior Manager,1,Remote,Below,M0035,Manager 1,0,2
+R0401,4,4,5,4,3,3,3,3,5,5,5,5,5,5,3,4,4,4,4,4,3,5,4,3,5,3,2,4,4,4,3,4,3,3,4,3,4,4,Marketing,Male,Manager,Non-Minority,Senior Manager,1,Midwest,Meets,M0008,Manager 13,0,2
+R0402,4,3,4,3,2,2,2,3,4,4,4,4,4,4,4,4,4,5,3,4,3,3,4,4,4,5,3,4,3,3,4,3,4,3,4,3,3,4,IT,Female,Individual Contributor,Minority,Entry,0,Remote,Exceeds,M0002,Manager 34,0,0
+R0403,3,4,3,4,4,4,4,2,4,3,3,3,4,3,4,4,3,4,2,3,2,3,3,3,3,2,3,3,3,2,2,4,3,2,2,2,2,3,Customer Service,Male,Manager,Non-Minority,VP,1,Southeast,Exceeds,M0014,Manager 24,1,1
+R0404,4,5,5,5,4,5,4,5,5,5,4,4,4,5,3,3,3,4,3,3,3,3,3,3,4,3,3,3,4,4,4,3,3,3,3,4,3,4,Human Resources,Female,Manager,Minority,Professional,1,Northeast,Below,M0021,Manager 9,1,1
+R0405,3,4,3,4,3,3,3,3,5,5,5,5,5,4,3,4,4,4,4,3,3,3,3,3,4,4,4,4,3,3,4,2,3,3,4,4,3,4,Sales,Female,Individual Contributor,Non-Minority,Entry,0,Southeast,Meets,M0018,Manager 18,1,0
+R0406,3,4,4,3,4,4,3,3,3,3,2,3,2,3,2,2,2,1,3,4,3,4,4,4,2,3,4,4,4,3,3,3,3,4,4,3,4,3,Product,Male,Individual Contributor,Non-Minority,Professional,0,Northeast,Exceeds,M0023,Manager 46,0,0
+R0407,4,4,4,3,2,2,2,2,3,3,4,4,5,4,3,3,3,3,4,5,3,3,5,3,4,4,4,4,4,3,3,4,2,4,4,4,3,3,Customer Service,Male,Senior Leader,Non-Minority,Director,1,Midwest,Meets,M0030,Manager 48,0,2
+R0408,4,2,3,4,3,2,4,3,4,4,4,5,4,4,4,4,4,4,3,4,4,2,3,3,3,3,3,3,3,3,3,3,4,3,2,3,3,2,Communications,Male,Manager,Non-Minority,Manager,1,West,Meets,M0033,Manager 26,0,0
+R0409,3,2,3,4,5,5,5,5,3,5,3,3,4,3,3,3,4,3,2,3,2,3,3,3,2,2,3,2,2,2,1,2,2,2,3,2,2,2,Sales,Female,Manager,Non-Minority,Senior Professional,1,Southeast,Exceeds,M0013,Manager 44,1,3
+R0410,4,3,4,4,4,4,4,4,3,3,4,3,4,3,4,4,4,4,3,3,3,2,2,2,3,2,2,2,2,2,3,2,3,2,3,2,2,2,Risk Management,Male,Individual Contributor,Non-Minority,Director,0,Midwest,Meets,M0026,Manager 7,0,3
+R0411,4,3,4,4,4,4,4,3,4,3,3,4,3,3,5,4,4,4,3,3,4,3,4,4,4,3,4,3,4,4,4,3,5,3,4,3,4,4,IT,Male,Individual Contributor,Non-Minority,VP,0,Remote,Exceeds,M0020,Manager 11,0,1
+R0412,4,4,2,4,2,2,4,3,4,3,4,2,4,3,3,4,4,4,2,3,4,3,4,3,3,4,3,4,4,3,3,3,4,4,4,3,4,3,Communications,Male,Individual Contributor,Non-Minority,Professional,0,West,Meets,M0028,Manager 29,1,0
+R0413,3,3,3,3,4,3,4,3,4,5,4,3,3,5,2,2,3,2,4,4,3,4,4,4,3,3,2,4,3,4,4,4,4,3,4,4,4,3,Legal,Male,Manager,Minority,Senior Manager,1,Midwest,Exceeds,M0021,Manager 40,1,0
+R0414,4,4,4,4,2,2,2,2,3,3,3,3,3,3,3,2,4,3,4,2,3,3,2,4,4,5,3,3,4,3,3,2,4,3,3,3,3,3,Human Resources,Male,Individual Contributor,Non-Minority,Senior Manager,0,West,Meets,M0028,Manager 13,0,2
+R0415,4,3,4,4,5,4,5,5,4,3,4,4,5,3,3,3,2,3,3,2,2,3,2,2,3,4,3,3,2,2,3,2,3,2,2,3,2,2,IT,Male,Individual Contributor,Minority,Senior Professional,0,Midwest,Meets,M0041,Manager 5,0,0
+R0416,5,5,5,5,2,4,2,3,4,5,5,5,5,4,3,4,3,3,5,4,4,4,5,4,4,3,5,4,4,4,4,5,3,4,5,5,4,5,Product,Male,Manager,Non-Minority,Professional,1,Northeast,Meets,M0033,Manager 17,0,1
+R0417,4,3,4,3,3,4,3,3,3,3,2,2,2,2,3,4,3,3,5,4,5,5,5,5,4,5,5,5,5,5,5,5,5,5,4,5,5,5,IT,Female,Individual Contributor,Non-Minority,Manager,0,Midwest,Below,M0039,Manager 42,0,3
+R0418,4,3,4,2,2,3,3,2,4,3,3,3,3,4,5,5,5,5,4,4,3,4,3,5,4,4,4,3,3,3,5,3,3,3,4,3,3,4,Customer Service,Male,Individual Contributor,Minority,Senior Professional,0,West,Meets,M0002,Manager 8,1,0
+R0419,5,5,4,5,3,3,4,2,1,1,2,1,1,1,4,4,4,4,4,5,5,4,5,5,4,4,5,4,4,4,4,5,5,4,5,5,3,4,Marketing,Female,Manager,Minority,VP,1,Midwest,Exceeds,M0028,Manager 12,0,1
+R0420,4,5,4,3,3,3,3,3,5,5,5,5,5,5,5,4,4,5,4,4,5,5,5,5,5,4,5,4,5,4,4,5,4,5,4,5,5,4,Operations,Male,Individual Contributor,Non-Minority,Professional,0,Northeast,Meets,M0014,Manager 43,0,2
+R0421,4,5,5,4,3,4,5,3,5,5,4,4,4,4,3,3,4,4,2,2,2,2,2,2,2,4,2,3,3,2,2,2,1,1,2,2,3,2,Operations,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Exceeds,M0050,Manager 21,0,0
+R0422,5,5,5,5,5,4,5,4,4,4,5,4,5,4,2,3,2,3,4,4,4,5,4,4,5,5,3,4,3,3,4,4,5,4,4,4,3,4,Human Resources,Female,Manager,Non-Minority,Entry,1,Midwest,Meets,M0045,Manager 1,0,0
+R0423,4,4,4,4,4,4,4,4,4,4,4,3,3,4,4,3,4,3,5,3,5,5,4,5,5,5,5,4,5,4,5,5,5,4,5,4,5,4,Supply Chain,Male,Individual Contributor,Non-Minority,Senior Professional,0,Southeast,Meets,M0030,Manager 37,0,0
+R0424,5,5,5,5,3,3,2,3,4,3,4,4,3,3,4,4,4,4,3,4,4,5,4,4,3,3,3,5,4,4,4,4,4,5,4,3,5,3,Communications,Male,Individual Contributor,Minority,Senior Professional,0,Southeast,Meets,M0036,Manager 5,0,0
+R0425,3,3,4,3,4,4,4,3,5,4,4,4,3,4,4,3,4,4,3,4,3,4,3,3,4,3,2,2,4,3,4,3,3,5,3,4,4,3,Legal,Male,Individual Contributor,Non-Minority,Senior Professional,0,Remote,Meets,M0014,Manager 34,0,0
+R0426,5,3,3,5,2,3,2,2,5,5,5,5,5,4,3,3,2,3,2,1,1,1,1,1,1,1,1,1,1,1,1,1,2,1,1,1,1,2,Sales,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Meets,M0018,Manager 46,0,0
+R0427,3,3,3,2,5,5,5,5,3,2,5,4,3,3,2,3,3,3,2,4,3,3,3,2,2,3,3,2,3,3,3,3,2,4,2,4,3,3,IT,Male,Individual Contributor,Non-Minority,VP,0,Northeast,Meets,M0037,Manager 42,1,1
+R0428,3,4,4,4,5,5,4,4,3,3,3,3,4,2,4,3,4,4,2,3,3,3,3,3,2,4,3,3,2,1,2,2,4,3,3,2,3,2,Legal,Male,Manager,Non-Minority,Director,1,West,Meets,M0021,Manager 21,0,0
+R0429,4,3,5,4,3,3,4,4,2,3,2,3,2,3,4,3,4,4,4,4,4,3,3,4,4,4,3,4,4,3,4,3,3,4,4,5,4,4,Sales,Male,Individual Contributor,Minority,Professional,0,Northeast,Meets,M0032,Manager 32,0,0
+R0430,3,3,2,4,2,2,3,3,4,4,5,3,4,4,4,5,4,5,4,5,5,4,3,4,3,3,4,4,3,4,4,4,3,4,4,3,4,4,Finance,Male,Senior Leader,Non-Minority,Senior Professional,1,West,Meets,M0008,Manager 8,0,2
+R0431,5,5,5,5,4,4,4,4,5,5,5,5,5,5,4,3,4,4,3,4,5,3,3,5,4,4,3,4,5,3,3,3,4,4,4,4,5,3,Product,Male,Manager,Non-Minority,Professional,1,Remote,Exceeds,M0021,Manager 38,0,1
+R0432,2,3,3,3,3,2,2,3,4,4,5,3,3,4,2,3,2,2,4,5,3,4,4,3,4,5,4,4,4,4,5,5,4,4,3,3,4,4,Legal,Male,Individual Contributor,Non-Minority,Professional,0,Remote,Meets,M0002,Manager 19,1,1
+R0433,2,3,3,3,4,4,4,3,4,3,4,4,4,3,4,4,4,3,3,3,3,3,3,4,3,4,3,3,3,3,4,4,4,3,3,4,2,3,Finance,Female,Individual Contributor,Non-Minority,Director,0,Remote,Below,M0001,Manager 30,0,1
+R0434,3,3,3,3,3,2,3,2,4,3,4,4,4,4,4,3,4,3,4,4,3,4,4,5,4,3,3,2,3,3,4,3,3,4,4,2,4,3,Engineering,Female,Individual Contributor,Non-Minority,Professional,0,West,Meets,M0003,Manager 35,0,0
+R0435,4,4,4,4,4,5,5,4,3,4,3,4,3,4,4,3,4,4,3,3,2,3,3,3,3,4,2,3,2,4,3,4,2,2,3,3,2,3,Customer Service,Male,Individual Contributor,Minority,Entry,0,Midwest,Exceeds,M0042,Manager 2,0,1
+R0436,3,3,4,4,3,4,3,3,4,3,5,4,5,5,3,3,2,2,4,3,3,3,4,4,3,4,3,3,3,3,4,3,3,3,3,3,3,4,Human Resources,Male,Individual Contributor,Minority,Manager,0,Northeast,Exceeds,M0027,Manager 47,1,0
+R0437,5,4,5,5,4,3,3,3,5,5,5,5,5,5,4,5,5,5,4,4,3,3,3,4,3,3,3,4,3,4,3,4,2,4,3,3,4,4,Engineering,Female,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Exceeds,M0049,Manager 23,0,3
+R0438,3,4,5,4,4,5,4,5,4,4,4,4,3,4,4,4,4,3,4,4,3,3,4,3,3,3,2,2,2,2,4,2,3,4,3,3,3,3,Legal,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Exceeds,M0050,Manager 21,0,1
+R0439,4,4,4,4,4,3,4,4,4,4,3,4,4,4,4,5,5,5,5,5,4,5,5,4,5,4,5,5,4,5,5,5,4,5,5,5,5,5,Product,Male,Individual Contributor,Non-Minority,Senior Manager,0,Northeast,Meets,M0026,Manager 20,0,3
+R0440,2,2,3,3,3,4,3,4,4,3,2,3,3,3,4,3,4,3,2,3,3,2,2,3,3,2,4,3,3,3,3,2,2,3,3,2,1,2,Supply Chain,Male,Individual Contributor,Minority,Manager,0,West,Meets,M0042,Manager 8,1,1
+R0441,5,4,5,4,5,5,5,5,5,4,5,4,5,4,4,3,4,3,2,3,2,2,3,4,3,3,3,2,3,3,2,2,2,3,2,2,3,3,Risk Management,Male,Manager,Non-Minority,Senior Professional,1,Remote,Exceeds,M0007,Manager 2,0,0
+R0442,4,5,3,4,5,5,4,5,3,4,4,4,4,4,4,4,4,3,2,2,2,1,2,1,2,3,2,3,1,2,1,2,3,2,3,3,3,1,Sales,Female,Manager,Minority,Entry,1,Northeast,Meets,M0009,Manager 7,0,3
+R0443,2,2,2,3,3,3,3,2,2,2,2,2,2,2,3,3,3,3,5,4,3,3,5,4,4,5,4,4,3,4,4,4,3,5,4,4,4,4,Operations,Female,Individual Contributor,Non-Minority,VP,0,West,Meets,M0015,Manager 11,0,3
+R0444,4,3,3,2,3,4,3,4,3,3,4,4,3,3,5,4,4,4,5,3,4,3,3,3,3,4,4,5,3,3,4,4,4,3,5,4,3,4,Human Resources,Female,Individual Contributor,Minority,Professional,0,Midwest,Meets,M0035,Manager 1,0,1
+R0445,1,2,1,2,2,2,3,2,4,4,4,4,3,3,3,3,2,3,3,5,5,5,5,4,4,3,5,4,4,4,3,3,4,4,4,5,4,4,Supply Chain,Female,Individual Contributor,Minority,VP,0,Northeast,Exceeds,M0017,Manager 3,1,3
+R0446,4,5,5,4,5,4,5,4,4,3,3,4,3,3,4,4,4,3,4,2,3,3,4,4,3,3,4,3,3,2,4,3,2,4,4,4,3,3,Human Resources,Female,Individual Contributor,Non-Minority,Entry,0,Midwest,Meets,M0005,Manager 17,0,1
+R0447,5,5,4,4,3,2,3,3,5,5,4,5,5,5,5,4,5,4,3,4,3,4,3,4,3,2,3,2,2,3,3,3,3,2,4,3,2,3,Operations,Male,Individual Contributor,Minority,Director,0,Remote,Meets,M0025,Manager 18,0,1
+R0448,3,3,2,2,5,4,4,4,2,2,1,1,2,2,3,3,2,3,4,4,5,5,4,4,4,3,3,4,3,4,4,3,3,4,3,3,4,4,Supply Chain,Male,Individual Contributor,Minority,Professional,0,Southeast,Exceeds,M0038,Manager 30,1,0
+R0449,3,4,3,4,3,3,3,4,5,4,5,3,5,5,4,3,4,4,4,4,3,3,3,4,3,4,3,3,4,4,2,2,3,5,3,3,3,4,Human Resources,Female,Individual Contributor,Non-Minority,Professional,0,Midwest,Meets,M0010,Manager 49,0,1
+R0450,4,4,4,5,4,2,3,3,3,3,3,3,4,3,3,5,3,4,4,4,4,3,4,3,3,5,3,3,3,5,3,3,3,4,4,4,5,3,IT,Male,Individual Contributor,Non-Minority,VP,0,West,Meets,M0041,Manager 29,1,0
+R0451,2,4,4,3,4,5,5,4,3,3,3,3,4,3,3,4,4,4,3,3,4,3,3,3,3,3,4,4,3,3,3,4,3,4,4,3,3,4,Research,Female,Individual Contributor,Minority,Entry,0,Remote,Meets,M0034,Manager 16,1,0
+R0452,3,4,4,4,3,3,4,4,4,4,3,4,4,5,4,5,4,4,5,5,4,3,3,4,3,4,4,3,4,4,3,4,4,5,5,4,4,4,IT,Female,Individual Contributor,Non-Minority,Manager,0,West,Meets,M0018,Manager 21,0,1
+R0453,1,1,1,1,3,4,4,3,2,3,3,2,3,2,4,4,3,3,4,4,4,4,3,5,3,2,3,3,4,3,4,4,3,3,3,3,3,3,Communications,Male,Individual Contributor,Minority,Director,0,West,Exceeds,M0015,Manager 6,0,0
+R0454,4,4,4,4,4,3,5,4,5,4,5,5,5,3,1,2,2,1,2,3,1,2,4,4,3,3,2,2,3,2,3,4,2,3,3,2,2,2,Engineering,Female,Individual Contributor,Minority,VP,0,Midwest,Exceeds,M0046,Manager 6,0,0
+R0455,3,3,3,3,4,5,4,4,3,4,3,3,3,3,4,4,3,5,2,2,2,3,4,2,2,2,1,1,2,1,3,3,2,3,2,2,1,3,Operations,Male,Individual Contributor,Minority,Senior Manager,0,Southeast,Below,M0043,Manager 42,1,1
+R0456,4,3,3,3,5,5,5,5,4,4,4,3,3,4,4,5,3,4,3,3,3,3,2,2,3,3,3,2,2,3,2,3,3,2,2,2,3,3,Supply Chain,Female,Individual Contributor,Minority,VP,0,Southeast,Meets,M0045,Manager 5,0,0
+R0457,3,3,3,4,2,1,2,2,4,4,5,4,5,5,4,3,4,4,3,2,2,3,2,3,2,3,2,2,3,3,3,3,3,2,2,2,2,3,Human Resources,Male,Individual Contributor,Non-Minority,Manager,0,Northeast,Meets,M0014,Manager 1,0,0
+R0458,4,4,4,4,4,5,5,4,3,3,2,2,2,2,4,3,4,4,4,4,4,4,3,5,4,3,4,3,5,4,4,4,3,5,4,5,4,5,Research,Female,Individual Contributor,Non-Minority,Professional,0,West,Below,M0025,Manager 13,0,0
+R0459,3,4,4,4,4,4,4,4,2,3,3,4,3,3,4,4,3,3,4,5,4,5,4,4,5,4,4,3,4,4,4,5,4,5,4,4,5,3,Product,Female,Individual Contributor,Minority,Entry,0,Midwest,Exceeds,M0014,Manager 38,0,0
+R0460,3,4,3,3,3,3,3,3,5,4,5,5,5,4,3,3,3,3,4,4,3,4,4,3,4,2,2,3,2,4,3,4,3,2,3,3,3,3,Communications,Female,Manager,Non-Minority,Senior Manager,1,Remote,Meets,M0021,Manager 49,0,0
+R0461,3,4,5,3,5,5,5,5,4,5,4,4,4,5,3,4,3,3,3,4,4,5,3,3,3,4,3,4,4,4,4,5,5,4,4,5,3,4,Engineering,Male,Individual Contributor,Minority,Director,0,West,Meets,M0042,Manager 10,0,0
+R0462,4,3,3,3,4,5,4,5,3,3,3,2,2,3,5,5,5,5,2,3,2,1,2,2,3,2,2,3,1,2,3,2,3,2,3,2,2,1,Risk Management,Female,Individual Contributor,Minority,Senior Manager,0,Northeast,Meets,M0009,Manager 15,0,1
+R0463,4,4,4,5,4,4,5,5,3,2,2,3,3,3,3,2,3,2,2,1,3,3,3,1,3,2,3,3,3,2,3,2,2,2,4,3,3,2,Operations,Male,Individual Contributor,Non-Minority,Manager,0,West,Below,M0040,Manager 33,0,1
+R0464,4,4,5,5,3,3,4,3,4,5,5,3,4,5,5,5,4,5,2,2,3,4,3,3,4,3,3,4,3,2,3,2,3,2,3,3,3,3,Sales,Male,Manager,Non-Minority,VP,1,West,Meets,M0013,Manager 5,0,0
+R0465,4,4,5,4,4,4,4,4,2,4,3,3,3,3,4,5,3,4,3,2,3,2,4,2,1,2,3,3,3,3,2,2,2,4,3,4,3,3,Engineering,Female,Senior Leader,Minority,Manager,1,Southeast,Meets,M0044,Manager 20,0,3
+R0466,3,3,3,3,2,2,2,1,4,5,5,4,4,5,3,3,4,4,3,2,2,3,1,3,1,3,2,3,3,2,2,2,2,2,1,2,1,2,Risk Management,Male,Manager,Minority,Senior Manager,1,Northeast,Meets,M0010,Manager 30,1,0
+R0467,5,4,4,3,4,4,4,4,3,3,4,3,3,4,3,4,4,3,4,3,3,4,4,2,4,4,3,4,4,3,3,4,4,4,3,4,3,3,Human Resources,Female,Individual Contributor,Non-Minority,Director,0,Northeast,Meets,M0016,Manager 2,0,0
+R0468,4,3,3,4,5,4,5,5,4,5,5,4,4,3,5,4,4,4,5,4,5,5,5,4,4,5,5,4,5,5,5,4,5,4,4,5,4,5,Product,Female,Individual Contributor,Non-Minority,Professional,0,Midwest,Meets,M0002,Manager 31,0,1
+R0469,5,4,3,4,3,2,3,1,3,4,4,4,4,3,5,5,4,5,3,3,3,2,3,3,4,2,2,3,3,5,3,3,3,2,3,3,3,3,Research,Male,Individual Contributor,Non-Minority,Senior Manager,0,West,Exceeds,M0023,Manager 17,1,2
+R0470,4,3,4,4,5,4,5,5,5,5,5,5,5,5,2,1,2,2,4,3,4,3,4,3,3,3,3,4,3,3,4,3,3,3,4,4,4,3,Human Resources,Female,Individual Contributor,Minority,Senior Manager,0,Northeast,Meets,M0023,Manager 28,0,3
+R0471,5,5,5,5,3,3,3,4,4,4,3,3,4,4,2,3,2,1,3,1,4,2,2,2,2,2,2,3,3,2,3,3,2,3,2,2,2,1,Sales,Female,Manager,Non-Minority,Professional,1,West,Meets,M0033,Manager 28,0,0
+R0472,3,3,3,4,5,5,5,5,3,3,2,2,3,3,4,4,4,4,2,3,2,3,4,3,3,2,4,3,2,2,3,4,2,2,3,1,3,3,Customer Service,Male,Individual Contributor,Non-Minority,Senior Professional,0,Northeast,Meets,M0029,Manager 18,0,0
+R0473,3,3,3,4,5,5,4,4,4,4,4,4,4,4,3,3,2,4,2,3,2,3,2,4,3,3,3,3,3,4,3,2,1,4,3,3,4,2,Operations,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Exceeds,M0042,Manager 25,0,0
+R0474,4,3,3,3,2,3,2,3,4,4,5,5,5,4,3,3,3,3,3,3,3,3,3,2,3,2,3,3,1,3,2,3,3,3,3,3,3,4,Supply Chain,Male,Individual Contributor,Minority,Manager,0,Southeast,Meets,M0019,Manager 13,0,0
+R0475,4,5,4,5,2,1,2,2,5,5,5,4,5,5,3,2,2,3,4,4,4,4,4,5,4,3,4,3,5,5,4,4,3,5,5,5,5,3,Legal,Female,Individual Contributor,Minority,Professional,0,Remote,Meets,M0018,Manager 34,0,1
+R0476,5,3,4,5,5,4,5,5,3,3,4,4,5,3,5,5,4,4,3,3,3,4,4,2,3,4,3,3,2,4,2,2,4,4,3,3,4,4,IT,Male,Senior Leader,Minority,Manager,1,Remote,Exceeds,M0028,Manager 7,0,0
+R0477,4,4,4,3,4,3,3,3,3,2,2,3,2,3,2,2,2,4,4,4,5,4,5,5,5,4,4,4,3,4,3,4,5,5,4,4,3,4,Research,Male,Individual Contributor,Non-Minority,Entry,0,Southeast,Meets,M0008,Manager 15,0,1
+R0478,4,5,4,5,3,3,3,4,4,4,5,5,4,5,2,3,4,3,3,3,3,4,3,3,3,3,3,3,4,2,3,3,4,3,4,4,4,3,Human Resources,Female,Manager,Non-Minority,Entry,1,Northeast,Meets,M0037,Manager 18,0,1
+R0479,3,3,4,3,2,2,3,4,4,4,4,5,4,5,5,4,5,5,3,4,4,3,4,3,2,4,3,3,2,2,3,4,3,3,3,5,4,3,Sales,Female,Individual Contributor,Minority,Entry,0,Remote,Meets,M0007,Manager 18,0,0
+R0480,4,4,3,3,3,4,3,3,3,4,4,4,4,4,3,3,3,4,3,3,2,3,2,3,2,3,2,3,2,3,3,3,3,3,3,2,2,3,Sales,Female,Individual Contributor,Non-Minority,Senior Manager,0,West,Exceeds,M0026,Manager 26,1,3
+R0481,5,4,5,4,4,3,3,2,3,4,4,3,3,4,2,2,3,2,5,4,5,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,5,5,Human Resources,Male,Individual Contributor,Minority,Professional,0,Midwest,Below,M0032,Manager 14,0,1
+R0482,3,3,3,3,2,1,2,2,5,4,4,4,3,5,5,4,4,5,4,3,4,4,3,3,4,3,2,3,2,4,3,3,4,4,2,2,3,3,Marketing,Female,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0023,Manager 41,0,0
+R0483,3,5,4,4,3,3,4,4,5,4,5,5,4,5,4,4,5,4,3,4,4,3,3,3,3,2,3,3,3,3,3,2,3,3,2,3,3,4,Engineering,Female,Individual Contributor,Non-Minority,Director,0,Remote,Meets,M0019,Manager 47,0,0
+R0484,4,3,3,4,3,4,3,3,1,1,1,1,2,1,5,4,5,5,3,5,5,4,4,4,4,4,3,3,3,5,4,3,4,3,4,4,4,3,Finance,Female,Individual Contributor,Non-Minority,Entry,0,Southeast,Exceeds,M0033,Manager 45,0,0
+R0485,4,4,4,4,3,4,4,3,4,5,4,3,4,3,4,4,3,4,5,5,5,4,5,4,4,5,5,5,4,5,5,5,4,5,5,5,5,5,IT,Male,Individual Contributor,Non-Minority,Manager,0,Midwest,Meets,M0045,Manager 16,0,1
+R0486,2,3,4,4,3,4,4,3,4,4,4,3,3,4,3,3,3,3,2,3,3,3,4,4,3,3,3,3,2,3,3,2,3,3,3,4,2,3,Marketing,Female,Senior Leader,Minority,Senior Professional,1,Northeast,Exceeds,M0011,Manager 12,0,0
+R0487,4,4,4,4,3,3,2,2,2,3,3,3,4,3,2,2,2,1,5,3,4,4,3,5,3,3,3,4,4,2,4,4,3,3,3,3,4,3,Operations,Male,Individual Contributor,Non-Minority,Manager,0,Southeast,Meets,M0001,Manager 43,0,0
+R0488,3,3,4,3,3,4,3,3,4,4,3,4,4,3,4,4,4,4,4,4,5,5,5,4,5,5,4,4,4,4,5,5,4,5,4,3,5,5,Product,Female,Individual Contributor,Non-Minority,Manager,0,Midwest,Meets,M0002,Manager 12,0,1
+R0489,1,1,1,1,4,3,3,4,3,3,2,3,2,3,4,2,4,4,3,2,3,3,2,3,3,2,3,2,2,2,3,2,3,2,2,3,2,3,Engineering,Female,Individual Contributor,Minority,Entry,0,Southeast,Exceeds,M0044,Manager 49,1,0
+R0490,4,4,4,3,3,4,3,4,4,4,5,4,5,4,3,3,3,3,3,4,3,2,3,4,2,3,3,4,3,3,3,3,4,2,3,3,3,3,Risk Management,Female,Individual Contributor,Non-Minority,Entry,0,Remote,Below,M0023,Manager 31,0,0
+R0491,2,3,3,2,2,2,2,2,4,4,5,4,4,4,3,4,4,4,3,3,4,4,5,3,4,4,3,4,4,3,3,3,3,4,4,3,3,4,IT,Female,Individual Contributor,Non-Minority,Entry,0,West,Meets,M0016,Manager 31,1,2
+R0492,4,4,4,3,3,3,4,3,4,4,3,3,4,3,4,5,5,4,3,3,3,4,3,3,4,4,4,3,3,3,4,4,3,3,3,2,3,4,Human Resources,Male,Individual Contributor,Non-Minority,Entry,0,Northeast,Exceeds,M0037,Manager 44,0,0
+R0493,4,4,5,4,5,4,5,4,3,4,2,3,3,5,3,3,4,3,3,4,3,3,4,4,3,3,3,4,3,3,3,4,3,2,3,3,3,3,Engineering,Male,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0034,Manager 33,0,0
+R0494,4,3,4,3,4,5,5,5,5,5,4,4,5,5,4,3,4,4,3,4,5,5,4,3,3,4,3,4,4,4,3,4,3,4,4,5,4,4,Marketing,Male,Individual Contributor,Non-Minority,VP,0,Southeast,Meets,M0050,Manager 7,0,0
+R0495,4,4,4,4,3,3,3,2,3,4,3,3,5,3,4,3,4,3,3,3,4,4,3,4,3,3,4,5,2,3,4,3,4,3,4,5,3,4,Human Resources,Male,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Meets,M0029,Manager 32,0,2
+R0496,5,4,5,4,3,4,3,4,4,3,5,4,4,3,3,5,4,4,2,2,2,3,2,3,1,3,1,3,2,2,2,2,1,2,3,3,1,2,Supply Chain,Female,Manager,Non-Minority,Senior Professional,1,Remote,Exceeds,M0017,Manager 43,0,2
+R0497,5,5,5,5,5,5,5,5,5,4,4,4,4,4,2,2,2,2,4,3,3,3,4,3,4,4,3,3,3,5,4,5,5,2,4,3,4,3,Product,Female,Individual Contributor,Non-Minority,Senior Professional,0,Midwest,Meets,M0030,Manager 1,0,0
+R0498,3,3,3,3,4,4,4,5,5,5,5,5,5,4,4,4,4,4,1,2,2,2,2,3,2,2,2,3,3,2,2,2,2,2,2,1,3,2,Risk Management,Female,Individual Contributor,Minority,Senior Professional,0,Midwest,Meets,M0046,Manager 22,1,0
+R0499,3,3,2,3,2,4,3,2,5,4,5,4,4,4,4,5,5,4,3,1,1,2,3,2,1,1,2,4,3,3,2,2,1,3,2,2,2,2,Customer Service,Male,Individual Contributor,Non-Minority,VP,0,Remote,Meets,M0031,Manager 8,1,1
+R0500,3,4,4,4,5,5,5,5,2,3,3,3,3,3,3,3,3,3,2,3,2,1,1,1,2,2,3,2,3,1,2,2,3,2,3,2,2,2,Engineering,Male,Manager,Minority,Director,1,Remote,Meets,M0047,Manager 41,0,1
