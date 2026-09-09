@@ -83,15 +83,36 @@ def validate_corr_matrix(R: pd.DataFrame, df: pd.DataFrame, cols: list, pairwise
     p = R.shape[0]
     triu = np.triu_indices(p, k=1)
     if (pairwise_n[triu] < 2).any():
-        bad_pairs = [
-            (cols[i], cols[j], int(pairwise_n[i, j]))
-            for i, j in zip(*triu) if pairwise_n[i, j] < 2
+        under_mask = pairwise_n < 2
+        np.fill_diagonal(under_mask, False)
+        n_bad_per_col = under_mask.sum(axis=1)
+        offenders = [
+            (cols[i], int(n_bad_per_col[i]), p - 1)
+            for i in range(p) if n_bad_per_col[i] > 0
         ]
-        raise ValueError(
-            f"Column pair(s) with fewer than 2 overlapping non-missing rows "
-            f"(correlation undefined -> NaN): {bad_pairs[:10]}"
-            f"{' ...' if len(bad_pairs) > 10 else ''}."
+        offenders.sort(key=lambda t: -t[1])
+        fully_disjoint = [c for c, n_bad, n_other in offenders if n_bad == n_other]
+        lines = [f"  {c}: no overlap with {n_bad}/{n_other} other columns"
+                 for c, n_bad, n_other in offenders[:15]]
+        msg = (
+            "Column(s) with fewer than 2 overlapping non-missing rows against "
+            "at least one other column (correlation undefined -> NaN):\n"
+            + "\n".join(lines)
+            + ("\n  ... and more" if len(offenders) > 15 else "")
         )
+        if fully_disjoint:
+            msg += (
+                f"\n\nColumn(s) with ZERO overlap against every other column: "
+                f"{fully_disjoint}. This is not ordinary sparse missingness -- it "
+                f"means these columns' non-missing rows never co-occur with the "
+                f"rest of numerical_cols at all (e.g. an item only administered "
+                f"in one wave/instrument version, with no respondent answering "
+                f"both it and the other items). Pairwise-complete correlation "
+                f"cannot relate this column to anything. Either drop it from "
+                f"numerical_cols, or run the analysis separately on the "
+                f"wave/subset where it actually co-occurs with the rest."
+            )
+        raise ValueError(msg)
 
     if not np.isfinite(R.values).all():
         bad = R.index[~np.isfinite(R.values).all(axis=1)].tolist()
