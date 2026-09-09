@@ -68,6 +68,48 @@ def pairwise_complete_corr(df: pd.DataFrame, cols: list) -> tuple[pd.DataFrame, 
     return R, pairwise_n
 
 
+def validate_corr_matrix(R: pd.DataFrame, df: pd.DataFrame, cols: list, pairwise_n: np.ndarray) -> None:
+    """Fail fast with a diagnosis instead of letting NaN/Inf in R surface later
+    as an opaque `LinAlgError: SVD did not converge` inside FactorAnalyzer/Rotator.
+    """
+    variances = df[cols].var(skipna=True)
+    zero_var = variances[variances.fillna(0) <= 0].index.tolist()
+    if zero_var:
+        raise ValueError(
+            f"Zero-variance (constant, or <2 non-missing values) column(s), "
+            f"undefined correlation: {zero_var}. Drop these from numerical_cols."
+        )
+
+    p = R.shape[0]
+    triu = np.triu_indices(p, k=1)
+    if (pairwise_n[triu] < 2).any():
+        bad_pairs = [
+            (cols[i], cols[j], int(pairwise_n[i, j]))
+            for i, j in zip(*triu) if pairwise_n[i, j] < 2
+        ]
+        raise ValueError(
+            f"Column pair(s) with fewer than 2 overlapping non-missing rows "
+            f"(correlation undefined -> NaN): {bad_pairs[:10]}"
+            f"{' ...' if len(bad_pairs) > 10 else ''}."
+        )
+
+    if not np.isfinite(R.values).all():
+        bad = R.index[~np.isfinite(R.values).all(axis=1)].tolist()
+        raise ValueError(f"Non-finite (NaN/Inf) values in the correlation matrix "
+                          f"involving column(s): {bad}.")
+
+    dup_groups: dict[tuple, list] = {}
+    for c in cols:
+        key = tuple(np.round(R[c].values, 8))
+        dup_groups.setdefault(key, []).append(c)
+    exact_dups = [g for g in dup_groups.values() if len(g) > 1]
+    if exact_dups:
+        print(f"WARNING: column(s) with identical correlation profiles (likely "
+              f"duplicates or perfectly collinear): {exact_dups}. This will make "
+              f"R singular/near-singular -- ML extraction and rotation may still "
+              f"fail or be unstable. Consider dropping duplicates.\n")
+
+
 def kmo_overall(R_vals: np.ndarray) -> float:
     """Overall Kaiser-Meyer-Olkin sampling adequacy, computed from R directly."""
     p = R_vals.shape[0]
@@ -208,6 +250,8 @@ def run_pipeline(df: pd.DataFrame, cols: list, n_factors_override: int | None = 
     triu = np.triu_indices(p, k=1)
     print(f"Pairwise sample sizes range from {pairwise_n[triu].min()} to "
           f"{pairwise_n[triu].max()} across column pairs.\n")
+
+    validate_corr_matrix(R, df, cols, pairwise_n)
 
     kmo = kmo_overall(R_vals)
     kmo_label = ("meritorious+" if kmo >= 0.8 else
